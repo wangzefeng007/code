@@ -1,0 +1,296 @@
+---------------------------------------------------------------
+[ 2020-12-16T10:08:38+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021925s] [吞吐率：45.61req/s] [内存消耗：3,706.29kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-16T10:09:25+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022307s] [吞吐率：44.83req/s] [内存消耗：3,706.37kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-16T11:41:17+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.033308s] [吞吐率：30.02req/s] [内存消耗：3,727.56kb] [文件加载：150]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Newsaveform.php:55]
+---------------------------------------------------------------
+[ 2020-12-16T11:42:00+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.015046s] [吞吐率：66.46req/s] [内存消耗：2,395.69kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ',' or ')'[/data/code/application/api/controller/v1/Newsaveform.php:55]
+---------------------------------------------------------------
+[ 2020-12-16T11:42:37+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.032253s] [吞吐率：31.00req/s] [内存消耗：3,725.71kb] [文件加载：149]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\v1\string()[/data/code/application/api/controller/v1/Newsaveform.php:55]
+---------------------------------------------------------------
+[ 2020-12-16T11:46:44+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/ss
+[运行时间：0.019394s] [吞吐率：51.56req/s] [内存消耗：3,073.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'demo_tao5g' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-16T11:47:34+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/ss
+[运行时间：0.018942s] [吞吐率：52.79req/s] [内存消耗：3,073.72kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'code_tao5g' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-16T11:47:35+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/ss
+[运行时间：0.019027s] [吞吐率：52.56req/s] [内存消耗：3,073.72kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'code_tao5g' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-16T14:33:26+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022272s] [吞吐率：44.90req/s] [内存消耗：3,715.11kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-16T15:06:30+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.036387s] [吞吐率：27.48req/s] [内存消耗：3,738.79kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-16T15:07:21+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.039893s] [吞吐率：25.07req/s] [内存消耗：3,739.30kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-16T15:08:13+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.038823s] [吞吐率：25.76req/s] [内存消耗：3,739.30kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-16T15:33:59+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.030329s] [吞吐率：32.97req/s] [内存消耗：3,739.02kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'form_belong' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-16T15:57:16+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024068s] [吞吐率：41.55req/s] [内存消耗：3,778.48kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:292]
+---------------------------------------------------------------
+[ 2020-12-16T16:10:13+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.032966s] [吞吐率：30.33req/s] [内存消耗：3,730.69kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T16:12:21+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.031770s] [吞吐率：31.48req/s] [内存消耗：3,730.44kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T16:17:47+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024025s] [吞吐率：41.62req/s] [内存消耗：3,778.47kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:299]
+---------------------------------------------------------------
+[ 2020-12-16T16:21:38+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022078s] [吞吐率：45.29req/s] [内存消耗：3,719.88kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-16T16:21:38+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.073398s] [吞吐率：13.62req/s] [内存消耗：3,746.75kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:57]
+---------------------------------------------------------------
+[ 2020-12-16T16:59:47+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024082s] [吞吐率：41.52req/s] [内存消耗：3,778.47kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:300]
+---------------------------------------------------------------
+[ 2020-12-16T16:59:47+08:00 ] 117.30.194.156 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021911s] [吞吐率：45.64req/s] [内存消耗：3,714.71kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-16T17:11:23+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024647s] [吞吐率：40.57req/s] [内存消耗：3,778.41kb] [文件加载：147]
+[ error ] [2]Division by zero[/data/code/application/api/controller/v1/Excle.php:318]
+---------------------------------------------------------------
+[ 2020-12-16T17:24:50+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.026255s] [吞吐率：38.09req/s] [内存消耗：3,762.43kb] [文件加载：147]
+[ error ] [8]未定义数组下标: 2[/data/code/application/api/controller/v1/Excle.php:109]
+---------------------------------------------------------------
+[ 2020-12-16T17:35:10+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023290s] [吞吐率：42.94req/s] [内存消耗：3,756.22kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:289]
+---------------------------------------------------------------
+[ 2020-12-16T17:38:47+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025244s] [吞吐率：39.61req/s] [内存消耗：3,762.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:178]
+---------------------------------------------------------------
+[ 2020-12-16T17:38:52+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.026034s] [吞吐率：38.41req/s] [内存消耗：3,762.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:178]
+---------------------------------------------------------------
+[ 2020-12-16T17:41:23+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025710s] [吞吐率：38.90req/s] [内存消耗：3,762.48kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-16T17:47:32+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.029980s] [吞吐率：33.36req/s] [内存消耗：3,736.81kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_fa_s_form_0_card_1608102702072' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-16T17:48:34+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.028618s] [吞吐率：34.94req/s] [内存消耗：3,743.44kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'input_1608102703481' at row 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-16T17:49:11+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030321s] [吞吐率：32.98req/s] [内存消耗：3,778.48kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-16T17:49:32+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.029755s] [吞吐率：33.61req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-16T17:49:39+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.036252s] [吞吐率：27.58req/s] [内存消耗：3,747.35kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'input_1608102703481' at row 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-16T17:50:26+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030747s] [吞吐率：32.52req/s] [内存消耗：3,778.61kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:181]
+---------------------------------------------------------------
+[ 2020-12-16T17:51:55+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.057001s] [吞吐率：17.54req/s] [内存消耗：3,747.27kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-16T17:52:47+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.060480s] [吞吐率：16.53req/s] [内存消耗：3,747.38kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-16T17:56:13+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.084632s] [吞吐率：11.82req/s] [内存消耗：3,776.41kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608102703481][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T17:57:36+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.083251s] [吞吐率：12.01req/s] [内存消耗：3,776.41kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608102703481][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T17:59:56+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031309s] [吞吐率：31.94req/s] [内存消耗：3,778.61kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:172]
+---------------------------------------------------------------
+[ 2020-12-16T18:00:48+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030506s] [吞吐率：32.78req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:172]
+---------------------------------------------------------------
+[ 2020-12-16T18:01:04+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031448s] [吞吐率：31.80req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:172]
+---------------------------------------------------------------
+[ 2020-12-16T18:01:13+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031001s] [吞吐率：32.26req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:172]
+---------------------------------------------------------------
+[ 2020-12-16T18:04:33+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.086640s] [吞吐率：11.54req/s] [内存消耗：3,776.41kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608102703481][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:11:48+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.079668s] [吞吐率：12.55req/s] [内存消耗：3,743.07kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113493329][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:15:41+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.111253s] [吞吐率：8.99req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:15:57+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.111324s] [吞吐率：8.98req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:16:36+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.113064s] [吞吐率：8.84req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:17:28+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.106500s] [吞吐率：9.39req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:18:32+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030527s] [吞吐率：32.76req/s] [内存消耗：3,778.48kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:177]
+---------------------------------------------------------------
+[ 2020-12-16T18:23:04+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032633s] [吞吐率：30.64req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:164]
+---------------------------------------------------------------
+[ 2020-12-16T18:23:24+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031666s] [吞吐率：31.58req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:164]
+---------------------------------------------------------------
+[ 2020-12-16T18:23:42+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032080s] [吞吐率：31.17req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:164]
+---------------------------------------------------------------
+[ 2020-12-16T18:23:58+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031409s] [吞吐率：31.84req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:176]
+---------------------------------------------------------------
+[ 2020-12-16T18:24:09+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.109896s] [吞吐率：9.10req/s] [内存消耗：3,740.80kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:25:26+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031147s] [吞吐率：32.11req/s] [内存消耗：3,778.42kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:164]
+---------------------------------------------------------------
+[ 2020-12-16T18:25:52+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031044s] [吞吐率：32.21req/s] [内存消耗：3,778.44kb] [文件加载：147]
+[ error ] [8]未定义数组索引: colCount[/data/code/application/api/controller/v1/Excle.php:166]
+---------------------------------------------------------------
+[ 2020-12-16T18:26:31+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.109049s] [吞吐率：9.17req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:28:22+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.109859s] [吞吐率：9.10req/s] [内存消耗：3,741.61kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:29:51+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.108935s] [吞吐率：9.18req/s] [内存消耗：3,741.61kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:30:35+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.106658s] [吞吐率：9.38req/s] [内存消耗：3,741.61kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608113737379][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:30:48+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031317s] [吞吐率：31.93req/s] [内存消耗：3,778.44kb] [文件加载：147]
+[ error ] [8]未定义数组索引: colCount[/data/code/application/api/controller/v1/Excle.php:166]
+---------------------------------------------------------------
+[ 2020-12-16T18:34:42+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.106455s] [吞吐率：9.39req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608114878394][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:37:56+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.065988s] [吞吐率：15.15req/s] [内存消耗：3,732.50kb] [文件加载：149]
+[ error ] [0]method not exist:think\db\Query->save[/data/code/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2020-12-16T18:40:18+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.054787s] [吞吐率：18.25req/s] [内存消耗：3,731.75kb] [文件加载：149]
+[ error ] [0]method not exist:think\db\Query->save[/data/code/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2020-12-16T18:41:55+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.107131s] [吞吐率：9.33req/s] [内存消耗：3,740.30kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608115310829][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:43:21+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.107362s] [吞吐率：9.31req/s] [内存消耗：3,740.80kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608115310829][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:44:08+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.100570s] [吞吐率：9.94req/s] [内存消耗：3,740.80kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608115310829][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T18:44:24+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.112541s] [吞吐率：8.89req/s] [内存消耗：3,740.80kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[input_1608115310829][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-16T19:30:55+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030097s] [吞吐率：33.23req/s] [内存消耗：3,782.95kb] [文件加载：147]
+[ error ] [8]未定义数组索引: $pv[/data/code/application/api/controller/v1/Excle.php:170]
+---------------------------------------------------------------
+[ 2020-12-16T19:31:22+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031413s] [吞吐率：31.83req/s] [内存消耗：3,782.95kb] [文件加载：147]
+[ error ] [8]未定义数组索引: $pv[/data/code/application/api/controller/v1/Excle.php:170]
+---------------------------------------------------------------
+[ 2020-12-16T19:31:41+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030224s] [吞吐率：33.09req/s] [内存消耗：3,782.92kb] [文件加载：147]
+[ error ] [8]未定义数组索引: row[/data/code/application/api/controller/v1/Excle.php:170]
+---------------------------------------------------------------
+[ 2020-12-16T19:32:07+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.030286s] [吞吐率：33.02req/s] [内存消耗：3,782.92kb] [文件加载：147]
+[ error ] [8]未定义数组索引: keys[/data/code/application/api/controller/v1/Excle.php:170]
+---------------------------------------------------------------
+[ 2020-12-16T19:35:13+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014790s] [吞吐率：67.61req/s] [内存消耗：2,413.10kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/data/code/application/api/controller/v1/Excle.php:170]
+---------------------------------------------------------------
+[ 2020-12-16T19:35:24+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033410s] [吞吐率：29.93req/s] [内存消耗：3,783.11kb] [文件加载：147]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:179]
+---------------------------------------------------------------
+[ 2020-12-16T19:43:10+08:00 ] 117.30.194.156 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031378s] [吞吐率：31.87req/s] [内存消耗：3,778.72kb] [文件加载：147]
+[ error ] [8]未定义变量: dat[/data/code/application/api/controller/v1/Excle.php:209]

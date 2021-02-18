@@ -1,0 +1,298 @@
+---------------------------------------------------------------
+[ 2021-02-16T01:28:56+08:00 ] 47.101.162.100 GET api.tao5g.cn/
+[运行时间：0.069967s] [吞吐率：14.29req/s] [内存消耗：2,854.73kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004551s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000553s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004219s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.004149s ]
+[ info ] [ LANG ] /data/code/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/code/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/code/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000387s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T05:52:00+08:00 ] 47.101.187.231 GET api.tao5g.cn/
+[运行时间：0.048824s] [吞吐率：20.48req/s] [内存消耗：2,854.73kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002445s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000310s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001158s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.002620s ]
+[ info ] [ LANG ] /data/code/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/code/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/code/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000313s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:11+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/ddprocess/index
+[运行时间：0.362467s] [吞吐率：2.76req/s] [内存消耗：3,657.19kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000902s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000137s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.ddprocess',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(2) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '37',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'code' => '394867cd45ca3afcaf09fa7408dd259e',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000710s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001232s ]
+[ info ] [ RUN ] app\api\controller\dd\Ddprocess->index[ /data/code/application/api/controller/dd/Ddprocess.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000109s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:11+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/index/inits
+[运行时间：0.024291s] [吞吐率：41.17req/s] [内存消耗：3,554.36kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000890s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000113s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.index',
+    2 => 'inits',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(2) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '24',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'dduid' => '135923123120977158',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000770s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001298s ]
+[ info ] [ RUN ] app\api\controller\dd\Index->inits[ /data/code/application/api/controller/dd/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000074s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:12+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/beginprocess/get_formlist
+[运行时间：0.164734s] [吞吐率：6.07req/s] [内存消耗：3,738.27kb] [文件加载：137]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000883s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000121s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.beginprocess',
+    2 => 'get_formlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(2) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '12',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'company_id' => '3',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000829s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001292s ]
+[ info ] [ RUN ] app\api\controller\dd\Beginprocess->get_formlist[ /data/code/application/api/controller/dd/Beginprocess.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000096s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:17+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024525s] [吞吐率：40.77req/s] [内存消耗：3,602.43kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000898s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000126s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.beginprocess',
+    2 => 'get_form',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(3) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '44',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'company_id' => '3',
+  'form_id' => '2',
+  'liuc_id' => '135639',
+  'type' => '1',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000759s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001289s ]
+[ info ] [ RUN ] app\api\controller\dd\Beginprocess->get_form[ /data/code/application/api/controller/dd/Beginprocess.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000071s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:17+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/Dddatalink/firest_datalink
+[运行时间：0.022709s] [吞吐率：44.04req/s] [内存消耗：3,584.84kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000902s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000124s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.Dddatalink',
+    2 => 'firest_datalink',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(3) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '22',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'key' => 'card_1609150550588',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000714s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001244s ]
+[ info ] [ RUN ] app\api\controller\dd\Dddatalink->firest_datalink[ /data/code/application/api/controller/dd/Dddatalink.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000082s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-16T11:07:25+08:00 ] 61.158.148.37 POST api.tao5g.cn/api/dd/launchprocess/index
+[运行时间：0.024490s] [吞吐率：40.83req/s] [内存消耗：3,548.47kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000999s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000159s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'dd.launchprocess',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-CN; V2025A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.0.36 Mobile Safari/537.36 UCBS/3.22.0.36_200620100408 ChannelId(4) NebulaSDK/1.8.100112 Nebula AliApp(DingTalk/6.0.5) com.alibaba.android.rimet/14549277 Channel/10003993 language/zh-CN colorScheme/light NebulaX/1.0.0 Ariver/1.0.1.132',
+  'connection' => 'Keep-Alive',
+  'host' => 'api.tao5g.cn',
+  'content-length' => '31',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-charset' => 'UTF-8',
+  'referer' => 'https://5000000000138711.eco.dingtalkapps.com/index.html',
+)
+[ info ] [ PARAM ] array (
+  'company_id' => '3',
+  'mobile' => '15160696181',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000732s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001365s ]
+[ info ] [ RUN ] app\api\controller\dd\Launchprocess->index[ /data/code/application/api/controller/dd/Launchprocess.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000071s ]
+[ info ] [ LOG ] INIT File

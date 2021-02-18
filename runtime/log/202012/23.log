@@ -1,0 +1,248 @@
+---------------------------------------------------------------
+[ 2020-12-23T09:42:46+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016962s] [吞吐率：58.96req/s] [内存消耗：2,942.70kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-23T09:42:48+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017635s] [吞吐率：56.71req/s] [内存消耗：2,942.71kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-23T09:42:49+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016862s] [吞吐率：59.30req/s] [内存消耗：2,942.67kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-23T09:52:47+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022049s] [吞吐率：45.35req/s] [内存消耗：3,736.62kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-23T10:44:13+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.112822s] [吞吐率：8.86req/s] [内存消耗：3,811.34kb] [文件加载：150]
+[ error ] [8]未定义变量: val[/data/code/application/api/controller/v1/Newsaveform.php:225]
+---------------------------------------------------------------
+[ 2020-12-23T10:45:22+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.108992s] [吞吐率：9.17req/s] [内存消耗：3,811.38kb] [文件加载：150]
+[ error ] [8]未定义变量: key[/data/code/application/api/controller/v1/Newsaveform.php:226]
+---------------------------------------------------------------
+[ 2020-12-23T10:49:29+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023682s] [吞吐率：42.23req/s] [内存消耗：3,725.55kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T10:50:53+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023669s] [吞吐率：42.25req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T10:59:23+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.014661s] [吞吐率：68.21req/s] [内存消耗：2,393.94kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[/data/code/application/api/controller/v1/Newsaveform.php:220]
+---------------------------------------------------------------
+[ 2020-12-23T10:59:54+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.014957s] [吞吐率：66.86req/s] [内存消耗：2,389.34kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[/data/code/application/api/controller/v1/Newsaveform.php:220]
+---------------------------------------------------------------
+[ 2020-12-23T10:59:57+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.014892s] [吞吐率：67.15req/s] [内存消耗：2,389.34kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[/data/code/application/api/controller/v1/Newsaveform.php:220]
+---------------------------------------------------------------
+[ 2020-12-23T11:00:57+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021334s] [吞吐率：46.87req/s] [内存消耗：3,736.13kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-23T11:04:00+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016849s] [吞吐率：59.35req/s] [内存消耗：2,942.70kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-23T11:05:32+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016879s] [吞吐率：59.24req/s] [内存消耗：2,942.70kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-23T11:07:28+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.127568s] [吞吐率：7.84req/s] [内存消耗：3,810.49kb] [文件加载：150]
+[ error ] [8]未定义数组下标: 2[/data/code/application/api/controller/v1/Newsaveform.php:223]
+---------------------------------------------------------------
+[ 2020-12-23T11:07:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.108518s] [吞吐率：9.22req/s] [内存消耗：3,810.52kb] [文件加载：150]
+[ error ] [8]未定义变量: kSeyadd[/data/code/application/api/controller/v1/Newsaveform.php:230]
+---------------------------------------------------------------
+[ 2020-12-23T11:09:13+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.107134s] [吞吐率：9.33req/s] [内存消耗：3,806.20kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-23T11:09:48+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.110444s] [吞吐率：9.05req/s] [内存消耗：3,806.09kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[process_key][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-23T11:18:25+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.118247s] [吞吐率：8.46req/s] [内存消耗：3,774.43kb] [文件加载：150]
+[ error ] [8]未定义变量: keylast[/data/code/application/api/controller/v1/Newsaveform.php:229]
+---------------------------------------------------------------
+[ 2020-12-23T11:18:53+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022560s] [吞吐率：44.33req/s] [内存消耗：3,725.43kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T11:23:04+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022603s] [吞吐率：44.24req/s] [内存消耗：3,738.91kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-23T11:35:24+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.022529s] [吞吐率：44.39req/s] [内存消耗：3,725.55kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T11:35:35+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023161s] [吞吐率：43.18req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T11:36:10+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.132444s] [吞吐率：7.55req/s] [内存消耗：3,777.48kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[name][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-23T11:41:40+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.132832s] [吞吐率：7.53req/s] [内存消耗：3,776.98kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[name][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-23T11:57:00+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022805s] [吞吐率：43.85req/s] [内存消耗：3,725.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T14:18:14+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017071s] [吞吐率：58.58req/s] [内存消耗：2,942.63kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-23T14:18:18+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016528s] [吞吐率：60.50req/s] [内存消耗：2,942.63kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-23T14:18:23+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016956s] [吞吐率：58.98req/s] [内存消耗：2,942.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-23T14:19:38+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.023925s] [吞吐率：41.80req/s] [内存消耗：3,713.25kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:46]
+---------------------------------------------------------------
+[ 2020-12-23T14:20:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.024584s] [吞吐率：40.68req/s] [内存消耗：3,713.25kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:46]
+---------------------------------------------------------------
+[ 2020-12-23T14:21:05+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.023103s] [吞吐率：43.28req/s] [内存消耗：3,713.25kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:46]
+---------------------------------------------------------------
+[ 2020-12-23T14:22:47+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.024079s] [吞吐率：41.53req/s] [内存消耗：3,713.31kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:47]
+---------------------------------------------------------------
+[ 2020-12-23T14:27:18+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022427s] [吞吐率：44.59req/s] [内存消耗：3,725.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T14:28:32+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.023313s] [吞吐率：42.89req/s] [内存消耗：3,713.81kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:49]
+---------------------------------------------------------------
+[ 2020-12-23T14:51:41+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.015178s] [吞吐率：65.88req/s] [内存消耗：2,418.02kb] [文件加载：130]
+[ error ] [1]Class 'app\common\controller\Base' not found[/data/code/application/api/controller/dd/Ddprocess.php:8]
+---------------------------------------------------------------
+[ 2020-12-23T14:52:37+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.014819s] [吞吐率：67.48req/s] [内存消耗：2,418.13kb] [文件加载：130]
+[ error ] [1]Class 'app\common\controller\Base' not found[/data/code/application/api/controller/dd/Ddprocess.php:9]
+---------------------------------------------------------------
+[ 2020-12-23T14:53:24+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.014534s] [吞吐率：68.80req/s] [内存消耗：2,418.13kb] [文件加载：130]
+[ error ] [1]Class 'app\common\controller\Base' not found[/data/code/application/api/controller/dd/Ddprocess.php:10]
+---------------------------------------------------------------
+[ 2020-12-23T16:19:19+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.017884s] [吞吐率：55.92req/s] [内存消耗：2,902.35kb] [文件加载：138]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\Db' not found[/data/code/application/api/controller/dd/Ddprocess.php:14]
+---------------------------------------------------------------
+[ 2020-12-23T16:19:35+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.021796s] [吞吐率：45.88req/s] [内存消耗：3,630.58kb] [文件加载：144]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\DingTalkClient' not found[/data/code/application/api/controller/dd/Ddprocess.php:19]
+---------------------------------------------------------------
+[ 2020-12-23T16:21:43+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.025184s] [吞吐率：39.71req/s] [内存消耗：3,729.55kb] [文件加载：146]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\OapiGettokenRequest' not found[/data/code/application/api/controller/dd/Ddprocess.php:23]
+---------------------------------------------------------------
+[ 2020-12-23T16:23:33+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.023568s] [吞吐率：42.43req/s] [内存消耗：3,738.47kb] [文件加载：148]
+[ error ] [8]未定义变量: access_token[/data/code/application/api/controller/dd/Ddprocess.php:26]
+---------------------------------------------------------------
+[ 2020-12-23T16:23:47+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.185146s] [吞吐率：5.40req/s] [内存消耗：3,737.41kb] [文件加载：148]
+[ error ] [0]致命错误: Cannot use object of type stdClass as array[/data/code/application/api/controller/dd/Ddprocess.php:29]
+---------------------------------------------------------------
+[ 2020-12-23T16:24:15+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.163857s] [吞吐率：6.10req/s] [内存消耗：3,737.57kb] [文件加载：148]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\OapiUserGetuserinfoRequest' not found[/data/code/application/api/controller/dd/Ddprocess.php:32]
+---------------------------------------------------------------
+[ 2020-12-23T16:24:40+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.023839s] [吞吐率：41.95req/s] [内存消耗：2,455.84kb] [文件加载：129]
+[ error ] [64]Cannot use addons\csmding\library\dingtalk\DingTalkClient as DingTalkClient because the name is already in use[/data/code/application/api/controller/dd/Ddprocess.php:12]
+---------------------------------------------------------------
+[ 2020-12-23T17:27:51+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.014790s] [吞吐率：67.61req/s] [内存消耗：2,389.63kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '$resp' (T_VARIABLE)[/data/code/application/api/controller/dd/Ddprocess.php:30]
+---------------------------------------------------------------
+[ 2020-12-23T17:28:48+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.017419s] [吞吐率：57.41req/s] [内存消耗：2,904.60kb] [文件加载：138]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\Db' not found[/data/code/application/api/controller/dd/Ddprocess.php:17]
+---------------------------------------------------------------
+[ 2020-12-23T17:32:14+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.156273s] [吞吐率：6.40req/s] [内存消耗：3,740.14kb] [文件加载：149]
+[ error ] [8]未定义数组索引: token[/data/code/application/api/controller/dd/Ddprocess.php:32]
+---------------------------------------------------------------
+[ 2020-12-23T17:32:36+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.153292s] [吞吐率：6.52req/s] [内存消耗：3,740.17kb] [文件加载：149]
+[ error ] [8]未定义数组索引: token[/data/code/application/api/controller/dd/Ddprocess.php:33]
+---------------------------------------------------------------
+[ 2020-12-23T17:33:32+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/ddprocess/test
+[运行时间：0.015074s] [吞吐率：66.34req/s] [内存消耗：2,389.59kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[/data/code/application/api/controller/dd/Ddprocess.php:39]
+---------------------------------------------------------------
+[ 2020-12-23T17:57:36+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023745s] [吞吐率：42.11req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T20:26:38+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022582s] [吞吐率：44.28req/s] [内存消耗：3,738.98kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-23T20:26:39+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.107616s] [吞吐率：9.29req/s] [内存消耗：3,766.73kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-23T20:26:41+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.106979s] [吞吐率：9.35req/s] [内存消耗：3,766.73kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-23T20:28:37+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022836s] [吞吐率：43.79req/s] [内存消耗：3,729.01kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-23T20:30:50+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.107240s] [吞吐率：9.32req/s] [内存消耗：3,766.73kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-23T20:54:43+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/v1/formtree/del_node
+[运行时间：0.014721s] [吞吐率：67.93req/s] [内存消耗：2,389.42kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '>'[/data/code/application/api/controller/v1/Formtree.php:194]
+---------------------------------------------------------------
+[ 2020-12-23T20:54:45+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/v1/formtree/del_node
+[运行时间：0.016283s] [吞吐率：61.41req/s] [内存消耗：2,389.45kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '>'[/data/code/application/api/controller/v1/Formtree.php:194]
+---------------------------------------------------------------
+[ 2020-12-23T20:55:38+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/v1/formtree/del_node
+[运行时间：0.016010s] [吞吐率：62.46req/s] [内存消耗：2,389.62kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '>'[/data/code/application/api/controller/v1/Formtree.php:194]
+---------------------------------------------------------------
+[ 2020-12-23T20:56:24+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/v1/formtree/del_node
+[运行时间：0.024649s] [吞吐率：40.57req/s] [内存消耗：3,620.43kb] [文件加载：143]
+[ error ] [8]未定义变量: form_name[/data/code/application/api/controller/v1/Formtree.php:199]
+---------------------------------------------------------------
+[ 2020-12-23T20:57:21+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/formtree/del_node
+[运行时间：0.025467s] [吞吐率：39.27req/s] [内存消耗：3,689.55kb] [文件加载：147]
+[ error ] [8]未定义变量: form_name[/data/code/application/api/controller/v1/Formtree.php:199]
+---------------------------------------------------------------
+[ 2020-12-23T22:12:17+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021858s] [吞吐率：45.75req/s] [内存消耗：3,738.98kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]

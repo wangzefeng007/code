@@ -1,0 +1,856 @@
+---------------------------------------------------------------
+[ 2020-12-26T00:05:09+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.015223s] [吞吐率：65.69req/s] [内存消耗：2,389.21kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[/data/code/application/api/controller/v1/Excle.php:115]
+---------------------------------------------------------------
+[ 2020-12-26T00:05:18+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.038689s] [吞吐率：25.85req/s] [内存消耗：3,726.29kb] [文件加载：145]
+[ error ] [8]未定义变量: result[/data/code/application/api/controller/v1/Excle.php:99]
+---------------------------------------------------------------
+[ 2020-12-26T00:06:57+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.036919s] [吞吐率：27.09req/s] [内存消耗：3,726.29kb] [文件加载：145]
+[ error ] [8]未定义变量: result[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-26T00:15:51+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.039711s] [吞吐率：25.18req/s] [内存消耗：3,734.75kb] [文件加载：145]
+[ error ] [8]未定义数组下标: -1[/data/code/application/api/controller/v1/Excle.php:95]
+---------------------------------------------------------------
+[ 2020-12-26T00:16:32+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.040839s] [吞吐率：24.49req/s] [内存消耗：3,734.75kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:95]
+---------------------------------------------------------------
+[ 2020-12-26T00:17:19+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.040319s] [吞吐率：24.80req/s] [内存消耗：3,734.75kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:96]
+---------------------------------------------------------------
+[ 2020-12-26T00:24:22+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.038281s] [吞吐率：26.12req/s] [内存消耗：3,724.88kb] [文件加载：144]
+[ error ] [0]致命错误: Cannot use string offset as an array[/data/code/application/api/controller/v1/Excle.php:125]
+---------------------------------------------------------------
+[ 2020-12-26T00:25:14+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.038692s] [吞吐率：25.85req/s] [内存消耗：3,724.88kb] [文件加载：144]
+[ error ] [0]致命错误: Cannot use string offset as an array[/data/code/application/api/controller/v1/Excle.php:125]
+---------------------------------------------------------------
+[ 2020-12-26T00:26:14+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.036889s] [吞吐率：27.11req/s] [内存消耗：3,726.76kb] [文件加载：145]
+[ error ] [8]Uninitialized string offset: 33[/data/code/application/api/controller/v1/Excle.php:124]
+---------------------------------------------------------------
+[ 2020-12-26T00:27:54+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037327s] [吞吐率：26.79req/s] [内存消耗：3,726.74kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:125]
+---------------------------------------------------------------
+[ 2020-12-26T00:30:13+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037127s] [吞吐率：26.93req/s] [内存消耗：3,726.88kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:128]
+---------------------------------------------------------------
+[ 2020-12-26T00:30:26+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.036755s] [吞吐率：27.21req/s] [内存消耗：3,726.83kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:128]
+---------------------------------------------------------------
+[ 2020-12-26T00:32:43+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037079s] [吞吐率：26.97req/s] [内存消耗：3,726.83kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:127]
+---------------------------------------------------------------
+[ 2020-12-26T00:33:33+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.036765s] [吞吐率：27.20req/s] [内存消耗：3,726.83kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-26T00:33:50+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.038309s] [吞吐率：26.10req/s] [内存消耗：3,726.83kb] [文件加载：145]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:130]
+---------------------------------------------------------------
+[ 2020-12-26T00:35:11+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037864s] [吞吐率：26.41req/s] [内存消耗：3,726.84kb] [文件加载：145]
+[ error ] [8]Uninitialized string offset: 33[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-26T00:38:35+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023133s] [吞吐率：43.23req/s] [内存消耗：3,733.83kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T00:47:51+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.042346s] [吞吐率：23.61req/s] [内存消耗：3,738.04kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:99]
+---------------------------------------------------------------
+[ 2020-12-26T00:48:30+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.042460s] [吞吐率：23.55req/s] [内存消耗：3,738.04kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:99]
+---------------------------------------------------------------
+[ 2020-12-26T00:52:03+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037106s] [吞吐率：26.95req/s] [内存消耗：3,723.64kb] [文件加载：145]
+[ error ] [8]未定义数组索引: let_top_one[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-26T00:52:39+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.042416s] [吞吐率：23.58req/s] [内存消耗：3,738.04kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:102]
+---------------------------------------------------------------
+[ 2020-12-26T00:56:30+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.042114s] [吞吐率：23.75req/s] [内存消耗：3,736.44kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:102]
+---------------------------------------------------------------
+[ 2020-12-26T01:14:41+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.015790s] [吞吐率：63.33req/s] [内存消耗：2,389.22kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/data/code/application/api/controller/v1/Excle.php:73]
+---------------------------------------------------------------
+[ 2020-12-26T01:20:43+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.033183s] [吞吐率：30.14req/s] [内存消耗：3,729.58kb] [文件加载：145]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Excle.php:58]
+---------------------------------------------------------------
+[ 2020-12-26T01:21:44+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.015268s] [吞吐率：65.50req/s] [内存消耗：2,389.22kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/application/api/controller/v1/Excle.php:151]
+---------------------------------------------------------------
+[ 2020-12-26T01:24:48+08:00 ] 203.119.241.101 GET api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.022854s] [吞吐率：43.76req/s] [内存消耗：3,701.45kb] [文件加载：145]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:54]
+---------------------------------------------------------------
+[ 2020-12-26T01:24:48+08:00 ] 203.119.241.101 GET api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.022459s] [吞吐率：44.53req/s] [内存消耗：3,703.52kb] [文件加载：145]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:54]
+---------------------------------------------------------------
+[ 2020-12-26T05:58:32+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.164609s] [吞吐率：6.08req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T05:59:10+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022178s] [吞吐率：45.09req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T09:21:46+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.203026s] [吞吐率：4.93req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T09:21:56+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024103s] [吞吐率：41.49req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T09:22:16+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.040964s] [吞吐率：24.41req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:22:24+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042412s] [吞吐率：23.58req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:22:29+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042685s] [吞吐率：23.43req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:26:04+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.021857s] [吞吐率：45.75req/s] [内存消耗：3,731.66kb] [文件加载：144]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:54]
+---------------------------------------------------------------
+[ 2020-12-26T09:35:52+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.043091s] [吞吐率：23.21req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:36:04+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041739s] [吞吐率：23.96req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:36:18+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.045686s] [吞吐率：21.89req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:36:26+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041273s] [吞吐率：24.23req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:37:15+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041016s] [吞吐率：24.38req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:37:18+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042905s] [吞吐率：23.31req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:37:37+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023374s] [吞吐率：42.78req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T09:38:08+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023632s] [吞吐率：42.32req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T09:38:12+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041717s] [吞吐率：23.97req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:38:20+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041687s] [吞吐率：23.99req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:39:15+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042329s] [吞吐率：23.62req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:39:25+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042290s] [吞吐率：23.65req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:40:11+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042177s] [吞吐率：23.71req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:41:12+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.185153s] [吞吐率：5.40req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T09:41:36+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.040684s] [吞吐率：24.58req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:41:56+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042551s] [吞吐率：23.50req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:43:04+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042440s] [吞吐率：23.56req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:43:54+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.043017s] [吞吐率：23.25req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:47:51+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023183s] [吞吐率：43.13req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T09:48:24+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022579s] [吞吐率：44.29req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T09:51:12+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041767s] [吞吐率：23.94req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:51:26+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042576s] [吞吐率：23.49req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T09:59:51+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.174273s] [吞吐率：5.74req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T10:00:12+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017118s] [吞吐率：58.42req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T10:00:14+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017145s] [吞吐率：58.33req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T10:00:17+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017294s] [吞吐率：57.82req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-26T10:02:22+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023650s] [吞吐率：42.28req/s] [内存消耗：3,677.41kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-26T10:04:32+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023007s] [吞吐率：43.47req/s] [内存消耗：3,626.50kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T10:34:15+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023860s] [吞吐率：41.91req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T10:35:22+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041793s] [吞吐率：23.93req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:36:30+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042862s] [吞吐率：23.33req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:36:43+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042275s] [吞吐率：23.65req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:36:47+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042601s] [吞吐率：23.47req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:37:04+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041817s] [吞吐率：23.91req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:37:32+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041243s] [吞吐率：24.25req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:37:43+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042094s] [吞吐率：23.76req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:38:14+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042159s] [吞吐率：23.72req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:38:33+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042708s] [吞吐率：23.41req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:38:47+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041823s] [吞吐率：23.91req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:39:00+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041513s] [吞吐率：24.09req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:41:34+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041768s] [吞吐率：23.94req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:42:03+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022332s] [吞吐率：44.78req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T10:42:12+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.176346s] [吞吐率：5.67req/s] [内存消耗：3,831.68kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T10:42:19+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.022707s] [吞吐率：44.04req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T10:42:30+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041935s] [吞吐率：23.85req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:43:12+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041537s] [吞吐率：24.07req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:43:19+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.022703s] [吞吐率：44.05req/s] [内存消耗：3,734.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T10:43:24+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041510s] [吞吐率：24.09req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:43:53+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.073844s] [吞吐率：13.54req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:43:57+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.040954s] [吞吐率：24.42req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:44:23+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.044161s] [吞吐率：22.64req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:44:47+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.060458s] [吞吐率：16.54req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:45:09+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042716s] [吞吐率：23.41req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:45:29+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041777s] [吞吐率：23.94req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:45:43+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.041059s] [吞吐率：24.36req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:45:46+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042188s] [吞吐率：23.70req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:46:37+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.043907s] [吞吐率：22.78req/s] [内存消耗：3,818.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T10:48:10+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.030553s] [吞吐率：32.73req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:48:43+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.036720s] [吞吐率：27.23req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:50:35+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.031594s] [吞吐率：31.65req/s] [内存消耗：3,737.05kb] [文件加载：144]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:50:35+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.032439s] [吞吐率：30.83req/s] [内存消耗：3,782.19kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:51:13+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.024803s] [吞吐率：40.32req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:51:33+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.027685s] [吞吐率：36.12req/s] [内存消耗：3,782.07kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:51:46+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.035492s] [吞吐率：28.18req/s] [内存消耗：3,782.07kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:52:05+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.035046s] [吞吐率：28.53req/s] [内存消耗：3,782.07kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:52:10+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.036690s] [吞吐率：27.26req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:52:13+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.035262s] [吞吐率：28.36req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:52:16+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.035937s] [吞吐率：27.83req/s] [内存消耗：3,782.14kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:53:17+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.035240s] [吞吐率：28.38req/s] [内存消耗：3,782.07kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:53:32+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.036490s] [吞吐率：27.40req/s] [内存消耗：3,782.07kb] [文件加载：149]
+[ error ] [8]Use of undefined constant dei - assumed 'dei'[/data/code/application/api/controller/v1/Excle.php:180]
+---------------------------------------------------------------
+[ 2020-12-26T10:59:11+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.044690s] [吞吐率：22.38req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:02:44+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.042479s] [吞吐率：23.54req/s] [内存消耗：3,814.67kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:04:32+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.043856s] [吞吐率：22.80req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:05:33+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.037908s] [吞吐率：26.38req/s] [内存消耗：3,816.98kb] [文件加载：149]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\v1\Excle::js_unescape()[/data/code/application/api/controller/v1/Excle.php:194]
+---------------------------------------------------------------
+[ 2020-12-26T11:05:38+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.037553s] [吞吐率：26.63req/s] [内存消耗：3,808.98kb] [文件加载：149]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\v1\Excle::js_unescape()[/data/code/application/api/controller/v1/Excle.php:194]
+---------------------------------------------------------------
+[ 2020-12-26T11:05:47+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.043368s] [吞吐率：23.06req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:06:56+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.037187s] [吞吐率：26.89req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:16:07+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023411s] [吞吐率：42.71req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T11:16:21+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023980s] [吞吐率：41.70req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T11:16:29+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.179550s] [吞吐率：5.57req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T11:16:53+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017063s] [吞吐率：58.61req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T11:16:57+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016867s] [吞吐率：59.29req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T11:17:02+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016740s] [吞吐率：59.74req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-26T11:18:21+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022737s] [吞吐率：43.98req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T11:20:03+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.021413s] [吞吐率：46.70req/s] [内存消耗：2,389.25kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[/data/code/application/api/controller/v1/Excle.php:199]
+---------------------------------------------------------------
+[ 2020-12-26T11:20:03+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.021569s] [吞吐率：46.36req/s] [内存消耗：2,389.27kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[/data/code/application/api/controller/v1/Excle.php:199]
+---------------------------------------------------------------
+[ 2020-12-26T11:23:52+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.024180s] [吞吐率：41.36req/s] [内存消耗：3,676.91kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-26T11:24:17+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023986s] [吞吐率：41.69req/s] [内存消耗：3,676.91kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-26T11:26:22+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.152041s] [吞吐率：6.58req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T11:37:14+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.049464s] [吞吐率：20.22req/s] [内存消耗：3,814.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:40:38+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.045586s] [吞吐率：21.94req/s] [内存消耗：3,815.22kb] [文件加载：150]
+[ error ] [8]iconv(): Detected an illegal character in input string[/data/code/application/api/controller/v1/Excle.php:198]
+---------------------------------------------------------------
+[ 2020-12-26T11:40:45+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.044565s] [吞吐率：22.44req/s] [内存消耗：3,815.22kb] [文件加载：150]
+[ error ] [8]iconv(): Detected an illegal character in input string[/data/code/application/api/controller/v1/Excle.php:198]
+---------------------------------------------------------------
+[ 2020-12-26T11:41:26+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.046245s] [吞吐率：21.62req/s] [内存消耗：3,815.25kb] [文件加载：150]
+[ error ] [8]iconv(): Detected an illegal character in input string[/data/code/application/api/controller/v1/Excle.php:198]
+---------------------------------------------------------------
+[ 2020-12-26T11:41:56+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.044324s] [吞吐率：22.56req/s] [内存消耗：3,814.77kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:42:56+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.022359s] [吞吐率：44.72req/s] [内存消耗：3,626.79kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T11:45:45+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.046698s] [吞吐率：21.41req/s] [内存消耗：3,814.73kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T11:57:45+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023183s] [吞吐率：43.14req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T12:27:27+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.045248s] [吞吐率：22.10req/s] [内存消耗：3,815.66kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-26T12:29:09+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.045467s] [吞吐率：21.99req/s] [内存消耗：3,816.41kb] [文件加载：150]
+[ error ] [2]preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead[/data/code/application/api/controller/v1/Excle.php:201]
+---------------------------------------------------------------
+[ 2020-12-26T14:33:19+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022547s] [吞吐率：44.35req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T14:33:29+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023515s] [吞吐率：42.53req/s] [内存消耗：3,735.70kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T14:33:37+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024182s] [吞吐率：41.35req/s] [内存消耗：3,735.70kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T14:37:03+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.040758s] [吞吐率：24.53req/s] [内存消耗：4,180.12kb] [文件加载：150]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:190]
+---------------------------------------------------------------
+[ 2020-12-26T14:37:17+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.017610s] [吞吐率：56.79req/s] [内存消耗：2,928.84kb] [文件加载：137]
+[ error ] [2]get_object_vars() expects parameter 1 to be object, null given[/data/code/application/api/controller/dd/Beginprocess.php:118]
+---------------------------------------------------------------
+[ 2020-12-26T14:38:23+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.014856s] [吞吐率：67.31req/s] [内存消耗：2,389.54kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[/data/code/application/api/controller/dd/Beginprocess.php:159]
+---------------------------------------------------------------
+[ 2020-12-26T14:38:39+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.017582s] [吞吐率：56.88req/s] [内存消耗：2,929.32kb] [文件加载：137]
+[ error ] [2]get_object_vars() expects parameter 1 to be object, string given[/data/code/application/api/controller/dd/Beginprocess.php:118]
+---------------------------------------------------------------
+[ 2020-12-26T14:39:15+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023055s] [吞吐率：43.37req/s] [内存消耗：3,627.91kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T14:40:21+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023395s] [吞吐率：42.74req/s] [内存消耗：3,628.07kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T14:41:24+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023504s] [吞吐率：42.55req/s] [内存消耗：3,627.91kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T15:00:01+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.014914s] [吞吐率：67.05req/s] [内存消耗：2,389.66kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[/data/code/application/api/controller/dd/Beginprocess.php:163]
+---------------------------------------------------------------
+[ 2020-12-26T15:00:48+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.021542s] [吞吐率：46.42req/s] [内存消耗：3,731.44kb] [文件加载：144]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:61]
+---------------------------------------------------------------
+[ 2020-12-26T15:00:49+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.024119s] [吞吐率：41.46req/s] [内存消耗：3,833.83kb] [文件加载：149]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:61]
+---------------------------------------------------------------
+[ 2020-12-26T15:01:32+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.024435s] [吞吐率：40.92req/s] [内存消耗：3,837.83kb] [文件加载：149]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:61]
+---------------------------------------------------------------
+[ 2020-12-26T15:02:05+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023061s] [吞吐率：43.36req/s] [内存消耗：3,729.48kb] [文件加载：145]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:61]
+---------------------------------------------------------------
+[ 2020-12-26T15:02:18+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023135s] [吞吐率：43.22req/s] [内存消耗：3,765.48kb] [文件加载：145]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:61]
+---------------------------------------------------------------
+[ 2020-12-26T15:04:36+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.172498s] [吞吐率：5.80req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:24:00+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.169187s] [吞吐率：5.91req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:25:17+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.031684s] [吞吐率：31.56req/s] [内存消耗：3,630.93kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'process' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T15:25:42+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.029876s] [吞吐率：33.47req/s] [内存消耗：3,630.93kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'process' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T15:27:42+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.199516s] [吞吐率：5.01req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:28:16+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.166512s] [吞吐率：6.01req/s] [内存消耗：3,831.79kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:30:15+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173032s] [吞吐率：5.78req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:30:58+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.183964s] [吞吐率：5.44req/s] [内存消耗：3,831.55kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:31:47+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151660s] [吞吐率：6.59req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:32:09+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021585s] [吞吐率：46.33req/s] [内存消耗：3,738.93kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T15:35:12+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.184147s] [吞吐率：5.43req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:43:15+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.026229s] [吞吐率：38.13req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T15:53:54+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023520s] [吞吐率：42.52req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T15:55:26+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023554s] [吞吐率：42.46req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T15:59:01+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.182353s] [吞吐率：5.48req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T15:59:11+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.022245s] [吞吐率：44.95req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T15:59:34+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022629s] [吞吐率：44.19req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T16:00:04+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022563s] [吞吐率：44.32req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T16:03:44+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024042s] [吞吐率：41.59req/s] [内存消耗：3,633.09kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T16:07:28+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.023871s] [吞吐率：41.89req/s] [内存消耗：3,633.75kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T16:08:15+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.193839s] [吞吐率：5.16req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T16:17:45+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.172297s] [吞吐率：5.80req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T16:48:51+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023207s] [吞吐率：43.09req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T16:49:32+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017872s] [吞吐率：55.95req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T16:49:33+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017300s] [吞吐率：57.80req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T16:49:35+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.018479s] [吞吐率：54.12req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-26T16:50:06+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.172258s] [吞吐率：5.81req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T16:58:16+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022785s] [吞吐率：43.89req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T17:05:09+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.034230s] [吞吐率：29.21req/s] [内存消耗：3,733.95kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T17:05:09+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.032562s] [吞吐率：30.71req/s] [内存消耗：3,730.98kb] [文件加载：144]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:63]
+---------------------------------------------------------------
+[ 2020-12-26T17:05:09+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.024443s] [吞吐率：40.91req/s] [内存消耗：3,789.37kb] [文件加载：149]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:63]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:11+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022463s] [吞吐率：44.52req/s] [内存消耗：3,735.70kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:25+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016853s] [吞吐率：59.34req/s] [内存消耗：2,958.26kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:26+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016724s] [吞吐率：59.79req/s] [内存消耗：2,958.26kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:27+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016682s] [吞吐率：59.95req/s] [内存消耗：2,958.22kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:34+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023118s] [吞吐率：43.26req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T17:10:36+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021331s] [吞吐率：46.88req/s] [内存消耗：3,738.98kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T17:11:03+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021382s] [吞吐率：46.77req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T17:11:59+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173011s] [吞吐率：5.78req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T17:18:01+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022313s] [吞吐率：44.82req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T17:31:25+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151417s] [吞吐率：6.60req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T17:33:41+08:00 ] 223.104.6.50 POST api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.023699s] [吞吐率：42.20req/s] [内存消耗：3,645.17kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T17:33:52+08:00 ] 223.104.6.50 POST api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.023905s] [吞吐率：41.83req/s] [内存消耗：3,645.17kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T17:34:00+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024194s] [吞吐率：41.33req/s] [内存消耗：3,645.09kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T17:35:47+08:00 ] 27.154.113.106 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.022781s] [吞吐率：43.90req/s] [内存消耗：3,629.59kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-26T17:49:13+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/form_list_form
+[运行时间：0.022784s] [吞吐率：43.89req/s] [内存消耗：3,685.68kb] [文件加载：143]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Excle.php:411]
+---------------------------------------------------------------
+[ 2020-12-26T17:54:42+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/form_list_form
+[运行时间：0.022853s] [吞吐率：43.76req/s] [内存消耗：3,686.27kb] [文件加载：143]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:415]
+---------------------------------------------------------------
+[ 2020-12-26T17:54:45+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/excle/form_list_form
+[运行时间：0.022710s] [吞吐率：44.03req/s] [内存消耗：3,686.27kb] [文件加载：143]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:415]
+---------------------------------------------------------------
+[ 2020-12-26T17:55:26+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024426s] [吞吐率：40.94req/s] [内存消耗：3,737.05kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-26T18:01:21+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155782s] [吞吐率：6.42req/s] [内存消耗：3,831.55kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T18:03:01+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022155s] [吞吐率：45.14req/s] [内存消耗：3,738.93kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T18:03:54+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151084s] [吞吐率：6.62req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T18:06:08+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.201377s] [吞吐率：4.97req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T18:11:20+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.182586s] [吞吐率：5.48req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T18:19:10+08:00 ] 27.154.113.106 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.057761s] [吞吐率：17.31req/s] [内存消耗：3,752.70kb] [文件加载：150]
+[ error ] [8]未定义变量: indata[/data/code/application/api/controller/v1/Newsaveform.php:112]
+---------------------------------------------------------------
+[ 2020-12-26T18:37:49+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.175884s] [吞吐率：5.69req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T18:38:04+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.018271s] [吞吐率：54.73req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T18:38:04+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016934s] [吞吐率：59.05req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T18:38:05+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016619s] [吞吐率：60.17req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-26T18:38:19+08:00 ] 27.154.113.106 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022490s] [吞吐率：44.46req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-26T21:57:26+08:00 ] 59.59.68.249 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.170541s] [吞吐率：5.86req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-26T21:57:29+08:00 ] 59.59.68.249 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.025196s] [吞吐率：39.69req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-26T21:57:29+08:00 ] 59.59.68.249 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.023588s] [吞吐率：42.39req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-26T21:57:29+08:00 ] 59.59.68.249 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.025814s] [吞吐率：38.74req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]

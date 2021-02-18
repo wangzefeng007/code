@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2020-12-09T10:42:28+08:00 ] 120.36.238.173 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.017954s] [吞吐率：55.70req/s] [内存消耗：2,380.41kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '"}],"' (T_CONSTANT_ENCAPSED_STRING)[/data/code/application/api/controller/v1/Excle.php:12]
+---------------------------------------------------------------
+[ 2020-12-09T11:05:31+08:00 ] 120.36.238.173 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.141658s] [吞吐率：7.06req/s] [内存消耗：3,706.35kb] [文件加载：146]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Excle.php:16]
+---------------------------------------------------------------
+[ 2020-12-09T14:54:22+08:00 ] 120.36.238.173 GET api.tao5g.cn/api/sms/send?mobile=18631938797&event=login
+[运行时间：0.028160s] [吞吐率：35.51req/s] [内存消耗：3,683.86kb] [文件加载：147]
+[ error ] [8]未定义数组索引: login[/data/code/addons/alisms/Alisms.php:41]
+---------------------------------------------------------------
+[ 2020-12-09T14:57:54+08:00 ] 120.36.238.173 GET api.tao5g.cn/api/sms/send?mobile=18631938797&event=login
+[运行时间：0.027089s] [吞吐率：36.92req/s] [内存消耗：3,683.91kb] [文件加载：147]
+[ error ] [8]未定义数组索引: login[/data/code/addons/alisms/Alisms.php:41]
+---------------------------------------------------------------
+[ 2020-12-09T15:00:18+08:00 ] 120.36.238.173 GET api.tao5g.cn/api/sms/send?mobile=18631938797&event=default
+[运行时间：0.026635s] [吞吐率：37.54req/s] [内存消耗：3,683.89kb] [文件加载：147]
+[ error ] [8]未定义数组索引: default[/data/code/addons/alisms/Alisms.php:41]
+---------------------------------------------------------------
+[ 2020-12-09T17:24:32+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.026077s] [吞吐率：38.35req/s] [内存消耗：3,783.80kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:255]
+---------------------------------------------------------------
+[ 2020-12-09T17:26:08+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.026052s] [吞吐率：38.38req/s] [内存消耗：3,784.45kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:255]
+---------------------------------------------------------------
+[ 2020-12-09T17:26:21+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.025100s] [吞吐率：39.84req/s] [内存消耗：3,784.45kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:255]
+---------------------------------------------------------------
+[ 2020-12-09T17:27:24+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.025259s] [吞吐率：39.59req/s] [内存消耗：3,784.46kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:256]
+---------------------------------------------------------------
+[ 2020-12-09T17:27:38+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.025032s] [吞吐率：39.95req/s] [内存消耗：3,784.46kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:256]
+---------------------------------------------------------------
+[ 2020-12-09T17:35:14+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/app_del
+[运行时间：0.033076s] [吞吐率：30.23req/s] [内存消耗：3,785.86kb] [文件加载：149]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Apply.php:257]

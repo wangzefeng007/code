@@ -1,0 +1,68 @@
+---------------------------------------------------------------
+[ 2020-12-10T10:27:22+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.014980s] [吞吐率：66.76req/s] [内存消耗：2,381.79kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:27:28+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.014827s] [吞吐率：67.44req/s] [内存消耗：2,381.80kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:30:32+08:00 ] 120.36.238.173 OPTIONS api.tao5g.cn/api/v1/apply/get_user_apply_cate
+[运行时间：0.014061s] [吞吐率：71.12req/s] [内存消耗：2,380.76kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:30:39+08:00 ] 120.36.238.173 OPTIONS api.tao5g.cn/api/v1/apply/get_user_apply_cate
+[运行时间：0.014116s] [吞吐率：70.84req/s] [内存消耗：2,380.76kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:30:40+08:00 ] 120.36.238.173 OPTIONS api.tao5g.cn/api/v1/apply/images
+[运行时间：0.015099s] [吞吐率：66.23req/s] [内存消耗：2,380.68kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:33:52+08:00 ] 120.36.238.173 OPTIONS api.tao5g.cn/api/v1/apply/get_user_apply_cate
+[运行时间：0.014939s] [吞吐率：66.94req/s] [内存消耗：2,380.76kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:35:12+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.014539s] [吞吐率：68.78req/s] [内存消耗：2,381.80kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:36:13+08:00 ] 221.192.178.21 OPTIONS api.tao5g.cn/api/v1/apply/get_user_apply_cate
+[运行时间：0.015151s] [吞吐率：66.00req/s] [内存消耗：2,380.83kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:134]
+---------------------------------------------------------------
+[ 2020-12-10T10:39:37+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.014807s] [吞吐率：67.54req/s] [内存消耗：2,381.80kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:136]
+---------------------------------------------------------------
+[ 2020-12-10T10:39:45+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.014667s] [吞吐率：68.18req/s] [内存消耗：2,381.80kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '，' (T_STRING), expecting ',' or ')'[/data/code/application/api/controller/v1/Apply.php:136]
+---------------------------------------------------------------
+[ 2020-12-10T23:22:18+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.022939s] [吞吐率：43.59req/s] [内存消耗：3,710.59kb] [文件加载：145]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\v1\create_table()[/data/code/application/api/controller/v1/Excle.php:30]
+---------------------------------------------------------------
+[ 2020-12-10T23:22:44+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023954s] [吞吐率：41.75req/s] [内存消耗：3,710.72kb] [文件加载：145]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\v1\create_table()[/data/code/application/api/controller/v1/Excle.php:30]
+---------------------------------------------------------------
+[ 2020-12-10T23:23:06+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023084s] [吞吐率：43.32req/s] [内存消耗：3,712.37kb] [文件加载：146]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Excle.php:31]
+---------------------------------------------------------------
+[ 2020-12-10T23:50:58+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024402s] [吞吐率：40.98req/s] [内存消耗：3,706.36kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATA TABLE IF NOT EXISTS 'fa_s_apply_category' ('id' int(10) UNSIGNED NOT NULL' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-10T23:51:18+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023426s] [吞吐率：42.69req/s] [内存消耗：3,702.20kb] [文件加载：146]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Excle.php:31]
+---------------------------------------------------------------
+[ 2020-12-10T23:51:39+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024247s] [吞吐率：41.24req/s] [内存消耗：3,702.20kb] [文件加载：146]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Excle.php:31]
+---------------------------------------------------------------
+[ 2020-12-10T23:54:35+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023592s] [吞吐率：42.39req/s] [内存消耗：3,705.91kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATA TABLE IF NOT EXISTS 'fa_s_aaaaaa' ('id' int(10) UNSIGNED NOT NULL AUTO_IN' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]

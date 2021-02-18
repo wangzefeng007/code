@@ -1,0 +1,32 @@
+---------------------------------------------------------------
+[ 2021-01-09T10:04:01+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.167756s] [吞吐率：5.96req/s] [内存消耗：3,844.25kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-09T11:39:12+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.159537s] [吞吐率：6.27req/s] [内存消耗：3,842.92kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-09T14:16:38+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.055171s] [吞吐率：18.13req/s] [内存消耗：2,962.46kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-09T14:16:38+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.063037s] [吞吐率：15.86req/s] [内存消耗：2,962.48kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-09T14:16:38+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.038939s] [吞吐率：25.68req/s] [内存消耗：2,962.42kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-09T16:43:44+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.182102s] [吞吐率：5.49req/s] [内存消耗：3,844.27kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-09T16:58:28+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025390s] [吞吐率：39.39req/s] [内存消耗：3,847.98kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-09T18:27:36+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.192336s] [吞吐率：5.20req/s] [内存消耗：3,844.28kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]

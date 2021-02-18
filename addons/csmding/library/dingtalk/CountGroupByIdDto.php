@@ -1,0 +1,22 @@
+<?php 
+namespace addons\csmding\library\dingtalk;
+//<?php
+
+/**
+ * 结果
+ * @author auto create
+ */
+class CountGroupByIdDto
+{
+	
+	/** 
+	 * 完成数量
+	 **/
+	public $count;
+	
+	/** 
+	 * 工序uid
+	 **/
+	public $id;	
+}
+?>

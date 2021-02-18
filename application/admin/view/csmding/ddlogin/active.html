@@ -1,0 +1,108 @@
+<style>
+.container {
+	max-width: 720px;
+	background-color: white;
+	border: 1px solid #c9c9c9;
+	padding: 20px;
+}
+
+.subtitle {
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+.logon-tab {
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+.login-nav{
+	padding-top:20px;
+}
+.nav a{
+	color:black;
+}
+.nav .active a{
+	color:#3c8dbc !important;
+}
+.agreement{
+	padding-left:10px;
+}
+.fa{
+	padding-right:10px;
+}
+.bigtitle{
+	color:#3c8dbc;
+	font-weight:bold;
+}
+.div-left{
+	border-right:1px solid #e7e7e7;
+	height:100%;
+}
+.div-right{
+	padding: 30px 0px 0px 20px;	
+}
+</style>
+<div id="content-container" class="container">
+	<div class="user-section login-section col-xs-12">
+		<div class="logon-tab clearfix bigtitle">
+			<h2><i class="fa fa-address-card" aria-hidden="true"></i>用户登录</h2>
+		</div>	
+		<div class="logon-tab clearfix ">
+			<ul class="nav nav-tabs">
+				{volist name="ulmenu" id="row"}
+				<li role="presentation" class="{if $row.code=='dobydd'}active{/if}"><a href="{$row.url}">{$row.name}</a></li>
+				{/volist}
+			</ul>
+		</div>
+		<div class="login-main div-left col-xs-12">
+			<form name="form" id="login-form" role="form" class="form-vertical"
+				method="POST" action="">
+				<div class="form-group">
+					<label class="control-label" for="account">邮箱</label><span class="msg-box" for="email"></span>
+					<div class="controls">
+						<input class="form-control input-lg " id="email" name="email" type="text"
+							data-rule="required;email"  style="width:80%;display:inline">
+						<button class="btn btn-default input-lg btn_send" style="width:18%;display:inline;margin: 0px 0px 4px -5px;" disabled>发送</button>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label" for="account">姓名</label><span class="msg-box" for="nickname"></span>
+					<div class="controls">
+						<input class="form-control input-lg" name="nickname" type="text"
+							data-rule="required;length(1~12)">
+						<div class="help-block"></div>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label" for="account">登录密码</label><span class="msg-box" for="password"></span>
+					<div class="controls">
+						<input class="form-control input-lg" id="password" type="password"
+							name="password" data-rule="required;password" autocomplete="off">
+						<div class="help-block"></div>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label" for="account">验证码</label><span class="msg-box" for="ccode"></span>
+					<div class="controls">
+						<input class="form-control input-lg" name="ccode" type="text"
+							data-rule="required;">
+						<div class="help-block"></div>
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="controls">
+						<input name="agreement" id="agreement" value="1" type="checkbox"><span class="agreement">我同意《<a href='#'>用户协议</a>》</span>
+						<div class="help-block"></div>
+					</div>
+				</div>
+				<div class="form-group">
+					<button type="submit" class="btn btn-success btn-lg btn-block">注册提交</button>
+				</div>
+				<div class="form-group" style="text-align: right;">
+					<a href='#' id="csmadmin-gotologin">我有帐号，点击登录</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

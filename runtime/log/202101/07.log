@@ -1,0 +1,124 @@
+---------------------------------------------------------------
+[ 2021-01-07T09:28:18+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.176421s] [吞吐率：5.67req/s] [内存消耗：3,843.10kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-07T09:28:24+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.083073s] [吞吐率：12.04req/s] [内存消耗：3,866.10kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:1238]
+---------------------------------------------------------------
+[ 2021-01-07T09:28:32+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.083584s] [吞吐率：11.96req/s] [内存消耗：3,866.10kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:1238]
+---------------------------------------------------------------
+[ 2021-01-07T09:30:14+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.024391s] [吞吐率：41.00req/s] [内存消耗：3,812.97kb] [文件加载：142]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:87]
+---------------------------------------------------------------
+[ 2021-01-07T09:52:06+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155353s] [吞吐率：6.44req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-07T11:37:40+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155953s] [吞吐率：6.41req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-07T11:38:44+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023047s] [吞吐率：43.39req/s] [内存消耗：3,814.12kb] [文件加载：142]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:87]
+---------------------------------------------------------------
+[ 2021-01-07T14:22:18+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018266s] [吞吐率：54.75req/s] [内存消耗：2,933.33kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:22:43+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018046s] [吞吐率：55.41req/s] [内存消耗：2,933.54kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:22:44+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018499s] [吞吐率：54.06req/s] [内存消耗：2,933.54kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:22:44+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.017792s] [吞吐率：56.21req/s] [内存消耗：2,933.54kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:23:58+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018094s] [吞吐率：55.27req/s] [内存消耗：2,933.85kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:25:16+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.015474s] [吞吐率：64.63req/s] [内存消耗：2,384.19kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING)[/data/code/application/api/controller/dd/Dddatalink.php:7]
+---------------------------------------------------------------
+[ 2021-01-07T14:25:41+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.016066s] [吞吐率：62.24req/s] [内存消耗：2,384.19kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING)[/data/code/application/api/controller/dd/Dddatalink.php:7]
+---------------------------------------------------------------
+[ 2021-01-07T14:25:42+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.015083s] [吞吐率：66.30req/s] [内存消耗：2,384.19kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING)[/data/code/application/api/controller/dd/Dddatalink.php:7]
+---------------------------------------------------------------
+[ 2021-01-07T14:26:16+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018868s] [吞吐率：53.00req/s] [内存消耗：2,933.85kb] [文件加载：136]
+[ error ] [0]类不存在:app\api\controller\Formulaone[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:26:32+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.019062s] [吞吐率：52.46req/s] [内存消耗：3,048.92kb] [文件加载：138]
+[ error ] [1]Class 'app\common\controller\v1\Base' not found[/data/code/application/api/controller/dd/Formulaone.php:17]
+---------------------------------------------------------------
+[ 2021-01-07T14:27:01+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018522s] [吞吐率：53.99req/s] [内存消耗：3,048.92kb] [文件加载：138]
+[ error ] [1]Class 'app\common\controller\v1\Base' not found[/data/code/application/api/controller/dd/Formulaone.php:17]
+---------------------------------------------------------------
+[ 2021-01-07T14:27:59+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.019229s] [吞吐率：52.00req/s] [内存消耗：3,021.99kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:29:30+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018402s] [吞吐率：54.34req/s] [内存消耗：3,022.30kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:29:32+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018231s] [吞吐率：54.85req/s] [内存消耗：3,021.99kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:31:02+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018914s] [吞吐率：52.87req/s] [内存消耗：3,021.99kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:31:03+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.018814s] [吞吐率：53.15req/s] [内存消耗：3,021.99kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:32:10+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.019182s] [吞吐率：52.13req/s] [内存消耗：3,022.30kb] [文件加载：137]
+[ error ] [0]类不存在:app\api\controller\Formulatwo[/data/code/thinkphp/library/think/Loader.php:490]
+---------------------------------------------------------------
+[ 2021-01-07T14:32:23+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.019314s] [吞吐率：51.78req/s] [内存消耗：3,160.91kb] [文件加载：139]
+[ error ] [1]Class 'app\common\controller\v1\Base' not found[/data/code/application/api/controller/dd/Formulatwo.php:19]
+---------------------------------------------------------------
+[ 2021-01-07T14:32:47+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.020048s] [吞吐率：49.88req/s] [内存消耗：3,227.14kb] [文件加载：140]
+[ error ] [1]Class 'app\common\controller\v1\Base' not found[/data/code/application/api/controller/dd/Formulathree.php:25]
+---------------------------------------------------------------
+[ 2021-01-07T14:32:56+08:00 ] 101.89.239.232 GET api.tao5g.cn/api/dd/Dddatalink/testgo
+[运行时间：0.019452s] [吞吐率：51.41req/s] [内存消耗：3,223.02kb] [文件加载：140]
+[ error ] [1]Class 'app\common\controller\v1\Base' not found[/data/code/application/api/controller/dd/Formulathree.php:25]
+---------------------------------------------------------------
+[ 2021-01-07T14:47:58+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.169002s] [吞吐率：5.92req/s] [内存消耗：3,844.34kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-07T14:54:49+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171143s] [吞吐率：5.84req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-07T16:25:21+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023472s] [吞吐率：42.60req/s] [内存消耗：3,726.36kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-07T16:25:32+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023792s] [吞吐率：42.03req/s] [内存消耗：3,739.31kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]

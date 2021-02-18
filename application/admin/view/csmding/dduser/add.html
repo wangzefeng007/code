@@ -1,0 +1,306 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Userid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-userid" data-rule="required" class="form-control" name="row[userid]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Unionid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-unionid" data-rule="required" class="form-control" name="row[unionid]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="required" class="form-control" name="row[name]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Tel')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-tel" class="form-control" name="row[tel]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Workplace')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-workplace" class="form-control" name="row[workplace]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Remark')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-remark" class="form-control " rows="5" name="row[remark]" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mobile')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-mobile" class="form-control" name="row[mobile]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Email')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-email" class="form-control" name="row[email]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Orgemail')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-orgemail" class="form-control" name="row[orgemail]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Orderindepts')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-orderindepts" class="form-control" name="row[orderindepts]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Active')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-active" class="form-control selectpicker" name="row[active]">
+                {foreach name="activeList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Isadmin')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-isadmin" class="form-control selectpicker" name="row[isadmin]">
+                {foreach name="isadminList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Isboss')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-isboss" class="form-control selectpicker" name="row[isboss]">
+                {foreach name="isbossList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Isleaderindepts')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-isleaderindepts" class="form-control" name="row[isleaderindepts]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ishide')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-ishide" class="form-control selectpicker" name="row[ishide]">
+                {foreach name="ishideList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Position')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-position" class="form-control" name="row[position]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Avatar')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-avatar" class="form-control" size="50" name="row[avatar]" type="text" value="">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-avatar" class="btn btn-danger plupload" data-input-id="c-avatar" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp" data-multiple="false" data-preview-id="p-avatar"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-avatar" class="btn btn-primary fachoose" data-input-id="c-avatar" data-mimetype="image/*" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-avatar"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-avatar"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Hireddate')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-hireddate" class="form-control" name="row[hireddate]" type="number" value="0">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Jobnumber')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-jobnumber" class="form-control" name="row[jobnumber]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Extattr')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-extattr" class="form-control " rows="5" name="row[extattr]" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Issenior')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-issenior" class="form-control selectpicker" name="row[issenior]">
+                {foreach name="isseniorList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Statecode')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-statecode" class="form-control" name="row[statecode]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Order')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-order" class="form-control" name="row[order]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Isleader')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-isleader" class="form-control selectpicker" name="row[isleader]">
+                {foreach name="isleaderList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Status')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <div class="radio">
+            {foreach name="statusList" item="vo"}
+            <label for="row[status]-{$key}"><input id="row[status]-{$key}" name="row[status]" type="radio" value="{$key}" {in name="key" value="'normal'"}checked{/in} /> {$vo}</label> 
+            {/foreach}
+            </div>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Faadmin_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-faadmin_id" data-rule="required" data-source="faadmin/index" class="form-control selectpage" name="row[faadmin_id]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Fauser_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-fauser_id" data-rule="required" data-source="fauser/index" class="form-control selectpage" name="row[fauser_id]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Faisactivie')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-faisactivie" class="form-control selectpicker" name="row[faisactivie]">
+                {foreach name="faisactivieList" item="vo"}
+                    <option value="{$key}" {in name="key" value="'false'"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Faisfilladmin')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-faisfilladmin" class="form-control selectpicker" name="row[faisfilladmin]">
+                {foreach name="faisfilladminList" item="vo"}
+                    <option value="{$key}" {in name="key" value="'false'"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B1')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b1" class="form-control" name="row[b1]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B2')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b2" class="form-control" name="row[b2]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B3')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b3" class="form-control" name="row[b3]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B4')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b4" class="form-control" name="row[b4]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B5')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b5" class="form-control" name="row[b5]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B6')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b6" class="form-control" name="row[b6]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B7')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b7" class="form-control" name="row[b7]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B8')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b8" class="form-control" name="row[b8]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('B9')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-b9" class="form-control" name="row[b9]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Remoteversion')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-remoteversion" class="form-control" name="row[remoteversion]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

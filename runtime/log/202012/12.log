@@ -1,0 +1,96 @@
+---------------------------------------------------------------
+[ 2020-12-12T09:25:01+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014518s] [吞吐率：68.88req/s] [内存消耗：2,392.13kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/data/code/application/api/controller/v1/Excle.php:90]
+---------------------------------------------------------------
+[ 2020-12-12T09:36:54+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014745s] [吞吐率：67.82req/s] [内存消耗：2,392.13kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected 'dump' (T_STRING)[/data/code/application/api/controller/v1/Excle.php:75]
+---------------------------------------------------------------
+[ 2020-12-12T09:37:07+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032756s] [吞吐率：30.53req/s] [内存消耗：3,744.80kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-12T09:38:00+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032389s] [吞吐率：30.87req/s] [内存消耗：3,743.37kb] [文件加载：145]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\v1\dummp()[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-12T09:39:00+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032807s] [吞吐率：30.48req/s] [内存消耗：3,744.80kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:102]
+---------------------------------------------------------------
+[ 2020-12-12T09:39:37+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033068s] [吞吐率：30.24req/s] [内存消耗：3,744.80kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:102]
+---------------------------------------------------------------
+[ 2020-12-12T09:40:46+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032970s] [吞吐率：30.33req/s] [内存消耗：3,744.68kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:104]
+---------------------------------------------------------------
+[ 2020-12-12T09:41:28+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031977s] [吞吐率：31.27req/s] [内存消耗：3,744.68kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-12T09:49:30+08:00 ] 120.36.179.144 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033359s] [吞吐率：29.98req/s] [内存消耗：3,745.81kb] [文件加载：146]
+[ error ] [2]Missing argument 1 for app\api\controller\v1\Excle::rowtable_spans_all_array(), called in /data/code/application/api/controller/v1/Excle.php on line 74 and defined[/data/code/application/api/controller/v1/Excle.php:122]
+---------------------------------------------------------------
+[ 2020-12-12T10:54:26+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032565s] [吞吐率：30.71req/s] [内存消耗：3,746.90kb] [文件加载：146]
+[ error ] [8]未定义变量: rowCount_rowCount[/data/code/application/api/controller/v1/Excle.php:131]
+---------------------------------------------------------------
+[ 2020-12-12T11:35:49+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.015047s] [吞吐率：66.46req/s] [内存消耗：2,392.23kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/data/code/application/api/controller/v1/Excle.php:90]
+---------------------------------------------------------------
+[ 2020-12-12T12:08:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033699s] [吞吐率：29.67req/s] [内存消耗：3,751.66kb] [文件加载：146]
+[ error ] [8]未定义数组索引: $key[/data/code/application/api/controller/v1/Excle.php:109]
+---------------------------------------------------------------
+[ 2020-12-12T12:26:29+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.031496s] [吞吐率：31.75req/s] [内存消耗：3,751.65kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 8[/data/code/application/api/controller/v1/Excle.php:113]
+---------------------------------------------------------------
+[ 2020-12-12T12:26:42+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033517s] [吞吐率：29.84req/s] [内存消耗：3,751.51kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 8[/data/code/application/api/controller/v1/Excle.php:113]
+---------------------------------------------------------------
+[ 2020-12-12T12:59:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033160s] [吞吐率：30.16req/s] [内存消耗：3,752.90kb] [文件加载：146]
+[ error ] [8]未定义变量: val[/data/code/application/api/controller/v1/Excle.php:119]
+---------------------------------------------------------------
+[ 2020-12-12T13:25:13+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032353s] [吞吐率：30.91req/s] [内存消耗：3,753.01kb] [文件加载：146]
+[ error ] [8]未定义数组索引: rowCount[/data/code/application/api/controller/v1/Excle.php:126]
+---------------------------------------------------------------
+[ 2020-12-12T13:28:50+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032297s] [吞吐率：30.96req/s] [内存消耗：3,752.88kb] [文件加载：146]
+[ error ] [8]未定义数组索引: 年 月 日[/data/code/application/api/controller/v1/Excle.php:143]
+---------------------------------------------------------------
+[ 2020-12-12T13:43:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.015023s] [吞吐率：66.56req/s] [内存消耗：2,392.23kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/data/code/application/api/controller/v1/Excle.php:160]
+---------------------------------------------------------------
+[ 2020-12-12T14:05:20+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032474s] [吞吐率：30.79req/s] [内存消耗：3,757.44kb] [文件加载：146]
+[ error ] [8]未定义变量: j[/data/code/application/api/controller/v1/Excle.php:152]
+---------------------------------------------------------------
+[ 2020-12-12T14:05:42+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032170s] [吞吐率：31.09req/s] [内存消耗：3,757.44kb] [文件加载：146]
+[ error ] [8]未定义变量: j[/data/code/application/api/controller/v1/Excle.php:152]
+---------------------------------------------------------------
+[ 2020-12-12T15:00:02+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033219s] [吞吐率：30.10req/s] [内存消耗：3,753.84kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 10[/data/code/application/api/controller/v1/Excle.php:79]
+---------------------------------------------------------------
+[ 2020-12-12T15:05:25+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032059s] [吞吐率：31.19req/s] [内存消耗：3,754.08kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 10[/data/code/application/api/controller/v1/Excle.php:80]
+---------------------------------------------------------------
+[ 2020-12-12T15:06:06+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032841s] [吞吐率：30.45req/s] [内存消耗：3,754.25kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 10[/data/code/application/api/controller/v1/Excle.php:80]
+---------------------------------------------------------------
+[ 2020-12-12T15:06:22+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033621s] [吞吐率：29.74req/s] [内存消耗：3,754.25kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 10[/data/code/application/api/controller/v1/Excle.php:80]

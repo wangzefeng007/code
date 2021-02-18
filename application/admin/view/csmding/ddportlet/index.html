@@ -1,0 +1,124 @@
+<style>
+#ribbon {
+	display: none;
+}
+
+.content {
+	padding: 0px !important;
+	background-color: white;
+}
+
+.csmding-apps {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+.glyphicon {
+	font-size: 24px;
+}
+
+.csmdingapps .panel-body {
+	text-align: center;
+}
+
+.csmdingapps .col-xs-3 {
+	height: 60px;
+}
+
+.panel {
+	margin-bottom: 0px !important;
+}
+h4{
+	font-weight:bold;
+	font-size:14px;
+}
+.media-body{
+	font-size:12px;
+}
+.col-xs-12,.col-sm-12,.col-md-12,.col-lg-12{
+	padding-left:10px !important;
+	padding-right:0px !important;
+}
+body{
+	overflow: hidden !important;
+}
+</style>
+<div class="container-fluid">
+	<div class="row">
+		<div id="carousel-example-generic" class="carousel slide"
+			data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#carousel-example-generic" data-slide-to="0"
+					class="active"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+			</ol>
+
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner" role="listbox">
+				{foreach $banners as $k=>$row} 
+				<div class="item {eq name="k" value="0" }active{/eq}">
+					<img class="carousel-img" src="{$row.image|cdnurl}" width="100%" data-url="{$row.url}"> 
+				</div>
+				{/foreach}
+			</div>
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#carousel-example-generic"
+				role="button" data-slide="prev"> <span
+				class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a> <a class="right carousel-control" href="#carousel-example-generic"
+				role="button" data-slide="next"> <span
+				class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="panel panel-default csmdingapps">
+			<div class="panel-heading">
+				<h3 class="panel-title">功能清单</h3>
+			</div>
+			<div class="panel-body">
+				{foreach $funcs as $k=>$row} 
+				<div class="col-xs-3 t1" onclick='window.open(Fast.api.fixurl("{$row->url}"));' data-url="{$row->url}">
+					<img src="{$row.image|cdnurl}" width="40px" class="">
+					<h6>{$row.name}</h6>
+				</div>
+				{/foreach}
+			</div>
+		</div>
+	</div>
+
+
+	<div class="row csmdingarticle">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">最新资讯</h3>
+			</div>
+			<div class="panel-body">
+				{foreach $articles as $k=>$row} 
+					<div class="media articlehref" data-type="{$row.type}" data-url="{$row.url}" data-id="{$row.id}">
+						<div class="media-left">
+							<a href="#"> <img class="media-object"
+								data-src="holder.js/64x64" alt="64x64"
+								src="{$row.image|cdnurl}"
+								data-holder-rendered="true" style=" height: 64px;">
+							</a>
+						</div>
+						<div class="media-body">
+							<h4 class="media-heading">{$row.title}</h4>
+							{$row.intro}
+						</div>
+					</div>
+				{/foreach}
+			</div>
+		</div>
+	</div>
+
+	<div class="row"></div>
+
+</div>

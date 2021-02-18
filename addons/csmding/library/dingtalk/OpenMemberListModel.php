@@ -1,0 +1,17 @@
+<?php 
+namespace addons\csmding\library\dingtalk;
+//<?php
+
+/**
+ * 成员列表
+ * @author auto create
+ */
+class OpenMemberListModel
+{
+	
+	/** 
+	 * 成员信息
+	 **/
+	public $member_list;	
+}
+?>

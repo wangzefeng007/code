@@ -1,0 +1,208 @@
+---------------------------------------------------------------
+[ 2021-01-08T15:44:42+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.150059s] [吞吐率：6.66req/s] [内存消耗：3,844.25kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T16:42:42+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024749s] [吞吐率：40.41req/s] [内存消耗：3,847.98kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-08T17:35:18+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.160099s] [吞吐率：6.25req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T17:35:47+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.025573s] [吞吐率：39.10req/s] [内存消耗：2,963.86kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-08T17:35:47+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.028020s] [吞吐率：35.69req/s] [内存消耗：2,963.88kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-08T17:35:47+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.046423s] [吞吐率：21.54req/s] [内存消耗：2,963.82kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-08T17:35:52+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022824s] [吞吐率：43.81req/s] [内存消耗：3,741.70kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2021-01-08T17:53:25+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Dddatalink/testexcel
+[运行时间：0.014691s] [吞吐率：68.07req/s] [内存消耗：2,383.93kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '.'[/data/code/application/api/controller/dd/Dddatalink.php:49]
+---------------------------------------------------------------
+[ 2021-01-08T18:06:47+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.149101s] [吞吐率：6.71req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T18:07:50+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.024016s] [吞吐率：41.64req/s] [内存消耗：3,739.30kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-08T18:08:32+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.018115s] [吞吐率：55.20req/s] [内存消耗：2,963.86kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-08T18:08:34+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.018093s] [吞吐率：55.27req/s] [内存消耗：2,963.88kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-08T18:08:36+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017506s] [吞吐率：57.12req/s] [内存消耗：2,963.82kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-08T18:10:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.024800s] [吞吐率：40.32req/s] [内存消耗：2,963.88kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-08T18:10:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.044795s] [吞吐率：22.32req/s] [内存消耗：2,963.84kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-08T18:10:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.046709s] [吞吐率：21.41req/s] [内存消耗：2,963.89kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-08T18:11:07+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023116s] [吞吐率：43.26req/s] [内存消耗：3,741.70kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2021-01-08T18:12:19+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.185830s] [吞吐率：5.38req/s] [内存消耗：3,844.27kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:27+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031557s] [吞吐率：31.69req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:33+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031511s] [吞吐率：31.73req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:35+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.033062s] [吞吐率：30.25req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:36+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.032001s] [吞吐率：31.25req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:50+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.032038s] [吞吐率：31.21req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:13:54+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031584s] [吞吐率：31.66req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:14:38+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031498s] [吞吐率：31.75req/s] [内存消耗：3,925.21kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:15:31+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.165472s] [吞吐率：6.04req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T18:24:21+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.033137s] [吞吐率：30.18req/s] [内存消耗：3,925.03kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:25:55+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.037658s] [吞吐率：26.55req/s] [内存消耗：3,788.51kb] [文件加载：145]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Dddatalink.php(71) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:26:52+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031486s] [吞吐率：31.76req/s] [内存消耗：3,783.22kb] [文件加载：144]
+[ error ] [8]未定义变量: Formulaone[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2021-01-08T18:27:50+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.033584s] [吞吐率：29.78req/s] [内存消耗：3,965.20kb] [文件加载：147]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:28:21+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.033870s] [吞吐率：29.52req/s] [内存消耗：3,965.20kb] [文件加载：147]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:29:21+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.032949s] [吞吐率：30.35req/s] [内存消耗：3,965.26kb] [文件加载：147]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:30:56+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.033337s] [吞吐率：30.00req/s] [内存消耗：3,965.26kb] [文件加载：147]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:34:29+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019110s] [吞吐率：52.33req/s] [内存消耗：3,158.13kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(941) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:35:00+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019946s] [吞吐率：50.14req/s] [内存消耗：3,158.34kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(941) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:35:15+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.020484s] [吞吐率：48.82req/s] [内存消耗：3,158.34kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected '29' (T_LNUMBER), expecting ';'[/data/code/application/api/controller/dd/Formulaone.php(941) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:35:33+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019664s] [吞吐率：50.85req/s] [内存消耗：3,158.31kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ';'[/data/code/application/api/controller/dd/Formulaone.php(941) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:36:15+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019355s] [吞吐率：51.67req/s] [内存消耗：3,158.66kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ',' or ')'[/data/code/application/api/controller/dd/Formulaone.php(941) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:37:10+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019798s] [吞吐率：50.51req/s] [内存消耗：3,158.63kb] [文件加载：140]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting ';'[/data/code/application/api/controller/dd/Formulaone.php(942) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:37:50+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.019078s] [吞吐率：52.42req/s] [内存消耗：2,968.74kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:38:23+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.018837s] [吞吐率：53.09req/s] [内存消耗：2,968.74kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:38:57+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.018939s] [吞吐率：52.80req/s] [内存消耗：2,969.05kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:39:33+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.018113s] [吞吐率：55.21req/s] [内存消耗：2,968.86kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:40:23+08:00 ] 120.36.239.93 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.018457s] [吞吐率：54.18req/s] [内存消耗：2,968.43kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:40:27+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031600s] [吞吐率：31.65req/s] [内存消耗：3,783.20kb] [文件加载：144]
+[ error ] [8]未定义变量: Formulaone[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2021-01-08T18:41:07+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.031431s] [吞吐率：31.82req/s] [内存消耗：3,965.29kb] [文件加载：147]
+[ error ] [0]致命错误: Call to undefined function CONCATENATE()[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:42:06+08:00 ] 61.129.6.251 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.018957s] [吞吐率：52.75req/s] [内存消耗：2,964.31kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:42:20+08:00 ] 101.89.239.120 GET api.tao5g.cn/api/dd/Formulaone/countjson
+[运行时间：0.017575s] [吞吐率：56.90req/s] [内存消耗：2,964.74kb] [文件加载：135]
+[ error ] [0]方法参数错误:json_str[/data/code/thinkphp/library/think/App.php:431]
+---------------------------------------------------------------
+[ 2021-01-08T18:45:34+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.032554s] [吞吐率：30.72req/s] [内存消耗：3,965.35kb] [文件加载：147]
+[ error ] [0]致命错误: Call to undefined function CONCATENATE()[/data/code/application/api/controller/dd/Formulaone.php(940) : eval()'d code:1]
+---------------------------------------------------------------
+[ 2021-01-08T18:46:46+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024993s] [吞吐率：40.01req/s] [内存消耗：3,847.96kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-08T18:55:24+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151098s] [吞吐率：6.62req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-08T18:58:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024157s] [吞吐率：41.40req/s] [内存消耗：3,726.34kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]

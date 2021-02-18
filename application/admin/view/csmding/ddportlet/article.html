@@ -1,0 +1,30 @@
+<style>
+#ribbon {
+	display: none;
+}
+.panel-body-title{
+	text-align:center;
+	font-weight:bold;
+}
+.panel-body-img{
+	padding-bottom:10px;
+}
+.panel-body p{
+	line-height: 18px;
+}
+</style>
+<div class="container-fluid">
+	<div class="row">
+		<div class="panel panel-default csmdingapps">
+			<div class="panel-body">
+				<h4 class="panel-body-title">{$row.title}</h4>
+				<div class="panel-body-img"><img src='{$row.image|cdnurl}' width="100%"/></div>
+				<p>{$row.content}</p>
+			</div>
+		</div>
+	</div>
+ 
+
+	<div class="row"></div>
+
+</div>

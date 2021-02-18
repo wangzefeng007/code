@@ -1,0 +1,152 @@
+---------------------------------------------------------------
+[ 2020-12-15T11:23:22+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025841s] [吞吐率：38.70req/s] [内存消耗：3,748.89kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[company_id ][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-15T11:23:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.024928s] [吞吐率：40.12req/s] [内存消耗：3,755.34kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:41]
+---------------------------------------------------------------
+[ 2020-12-15T11:24:51+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025093s] [吞吐率：39.85req/s] [内存消耗：3,755.40kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:42]
+---------------------------------------------------------------
+[ 2020-12-15T11:25:16+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025280s] [吞吐率：39.56req/s] [内存消耗：3,755.40kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:42]
+---------------------------------------------------------------
+[ 2020-12-15T11:25:31+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025088s] [吞吐率：39.86req/s] [内存消耗：3,748.95kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[company_id ][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-15T11:27:39+08:00 ] 203.119.241.119 GET api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.023876s] [吞吐率：41.88req/s] [内存消耗：3,647.90kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T11:27:39+08:00 ] 47.92.248.4 GET api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.023665s] [吞吐率：42.26req/s] [内存消耗：3,647.90kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T11:32:02+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024261s] [吞吐率：41.22req/s] [内存消耗：3,721.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T11:36:43+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_get
+[运行时间：0.024077s] [吞吐率：41.53req/s] [内存消耗：3,715.46kb] [文件加载：146]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\Db' not found[/data/code/application/api/controller/v1/Saveform.php:51]
+---------------------------------------------------------------
+[ 2020-12-15T11:38:35+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_get
+[运行时间：0.023881s] [吞吐率：41.87req/s] [内存消耗：3,697.58kb] [文件加载：147]
+[ error ] [2]base64_decode() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T11:39:34+08:00 ] 120.36.239.228 GET api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.023607s] [吞吐率：42.36req/s] [内存消耗：3,651.63kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T12:13:07+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.022631s] [吞吐率：44.19req/s] [内存消耗：3,696.80kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T12:13:07+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025223s] [吞吐率：39.65req/s] [内存消耗：3,765.23kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-15T14:14:58+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.022597s] [吞吐率：44.25req/s] [内存消耗：3,696.80kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T14:14:58+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.024746s] [吞吐率：40.41req/s] [内存消耗：3,765.98kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-15T14:15:33+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025206s] [吞吐率：39.67req/s] [内存消耗：3,765.98kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:52]
+---------------------------------------------------------------
+[ 2020-12-15T14:21:18+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.028948s] [吞吐率：34.54req/s] [内存消耗：3,766.09kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:24:15+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025097s] [吞吐率：39.85req/s] [内存消耗：3,766.09kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:29:51+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.024831s] [吞吐率：40.27req/s] [内存消耗：3,773.34kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:36:06+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.025521s] [吞吐率：39.18req/s] [内存消耗：3,764.59kb] [文件加载：150]
+[ error ] [2]Creating default object from empty value[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:36:39+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save?company=095a3f3711&structureid=0&form_strstructure=[{%22type%22:%22card%22,%22label%22:%22%E6%B7%BB%E5%8A%A0%E5%B7%A5%E5%BA%8F%22,%22typename%22:%22%E5%B7%A5%E5%BA%8F%22,%22formtype%22:%22k-form-card%22,%22list%22:[{%22type%22:%22input%22,%22label%22:%22%E5%8D%95%E8%A1%8C%E6%96%87%E6%9C%AC%22,%22typename%22:%22%E5%8D%95%E8%A1%8C%E6%96%87%E6%9C%AC%22,%22icon%22:%22/img/image5.a48c61ff.svg%22,%22formtype%22:%22%22,%22options%22:{%22type%22:%22text%22,%22width%22:%2250%%22,%22defaultValue%22:%22%22,%22placeholder%22:%22%E8%AF%B7%E8%BE%93%E5%85%A5%22,%22mr_pitchon%22:%220%22,%22clearable%22:true,%22maxLength%22:null,%22hidden%22:true,%22disabled%22:true},%22model%22:%22input_1608014162518%22,%22describe%22:%22%22,%22key%22:%22input_1608014162518%22,%22rules%22:[{%22required%22:false,%22message%22:%22%E5%BF%85%E5%A1%AB%E9%A1%B9%22}]},{%22type%22:%22input%22,%22label%22:%22%E5%8D%95%E8%A1%8C%E6%96%87%E6%9C%AC%22,%22typename%22:%22%E5%8D%95%E8%A1%8C%E6%96%87%E6%9C%AC%22,%22icon%22:%22/img/image5.a48c61ff.svg%22,%22formtype%22:%22%22,%22options%22:{%22type%22:%22text%22,%22width%22:%2250%%22,%22defaultValue%22:%22%22,%22placeholder%22:%22%E8%AF%B7%E8%BE%93%E5%85%A5%22,%22mr_pitchon%22:%220%22,%22clearable%22:true,%22maxLength%22:null,%22hidden%22:true,%22disabled%22:true},%22model%22:%22input_1608014163370%22,%22describe%22:%22%22,%22key%22:%22input_1608014163370%22,%22rules%22:[{%22required%22:false,%22message%22:%22%E5%BF%85%E5%A1%AB%E9%A1%B9%22}]}],%22options%22:{%22mr_pitchon%22:%220%22},%22key%22:%22card_1608014161542%22}]&apply_id=20&form_name=%E9%BB%98%E8%AE%A4%E8%A1%A8%E5%8D%95%E6%A0%87%E9%A2%98&form_hierarchy=0
+[运行时间：0.026387s] [吞吐率：37.90req/s] [内存消耗：3,724.73kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T14:39:46+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save?=&=&=&=&=&=
+[运行时间：0.025290s] [吞吐率：39.54req/s] [内存消耗：3,756.91kb] [文件加载：149]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\Formstructure' not found[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:40:33+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.024677s] [吞吐率：40.52req/s] [内存消耗：3,758.52kb] [文件加载：149]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\Formstructure' not found[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T14:45:26+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.024331s] [吞吐率：41.10req/s] [内存消耗：3,758.52kb] [文件加载：149]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\Formstructure' not found[/data/code/application/api/controller/v1/Saveform.php:53]
+---------------------------------------------------------------
+[ 2020-12-15T15:27:00+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022947s] [吞吐率：43.58req/s] [内存消耗：3,721.49kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T16:18:50+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023378s] [吞吐率：42.78req/s] [内存消耗：3,721.67kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T16:19:05+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023273s] [吞吐率：42.97req/s] [内存消耗：3,721.50kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T16:36:16+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023333s] [吞吐率：42.86req/s] [内存消耗：3,721.66kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T16:40:47+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Saveform/form_save
+[运行时间：0.023560s] [吞吐率：42.44req/s] [内存消耗：3,696.76kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-15T17:31:02+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022740s] [吞吐率：43.98req/s] [内存消耗：3,705.84kb] [文件加载：145]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:35]
+---------------------------------------------------------------
+[ 2020-12-15T17:31:02+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023418s] [吞吐率：42.70req/s] [内存消耗：3,757.66kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:35]
+---------------------------------------------------------------
+[ 2020-12-15T17:32:35+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024222s] [吞吐率：41.28req/s] [内存消耗：3,757.97kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:36]
+---------------------------------------------------------------
+[ 2020-12-15T17:33:23+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.026052s] [吞吐率：38.38req/s] [内存消耗：3,757.97kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:36]
+---------------------------------------------------------------
+[ 2020-12-15T17:34:01+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024651s] [吞吐率：40.57req/s] [内存消耗：3,757.91kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:36]
+---------------------------------------------------------------
+[ 2020-12-15T17:35:34+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.025165s] [吞吐率：39.74req/s] [内存消耗：3,757.97kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:36]
+---------------------------------------------------------------
+[ 2020-12-15T17:36:44+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024225s] [吞吐率：41.28req/s] [内存消耗：3,757.61kb] [文件加载：150]
+[ error ] [8]未定义变量: POST[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-15T17:37:09+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024584s] [吞吐率：40.68req/s] [内存消耗：3,757.66kb] [文件加载：150]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Newsaveform.php:35]
+---------------------------------------------------------------
+[ 2020-12-15T17:41:15+08:00 ] 120.36.239.228 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021935s] [吞吐率：45.59req/s] [内存消耗：3,705.84kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]

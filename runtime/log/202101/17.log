@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2021-01-17T19:18:45+08:00 ] 222.78.57.214 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.024349s] [吞吐率：41.07req/s] [内存消耗：3,739.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-17T19:18:48+08:00 ] 222.78.57.214 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.208877s] [吞吐率：4.79req/s] [内存消耗：3,844.38kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-17T19:19:37+08:00 ] 222.78.57.214 OPTIONS api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023140s] [吞吐率：43.22req/s] [内存消耗：3,736.43kb] [文件加载：144]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]

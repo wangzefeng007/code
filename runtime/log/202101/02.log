@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2021-01-02T15:56:08+08:00 ] 120.38.5.104 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.153618s] [吞吐率：6.51req/s] [内存消耗：3,844.27kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-02T15:56:32+08:00 ] 120.38.5.104 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024194s] [吞吐率：41.33req/s] [内存消耗：3,741.80kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]

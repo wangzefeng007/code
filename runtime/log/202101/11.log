@@ -1,0 +1,48 @@
+---------------------------------------------------------------
+[ 2021-01-11T11:09:41+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.216345s] [吞吐率：4.62req/s] [内存消耗：3,844.27kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-11T15:39:02+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.025117s] [吞吐率：39.81req/s] [内存消耗：3,739.32kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-11T15:44:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.156236s] [吞吐率：6.40req/s] [内存消耗：3,844.28kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-11T15:52:17+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171476s] [吞吐率：5.83req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-11T16:21:47+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.026468s] [吞吐率：37.78req/s] [内存消耗：3,899.02kb] [文件加载：149]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:496]
+---------------------------------------------------------------
+[ 2021-01-11T16:23:03+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.026087s] [吞吐率：38.33req/s] [内存消耗：3,899.02kb] [文件加载：149]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:496]
+---------------------------------------------------------------
+[ 2021-01-11T16:26:18+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.026823s] [吞吐率：37.28req/s] [内存消耗：3,899.01kb] [文件加载：149]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:496]
+---------------------------------------------------------------
+[ 2021-01-11T16:35:15+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.153094s] [吞吐率：6.53req/s] [内存消耗：3,842.92kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-11T17:12:30+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023982s] [吞吐率：41.70req/s] [内存消耗：3,726.34kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-11T17:12:43+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023250s] [吞吐率：43.01req/s] [内存消耗：3,739.30kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-11T17:26:06+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023483s] [吞吐率：42.58req/s] [内存消耗：3,812.81kb] [文件加载：142]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:87]
+---------------------------------------------------------------
+[ 2021-01-11T17:30:38+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.083740s] [吞吐率：11.94req/s] [内存消耗：3,866.29kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:1238]

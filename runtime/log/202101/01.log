@@ -1,0 +1,288 @@
+---------------------------------------------------------------
+[ 2021-01-01T08:40:28+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.026885s] [吞吐率：37.20req/s] [内存消耗：2,963.87kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-01T08:40:28+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.055262s] [吞吐率：18.10req/s] [内存消耗：2,963.89kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-01T08:40:28+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.066618s] [吞吐率：15.01req/s] [内存消耗：2,963.84kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-01T08:42:40+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024896s] [吞吐率：40.17req/s] [内存消耗：3,838.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-01T12:04:34+08:00 ] 223.104.6.57 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023122s] [吞吐率：43.25req/s] [内存消耗：3,623.91kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:04:41+08:00 ] 223.104.6.57 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023749s] [吞吐率：42.11req/s] [内存消耗：3,623.91kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:16:26+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155763s] [吞吐率：6.42req/s] [内存消耗：3,842.94kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-01T12:18:45+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017544s] [吞吐率：57.00req/s] [内存消耗：2,962.48kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-01T12:18:46+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017163s] [吞吐率：58.26req/s] [内存消耗：2,962.49kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-01T12:18:47+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017722s] [吞吐率：56.43req/s] [内存消耗：2,962.44kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-01T12:18:56+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022504s] [吞吐率：44.44req/s] [内存消耗：3,745.09kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2021-01-01T12:23:18+08:00 ] 120.36.179.93 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023994s] [吞吐率：41.68req/s] [内存消耗：3,737.98kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-01T12:25:04+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.015647s] [吞吐率：63.91req/s] [内存消耗：2,388.84kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:268]
+---------------------------------------------------------------
+[ 2021-01-01T12:29:53+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.015703s] [吞吐率：63.68req/s] [内存消耗：2,388.84kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:268]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:13+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.015849s] [吞吐率：63.10req/s] [内存消耗：2,408.49kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:268]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:13+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.016365s] [吞吐率：61.11req/s] [内存消耗：2,385.66kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:268]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:13+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.176386s] [吞吐率：5.67req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:18+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.018930s] [吞吐率：52.83req/s] [内存消耗：2,385.66kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:268]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:26+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.015493s] [吞吐率：64.55req/s] [内存消耗：2,388.84kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:272]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:32+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.022323s] [吞吐率：44.80req/s] [内存消耗：2,385.66kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:272]
+---------------------------------------------------------------
+[ 2021-01-01T12:31:38+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/newsaveform/form_get
+[运行时间：0.019876s] [吞吐率：50.31req/s] [内存消耗：2,385.66kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '}', expecting end of file[/data/code/application/api/controller/v1/Newsaveform.php:272]
+---------------------------------------------------------------
+[ 2021-01-01T12:33:16+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.025220s] [吞吐率：39.65req/s] [内存消耗：2,963.86kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2021-01-01T12:33:16+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.021780s] [吞吐率：45.91req/s] [内存消耗：2,963.88kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2021-01-01T12:33:16+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.051360s] [吞吐率：19.47req/s] [内存消耗：2,963.82kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2021-01-01T12:33:50+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022679s] [吞吐率：44.09req/s] [内存消耗：3,746.47kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2021-01-01T12:34:11+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.022551s] [吞吐率：44.34req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:34:16+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.028845s] [吞吐率：34.67req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:35:16+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023739s] [吞吐率：42.13req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:35:18+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.068375s] [吞吐率：14.63req/s] [内存消耗：3,752.94kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[name][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T12:35:19+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.031024s] [吞吐率：32.23req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:35:22+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023189s] [吞吐率：43.12req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:37:31+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023404s] [吞吐率：42.73req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:38:35+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023401s] [吞吐率：42.73req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:41:05+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023611s] [吞吐率：42.35req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:41:09+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023378s] [吞吐率：42.78req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:41:13+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/datalink/dd_get_group_list
+[运行时间：0.018016s] [吞吐率：55.51req/s] [内存消耗：2,935.16kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/v1/Datalink.php:207]
+---------------------------------------------------------------
+[ 2021-01-01T12:41:30+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/datalink/dd_get_group_list
+[运行时间：0.022242s] [吞吐率：44.96req/s] [内存消耗：2,935.16kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/v1/Datalink.php:207]
+---------------------------------------------------------------
+[ 2021-01-01T12:42:38+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023288s] [吞吐率：42.94req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:44:59+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.066943s] [吞吐率：14.94req/s] [内存消耗：3,765.75kb] [文件加载：150]
+[ error ] [2]Illegal offset type[/data/code/application/api/controller/v1/Newsaveform.php:167]
+---------------------------------------------------------------
+[ 2021-01-01T12:52:16+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023675s] [吞吐率：42.24req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:52:18+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023107s] [吞吐率：43.28req/s] [内存消耗：3,624.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T12:55:56+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.098072s] [吞吐率：10.20req/s] [内存消耗：3,763.41kb] [文件加载：150]
+[ error ] [2]Illegal string offset 'groupId'[/data/code/application/api/controller/v1/Newsaveform.php:160]
+---------------------------------------------------------------
+[ 2021-01-01T12:56:26+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097034s] [吞吐率：10.31req/s] [内存消耗：3,762.65kb] [文件加载：150]
+[ error ] [2]Illegal string offset 'linkageShow'[/data/code/application/api/controller/v1/Newsaveform.php:165]
+---------------------------------------------------------------
+[ 2021-01-01T12:57:36+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097469s] [吞吐率：10.26req/s] [内存消耗：3,763.87kb] [文件加载：150]
+[ error ] [8]未定义变量: linkageObj[/data/code/application/api/controller/v1/Newsaveform.php:163]
+---------------------------------------------------------------
+[ 2021-01-01T12:59:06+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.106491s] [吞吐率：9.39req/s] [内存消耗：3,763.99kb] [文件加载：150]
+[ error ] [8]未定义变量: linkageObj[/data/code/application/api/controller/v1/Newsaveform.php:163]
+---------------------------------------------------------------
+[ 2021-01-01T12:59:19+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097831s] [吞吐率：10.22req/s] [内存消耗：3,763.99kb] [文件加载：150]
+[ error ] [8]未定义变量: linkageObj[/data/code/application/api/controller/v1/Newsaveform.php:163]
+---------------------------------------------------------------
+[ 2021-01-01T13:00:24+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097935s] [吞吐率：10.21req/s] [内存消耗：3,764.02kb] [文件加载：150]
+[ error ] [8]未定义变量: instval[/data/code/application/api/controller/v1/Newsaveform.php:160]
+---------------------------------------------------------------
+[ 2021-01-01T13:03:03+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.098851s] [吞吐率：10.12req/s] [内存消耗：3,760.28kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T13:08:34+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025241s] [吞吐率：39.62req/s] [内存消耗：3,838.73kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-01T13:11:28+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.096877s] [吞吐率：10.32req/s] [内存消耗：3,760.28kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T13:13:26+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097672s] [吞吐率：10.24req/s] [内存消耗：3,761.53kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T13:13:45+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.097728s] [吞吐率：10.23req/s] [内存消耗：3,761.53kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T13:14:26+08:00 ] 120.36.179.93 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.098601s] [吞吐率：10.14req/s] [内存消耗：3,758.59kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-01T13:21:57+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023541s] [吞吐率：42.48req/s] [内存消耗：3,739.30kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-01T13:23:52+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023110s] [吞吐率：43.27req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:24:23+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.023967s] [吞吐率：41.72req/s] [内存消耗：3,623.58kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:33:30+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/datalink/dd_get_group_list
+[运行时间：0.026950s] [吞吐率：37.11req/s] [内存消耗：2,935.16kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/v1/Datalink.php:207]
+---------------------------------------------------------------
+[ 2021-01-01T13:34:36+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/datalink/dd_get_group_list
+[运行时间：0.018156s] [吞吐率：55.08req/s] [内存消耗：2,935.16kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/v1/Datalink.php:207]
+---------------------------------------------------------------
+[ 2021-01-01T13:43:36+08:00 ] 223.104.6.57 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.028634s] [吞吐率：34.92req/s] [内存消耗：3,710.18kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:43:52+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026194s] [吞吐率：38.18req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:44:22+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026000s] [吞吐率：38.46req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:44:25+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025715s] [吞吐率：38.89req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:44:49+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026422s] [吞吐率：37.85req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:44:51+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026975s] [吞吐率：37.07req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:47:29+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026749s] [吞吐率：37.38req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:48:01+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026776s] [吞吐率：37.35req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:48:04+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026707s] [吞吐率：37.44req/s] [内存消耗：3,709.72kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'number_1609415528223' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2021-01-01T13:52:06+08:00 ] 120.36.236.169 POST api.tao5g.cn/api/v1/datalink/dd_get_group_list
+[运行时间：0.025169s] [吞吐率：39.73req/s] [内存消耗：2,935.16kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/v1/Datalink.php:207]
+---------------------------------------------------------------
+[ 2021-01-01T14:09:18+08:00 ] 120.36.236.169 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023585s] [吞吐率：42.40req/s] [内存消耗：3,804.88kb] [文件加载：142]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:83]
+---------------------------------------------------------------
+[ 2021-01-01T17:51:13+08:00 ] 59.59.44.20 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173990s] [吞吐率：5.75req/s] [内存消耗：3,844.27kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-01T19:28:27+08:00 ] 59.59.44.20 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025262s] [吞吐率：39.58req/s] [内存消耗：3,838.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-01T19:32:31+08:00 ] 59.59.44.20 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023482s] [吞吐率：42.59req/s] [内存消耗：3,804.90kb] [文件加载：142]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:83]

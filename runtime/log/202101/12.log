@@ -1,0 +1,120 @@
+---------------------------------------------------------------
+[ 2021-01-12T09:31:33+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.188886s] [吞吐率：5.29req/s] [内存消耗：3,844.25kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T09:31:52+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.024732s] [吞吐率：40.43req/s] [内存消耗：3,739.30kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T09:44:52+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.169082s] [吞吐率：5.91req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T09:55:52+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.158598s] [吞吐率：6.31req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T10:25:45+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.023477s] [吞吐率：42.60req/s] [内存消耗：3,672.16kb] [文件加载：145]
+[ error ] [8]未定义数组索引: formid[/data/code/application/api/controller/v1/Formcopy.php:22]
+---------------------------------------------------------------
+[ 2021-01-12T10:27:07+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024241s] [吞吐率：41.25req/s] [内存消耗：3,668.93kb] [文件加载：144]
+[ error ] [0]数据表字段不存在:[pid][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-12T10:27:45+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.023009s] [吞吐率：43.46req/s] [内存消耗：3,674.58kb] [文件加载：145]
+[ error ] [8]未定义数组索引: pid[/data/code/application/api/controller/v1/Formcopy.php:28]
+---------------------------------------------------------------
+[ 2021-01-12T10:28:07+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024681s] [吞吐率：40.52req/s] [内存消耗：3,641.41kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'apply_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:18:10+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024087s] [吞吐率：41.52req/s] [内存消耗：3,641.44kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'apply_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:19:03+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024458s] [吞吐率：40.89req/s] [内存消耗：3,641.44kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'apply_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:19:38+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.036354s] [吞吐率：27.51req/s] [内存消耗：3,675.99kb] [文件加载：145]
+[ error ] [8]未定义数组索引: str_name[/data/code/application/api/controller/v1/Formcopy.php:31]
+---------------------------------------------------------------
+[ 2021-01-12T11:21:05+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.022363s] [吞吐率：44.72req/s] [内存消耗：3,676.62kb] [文件加载：145]
+[ error ] [8]未定义数组索引: str_name[/data/code/application/api/controller/v1/Formcopy.php:31]
+---------------------------------------------------------------
+[ 2021-01-12T11:21:18+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.037683s] [吞吐率：26.54req/s] [内存消耗：3,644.87kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'u_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:22:31+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024640s] [吞吐率：40.58req/s] [内存消耗：3,644.87kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'u_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:43:43+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024284s] [吞吐率：41.18req/s] [内存消耗：3,644.87kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'u_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:44:06+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024145s] [吞吐率：41.42req/s] [内存消耗：3,675.18kb] [文件加载：145]
+[ error ] [8]未定义变量: uid[/data/code/application/api/controller/v1/Formcopy.php:37]
+---------------------------------------------------------------
+[ 2021-01-12T11:45:00+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.023604s] [吞吐率：42.37req/s] [内存消耗：3,674.68kb] [文件加载：145]
+[ error ] [8]未定义变量: uid[/data/code/application/api/controller/v1/Formcopy.php:38]
+---------------------------------------------------------------
+[ 2021-01-12T11:46:12+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.170180s] [吞吐率：5.88req/s] [内存消耗：3,844.34kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T11:49:12+08:00 ] 120.36.239.93 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.030278s] [吞吐率：33.03req/s] [内存消耗：3,899.07kb] [文件加载：149]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:496]
+---------------------------------------------------------------
+[ 2021-01-12T11:49:46+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025380s] [吞吐率：39.40req/s] [内存消耗：3,848.04kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T11:57:32+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.192913s] [吞吐率：5.18req/s] [内存消耗：3,842.92kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T12:35:13+08:00 ] 120.36.239.93 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.208275s] [吞吐率：4.80req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T14:38:44+08:00 ] 120.36.238.67 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.166073s] [吞吐率：6.02req/s] [内存消耗：3,842.95kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T14:57:07+08:00 ] 203.119.241.108 GET api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.024053s] [吞吐率：41.58req/s] [内存消耗：3,670.87kb] [文件加载：145]
+[ error ] [8]未定义数组索引: apply_id[/data/code/application/api/controller/v1/Formcopy.php:27]
+---------------------------------------------------------------
+[ 2021-01-12T14:57:08+08:00 ] 39.98.42.229 GET api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.023496s] [吞吐率：42.56req/s] [内存消耗：3,670.91kb] [文件加载：145]
+[ error ] [8]未定义数组索引: apply_id[/data/code/application/api/controller/v1/Formcopy.php:27]
+---------------------------------------------------------------
+[ 2021-01-12T14:57:09+08:00 ] 203.119.241.44 GET api.tao5g.cn/api/v1/Formcopy/copyform
+[运行时间：0.023412s] [吞吐率：42.71req/s] [内存消耗：3,674.96kb] [文件加载：145]
+[ error ] [8]未定义数组索引: apply_id[/data/code/application/api/controller/v1/Formcopy.php:27]
+---------------------------------------------------------------
+[ 2021-01-12T15:00:04+08:00 ] 120.36.238.67 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173228s] [吞吐率：5.77req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-12T15:30:15+08:00 ] 120.36.238.67 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.026583s] [吞吐率：37.62req/s] [内存消耗：3,899.02kb] [文件加载：149]
+[ error ] [8]未定义数组索引: model[/data/code/application/api/controller/v1/Excle.php:496]
+---------------------------------------------------------------
+[ 2021-01-12T17:55:59+08:00 ] 120.36.238.67 POST api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.025070s] [吞吐率：39.89req/s] [内存消耗：3,645.35kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'c_id' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-12T17:57:12+08:00 ] 203.119.241.107 GET api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023724s] [吞吐率：42.15req/s] [内存消耗：3,678.09kb] [文件加载：145]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:33]

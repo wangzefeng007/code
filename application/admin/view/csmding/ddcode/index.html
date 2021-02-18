@@ -1,0 +1,48 @@
+<style>
+.a-help{
+color:red;
+font-weight:bold;
+}
+</style>
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('测试代码')}:</label>
+        <div class="col-xs-12 col-sm-8">
+        <p><a href='#' class='a-help'>点击此处，查看使用说明</a></p>
+            <textarea id="c-code" data-rule="required" class="form-control" name="code" type="text"  cols="30" rows="10">
+include "TopSdk.php";
+date_default_timezone_set('Asia/Shanghai');
+
+$c = new DingTalkClient(DingTalkConstant::$CALL_TYPE_OAPI, DingTalkConstant::$METHOD_GET , DingTalkConstant::$FORMAT_JSON);
+$req = new OapiDepartmentListRequest;
+$resp = $c->execute($req, $access_token, "https://oapi.dingtalk.com/department/list");
+            </textarea>
+        </div>
+    </div>
+   
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">运行代码</button>
+            <button type="reset" class="btn btn-default btn-embossed">清空代码</button>
+        </div>
+    </div>
+
+    <div class="form-group layer-footer">
+    	<label class="control-label col-xs-12 col-sm-2">运行结果</label>
+    	<div class="col-xs-6 col-sm-4">
+    	<pre id='pre-generatecode'></pre>
+    	</div>
+    	<div class="col-xs-6 col-sm-4">
+    	<pre id='pre-result'></pre>
+    	</div>
+    </div>
+    <div class="form-group layer-footer">
+    	<label class="control-label col-xs-12 col-sm-2"></label>
+    	<div class="col-xs-6 col-sm-4">
+    	<h4>JSAPI的使用示例,请用手机钉钉访问:</h4>
+    	<a href='' target="_blank" id='a-jsapidemo'/></a>
+    	</div>
+    </div>
+</form>

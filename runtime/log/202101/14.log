@@ -1,0 +1,68 @@
+---------------------------------------------------------------
+[ 2021-01-14T10:18:50+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023017s] [吞吐率：43.45req/s] [内存消耗：3,692.67kb] [文件加载：145]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:72]
+---------------------------------------------------------------
+[ 2021-01-14T10:33:31+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023507s] [吞吐率：42.54req/s] [内存消耗：3,696.69kb] [文件加载：145]
+[ error ] [2]implode(): Invalid arguments passed[/data/code/application/api/controller/v1/Sortcopy.php:76]
+---------------------------------------------------------------
+[ 2021-01-14T10:34:14+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023357s] [吞吐率：42.81req/s] [内存消耗：3,721.64kb] [文件加载：144]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-14T10:39:17+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.037564s] [吞吐率：26.62req/s] [内存消耗：3,709.78kb] [文件加载：145]
+[ error ] [2]Illegal string offset 'cate_name'[/data/code/application/api/controller/v1/Sortcopy.php:126]
+---------------------------------------------------------------
+[ 2021-01-14T10:41:53+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.024746s] [吞吐率：40.41req/s] [内存消耗：3,710.59kb] [文件加载：145]
+[ error ] [8]未定义数组索引: cate_id[/data/code/application/api/controller/v1/Sortcopy.php:127]
+---------------------------------------------------------------
+[ 2021-01-14T10:42:16+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.025624s] [吞吐率：39.03req/s] [内存消耗：3,710.62kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_list[/data/code/application/api/controller/v1/Sortcopy.php:128]
+---------------------------------------------------------------
+[ 2021-01-14T10:45:28+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.152990s] [吞吐率：6.54req/s] [内存消耗：3,844.41kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-14T14:56:51+08:00 ] 120.43.129.187 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.208795s] [吞吐率：4.79req/s] [内存消耗：3,844.34kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-14T15:33:30+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.158772s] [吞吐率：6.30req/s] [内存消耗：3,844.41kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-14T15:34:11+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.023951s] [吞吐率：41.75req/s] [内存消耗：3,720.59kb] [文件加载：145]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/v1/Sortcopy.php:135]
+---------------------------------------------------------------
+[ 2021-01-14T15:34:45+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.024732s] [吞吐率：40.43req/s] [内存消耗：3,714.48kb] [文件加载：144]
+[ error ] [0]不支持的数据表达式:$cate_name[/data/code/thinkphp/library/think/db/builder/Mysql.php:113]
+---------------------------------------------------------------
+[ 2021-01-14T15:39:12+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.025695s] [吞吐率：38.92req/s] [内存消耗：3,716.10kb] [文件加载：145]
+[ error ] [8]未定义变量: re1[/data/code/application/api/controller/v1/Sortcopy.php:143]
+---------------------------------------------------------------
+[ 2021-01-14T16:17:59+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.029660s] [吞吐率：33.72req/s] [内存消耗：3,720.10kb] [文件加载：145]
+[ error ] [8]未定义变量: re1[/data/code/application/api/controller/v1/Sortcopy.php:143]
+---------------------------------------------------------------
+[ 2021-01-14T16:53:49+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.022987s] [吞吐率：43.50req/s] [内存消耗：3,732.21kb] [文件加载：144]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-14T16:53:56+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.025841s] [吞吐率：38.70req/s] [内存消耗：3,777.38kb] [文件加载：149]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-14T16:54:09+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.025778s] [吞吐率：38.79req/s] [内存消耗：3,777.38kb] [文件加载：149]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-14T17:09:30+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.025919s] [吞吐率：38.58req/s] [内存消耗：3,720.70kb] [文件加载：145]
+[ error ] [8]未定义变量: re2[/data/code/application/api/controller/v1/Sortcopy.php:155]

@@ -1,0 +1,157 @@
+<style>
+.hidden{
+	display:none;
+}
+</style>
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="" class="form-control" name="row[name]" type="text" value="{$row.name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Msgtype')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-msgtype" data-rule="" class="form-control selectpicker" name="row[msgtype]">
+                {foreach name="msgtypeList" item="vo"}
+                    <option value="{$key}" {in name="key" value="$row.msgtype"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oaheadtext')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-oaheadtext" class="form-control" name="row[oaheadtext]" type="text" value="{$row.oaheadtext|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oabodytitle')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-oabodytitle" class="form-control" name="row[oabodytitle]" type="text" value="{$row.oabodytitle|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oaheadbgcolor')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-oaheadbgcolor" class="form-control" name="row[oaheadbgcolor]" type="text" value="{$row.oaheadbgcolor|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oamessageurl')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-oamessageurl" class="form-control" name="row[oamessageurl]" type="text" value="{$row.oamessageurl|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oabodyimage')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-oabodyimage" class="form-control" size="50" name="row[oabodyimage]" type="text" value="{$row.oabodyimage|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-oabodyimage" class="btn btn-danger plupload" data-input-id="c-oabodyimage" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp" data-multiple="false" data-preview-id="p-oabodyimage"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-oabodyimage" class="btn btn-primary fachoose" data-input-id="c-oabodyimage" data-mimetype="image/*" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-oabodyimage"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-oabodyimage"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oabodycontent')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-oabodycontent" class="form-control" rows="5" name="row[oabodycontent]" cols="50">{$row.oabodycontent|htmlentities}</textarea>
+        </div>
+    </div>
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oabodyform_json')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <dl class="fieldlist" data-name="row[oabodyform_json]">
+                <dd>
+                    <ins>{:__('Key')}</ins>
+                    <ins>{:__('Value')}</ins>
+                </dd>
+                <dd><a href="javascript:;" class="btn btn-sm btn-success btn-append"><i class="fa fa-plus"></i> {:__('Append')}</a></dd>
+                <textarea name="row[oabodyform_json]" class="form-control hide" cols="30" rows="5">{$row.oabodyform_json|htmlentities}</textarea>
+            </dl>
+
+
+        </div>
+    </div>
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Oabodyrich_json')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <dl class="fieldlist" data-name="row[oabodyrich_json]">
+                <dd>
+                    <ins>{:__('Key')}</ins>
+                    <ins>{:__('Value')}</ins>
+                </dd>
+                <dd><a href="javascript:;" class="btn btn-sm btn-success btn-append"><i class="fa fa-plus"></i> {:__('Append')}</a></dd>
+                <textarea name="row[oabodyrich_json]" class="form-control hide" cols="30" rows="5">{$row.oabodyrich_json|htmlentities}</textarea>
+            </dl>
+
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Sendrange')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-sendrange" class="form-control selectpicker" name="row[sendrange]" disabled>
+                {foreach name="sendrangeList" item="vo"}
+                    <option value="{$key}" {in name="key" value="$row.sendrange"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group ">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Csmding_dduser_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input disabled id="c-csmding_dduser_ids" data-rule="required" data-source="csmding/dduser/index" data-multiple="true" class="form-control selectpage" name="row[csmding_dduser_ids]" type="text" value="{$row.csmding_dduser_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group ">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Csmding_dddepartment_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input disabled id="c-csmding_dddepartment_ids" data-rule="required" data-source="csmding/dddepartment/index" data-multiple="true" class="form-control selectpage" name="row[csmding_dddepartment_ids]" type="text" value="{$row.csmding_dddepartment_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group hidden">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Msgtaskid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-msgtaskid" class="form-control" name="row[msgtaskid]" type="text" value="{$row.msgtaskid|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Hassend')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-hassend" class="form-control selectpicker" name="row[hassend]" disabled>
+                {foreach name="hassendList" item="vo"}
+                    <option value="{$key}" {in name="key" value="$row.hassend"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Sendtime')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input disabled id="c-sendtime" data-rule="required" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[sendtime]" type="text" value="{:$row.sendtime?datetime($row.sendtime):''}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

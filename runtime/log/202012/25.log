@@ -1,0 +1,568 @@
+---------------------------------------------------------------
+[ 2020-12-25T09:30:03+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.186205s] [吞吐率：5.37req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T09:38:01+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023073s] [吞吐率：43.34req/s] [内存消耗：3,711.40kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:38:15+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.026074s] [吞吐率：38.35req/s] [内存消耗：3,829.12kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '7'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:38:16+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.026152s] [吞吐率：38.24req/s] [内存消耗：3,829.12kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '7'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:44:52+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.152366s] [吞吐率：6.56req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T09:44:59+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022301s] [吞吐率：44.84req/s] [内存消耗：3,731.80kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:45:01+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.170884s] [吞吐率：5.85req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:03+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.028551s] [吞吐率：35.02req/s] [内存消耗：3,711.40kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:30+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025648s] [吞吐率：38.99req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:39+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.029613s] [吞吐率：33.77req/s] [内存消耗：3,791.41kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:50+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025543s] [吞吐率：39.15req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.026501s] [吞吐率：37.73req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.026772s] [吞吐率：37.35req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025604s] [吞吐率：39.06req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025627s] [吞吐率：39.02req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:53+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025005s] [吞吐率：39.99req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:53+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025237s] [吞吐率：39.62req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:54+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025110s] [吞吐率：39.82req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:47:54+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.026176s] [吞吐率：38.20req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:48:06+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.025270s] [吞吐率：39.57req/s] [内存消耗：3,829.18kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'tid'  AND  = '33'' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:48:58+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.030309s] [吞吐率：32.99req/s] [内存消耗：3,791.41kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-25T09:50:32+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022831s] [吞吐率：43.80req/s] [内存消耗：3,731.80kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:52:36+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.197722s] [吞吐率：5.06req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T09:53:23+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021808s] [吞吐率：45.85req/s] [内存消耗：3,738.68kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T09:53:24+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.037661s] [吞吐率：26.55req/s] [内存消耗：3,757.56kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'liuc_id'[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:53:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.029930s] [吞吐率：33.41req/s] [内存消耗：3,791.44kb] [文件加载：150]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-25T09:55:55+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.035733s] [吞吐率：27.99req/s] [内存消耗：3,757.81kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'liuc_id'[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:56:17+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022579s] [吞吐率：44.29req/s] [内存消耗：3,731.80kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:57:33+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.037651s] [吞吐率：26.56req/s] [内存消耗：3,757.06kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'liuc_id'[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T09:58:48+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022531s] [吞吐率：44.38req/s] [内存消耗：3,738.67kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T09:59:13+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022688s] [吞吐率：44.08req/s] [内存消耗：3,731.80kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:08:31+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023662s] [吞吐率：42.26req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:17:51+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/get_formlist
+[运行时间：0.023025s] [吞吐率：43.43req/s] [内存消耗：3,639.17kb] [文件加载：143]
+[ error ] [8]未定义数组索引: form_name[/data/code/application/api/controller/dd/Beginprocess.php:53]
+---------------------------------------------------------------
+[ 2020-12-25T10:28:13+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.029508s] [吞吐率：33.89req/s] [内存消耗：3,794.13kb] [文件加载：149]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[/data/code/thinkphp/library/think/response/Json.php:39]
+---------------------------------------------------------------
+[ 2020-12-25T10:38:00+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151721s] [吞吐率：6.59req/s] [内存消耗：3,831.52kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T10:43:08+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023274s] [吞吐率：42.97req/s] [内存消耗：3,725.75kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:43:44+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.037981s] [吞吐率：26.33req/s] [内存消耗：3,757.02kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'textliuc_id int(10)) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:44:46+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.038874s] [吞吐率：25.72req/s] [内存消耗：3,757.02kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'textliuc_id int(10)) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:52:25+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021183s] [吞吐率：47.21req/s] [内存消耗：3,738.57kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T10:52:25+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.066876s] [吞吐率：14.95req/s] [内存消耗：3,759.47kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'textliuc_id int(10)) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:53:20+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.038752s] [吞吐率：25.81req/s] [内存消耗：3,759.47kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'textliuc_id int(10)) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T10:55:01+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.039860s] [吞吐率：25.09req/s] [内存消耗：3,764.01kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'liuc_id int(10)) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT' at line 1[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T11:39:12+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023224s] [吞吐率：43.06req/s] [内存消耗：3,711.40kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T11:52:16+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.186407s] [吞吐率：5.36req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T12:07:59+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023353s] [吞吐率：42.82req/s] [内存消耗：3,711.41kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T14:16:48+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.174773s] [吞吐率：5.72req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T14:20:46+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023133s] [吞吐率：43.23req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T14:24:19+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.023712s] [吞吐率：42.17req/s] [内存消耗：3,711.41kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T14:25:09+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.159902s] [吞吐率：6.25req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T14:44:59+08:00 ] 27.154.112.61 GET api.tao5g.cn/jzUgqLGJnK.php/apply/structure/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1608878697065
+[运行时间：0.032249s] [吞吐率：31.01req/s] [内存消耗：4,274.10kb] [文件加载：153]
+[ error ] [0]致命错误: Class 'app\admin\model\SCompany' not found[/data/code/thinkphp/library/think/model/relation/BelongsTo.php:37]
+---------------------------------------------------------------
+[ 2020-12-25T14:57:44+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.022618s] [吞吐率：44.21req/s] [内存消耗：3,642.55kb] [文件加载：143]
+[ error ] [8]未定义变量: form_id[/data/code/application/api/controller/dd/Beginprocess.php:87]
+---------------------------------------------------------------
+[ 2020-12-25T15:18:22+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024838s] [吞吐率：40.26req/s] [内存消耗：3,654.22kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type stdClass as array[/data/code/application/api/controller/dd/Beginprocess.php:101]
+---------------------------------------------------------------
+[ 2020-12-25T15:19:05+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024189s] [吞吐率：41.34req/s] [内存消耗：3,654.47kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type stdClass as array[/data/code/application/api/controller/dd/Beginprocess.php:102]
+---------------------------------------------------------------
+[ 2020-12-25T15:20:02+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/get_form
+[运行时间：0.024065s] [吞吐率：41.55req/s] [内存消耗：3,654.50kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type stdClass as array[/data/code/application/api/controller/dd/Beginprocess.php:102]
+---------------------------------------------------------------
+[ 2020-12-25T15:25:19+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023984s] [吞吐率：41.69req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T15:32:13+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.169447s] [吞吐率：5.90req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T16:27:53+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.021871s] [吞吐率：45.72req/s] [内存消耗：3,646.82kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apply_id' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T16:28:23+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022267s] [吞吐率：44.91req/s] [内存消耗：3,647.20kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T17:04:10+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.023135s] [吞吐率：43.22req/s] [内存消耗：3,681.21kb] [文件加载：143]
+[ error ] [8]未定义数组索引: label[/data/code/application/api/controller/v1/Excle.php:113]
+---------------------------------------------------------------
+[ 2020-12-25T17:04:42+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022953s] [吞吐率：43.57req/s] [内存消耗：3,681.24kb] [文件加载：143]
+[ error ] [8]未定义数组索引: label[/data/code/application/api/controller/v1/Excle.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T17:08:44+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024043s] [吞吐率：41.59req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:10:16+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171578s] [吞吐率：5.83req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T17:10:34+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022123s] [吞吐率：45.20req/s] [内存消耗：3,738.65kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T17:10:34+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.068018s] [吞吐率：14.70req/s] [内存消耗：3,762.81kb] [文件加载：150]
+[ error ] [8]未定义数组索引: formulaObj[/data/code/application/api/controller/v1/Newsaveform.php:198]
+---------------------------------------------------------------
+[ 2020-12-25T17:10:44+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.075889s] [吞吐率：13.18req/s] [内存消耗：3,762.81kb] [文件加载：150]
+[ error ] [8]未定义数组索引: formulaObj[/data/code/application/api/controller/v1/Newsaveform.php:198]
+---------------------------------------------------------------
+[ 2020-12-25T17:11:38+08:00 ] 203.119.241.44 GET api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022341s] [吞吐率：44.76req/s] [内存消耗：3,708.81kb] [文件加载：146]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T17:11:38+08:00 ] 47.92.194.67 GET api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021704s] [吞吐率：46.07req/s] [内存消耗：3,708.81kb] [文件加载：146]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T17:14:53+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023579s] [吞吐率：42.41req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:15:00+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022581s] [吞吐率：44.29req/s] [内存消耗：3,684.13kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:103]
+---------------------------------------------------------------
+[ 2020-12-25T17:15:09+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022346s] [吞吐率：44.75req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:15:16+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.172184s] [吞吐率：5.81req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T17:15:22+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021976s] [吞吐率：45.50req/s] [内存消耗：3,737.41kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T17:15:59+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022703s] [吞吐率：44.05req/s] [内存消耗：3,684.13kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Excle.php:103]
+---------------------------------------------------------------
+[ 2020-12-25T17:17:35+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.076706s] [吞吐率：13.04req/s] [内存消耗：3,762.73kb] [文件加载：150]
+[ error ] [8]未定义数组索引: formulaObj[/data/code/application/api/controller/v1/Newsaveform.php:198]
+---------------------------------------------------------------
+[ 2020-12-25T17:34:23+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022212s] [吞吐率：45.02req/s] [内存消耗：3,682.32kb] [文件加载：143]
+[ error ] [8]未定义数组索引: name[/data/code/application/api/controller/v1/Excle.php:104]
+---------------------------------------------------------------
+[ 2020-12-25T17:34:29+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.021970s] [吞吐率：45.52req/s] [内存消耗：3,681.20kb] [文件加载：143]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Excle.php:105]
+---------------------------------------------------------------
+[ 2020-12-25T17:35:35+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.023180s] [吞吐率：43.14req/s] [内存消耗：3,682.32kb] [文件加载：143]
+[ error ] [8]未定义数组索引: label[/data/code/application/api/controller/v1/Excle.php:105]
+---------------------------------------------------------------
+[ 2020-12-25T17:35:40+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022591s] [吞吐率：44.27req/s] [内存消耗：3,682.32kb] [文件加载：143]
+[ error ] [8]未定义数组索引: label[/data/code/application/api/controller/v1/Excle.php:105]
+---------------------------------------------------------------
+[ 2020-12-25T17:36:42+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.023449s] [吞吐率：42.65req/s] [内存消耗：3,682.35kb] [文件加载：143]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Excle.php:105]
+---------------------------------------------------------------
+[ 2020-12-25T17:36:52+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022815s] [吞吐率：43.83req/s] [内存消耗：3,682.23kb] [文件加载：143]
+[ error ] [8]未定义数组索引: label[/data/code/application/api/controller/v1/Excle.php:109]
+---------------------------------------------------------------
+[ 2020-12-25T17:42:10+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.168274s] [吞吐率：5.94req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T17:45:54+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023229s] [吞吐率：43.05req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:48:27+08:00 ] 220.249.162.92 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.022764s] [吞吐率：43.93req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:50:01+08:00 ] 220.249.162.92 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022025s] [吞吐率：45.40req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T17:50:04+08:00 ] 220.249.162.92 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.205159s] [吞吐率：4.87req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T17:50:04+08:00 ] 220.249.162.92 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.160067s] [吞吐率：6.25req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T17:50:57+08:00 ] 220.249.162.92 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.148400s] [吞吐率：6.74req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T18:02:23+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.201092s] [吞吐率：4.97req/s] [内存消耗：3,831.72kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T18:02:44+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023772s] [吞吐率：42.07req/s] [内存消耗：3,733.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T18:19:22+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.020221s] [吞吐率：49.45req/s] [内存消耗：3,585.31kb] [文件加载：143]
+[ error ] [8]未定义变量: apply_id[/data/code/application/api/controller/v1/Excle.php:141]
+---------------------------------------------------------------
+[ 2020-12-25T18:26:08+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.021195s] [吞吐率：47.18req/s] [内存消耗：3,585.31kb] [文件加载：143]
+[ error ] [8]未定义变量: apply_id[/data/code/application/api/controller/v1/Excle.php:141]
+---------------------------------------------------------------
+[ 2020-12-25T18:38:16+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.023281s] [吞吐率：42.95req/s] [内存消耗：3,692.80kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'str_pid' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T18:43:54+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.023531s] [吞吐率：42.50req/s] [内存消耗：3,694.33kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T19:32:20+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.021915s] [吞吐率：45.63req/s] [内存消耗：3,664.70kb] [文件加载：143]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Excle.php:93]
+---------------------------------------------------------------
+[ 2020-12-25T19:32:46+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.021796s] [吞吐率：45.88req/s] [内存消耗：3,665.70kb] [文件加载：143]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Excle.php:93]
+---------------------------------------------------------------
+[ 2020-12-25T19:36:16+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022228s] [吞吐率：44.99req/s] [内存消耗：3,670.09kb] [文件加载：143]
+[ error ] [8]未定义变量: key[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-25T19:36:26+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.022051s] [吞吐率：45.35req/s] [内存消耗：3,670.09kb] [文件加载：143]
+[ error ] [8]未定义变量: key[/data/code/application/api/controller/v1/Excle.php:101]
+---------------------------------------------------------------
+[ 2020-12-25T19:42:00+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022518s] [吞吐率：44.41req/s] [内存消耗：3,733.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T19:45:47+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.154663s] [吞吐率：6.47req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T19:47:32+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021971s] [吞吐率：45.51req/s] [内存消耗：3,738.98kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T20:14:53+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023060s] [吞吐率：43.36req/s] [内存消耗：3,619.92kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:22:39+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.022721s] [吞吐率：44.01req/s] [内存消耗：3,620.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:23:36+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023163s] [吞吐率：43.17req/s] [内存消耗：3,620.04kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:23:55+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.017410s] [吞吐率：57.44req/s] [内存消耗：2,921.59kb] [文件加载：137]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/dd/Beginprocess.php:121]
+---------------------------------------------------------------
+[ 2020-12-25T20:24:58+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023049s] [吞吐率：43.39req/s] [内存消耗：3,620.15kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:33:32+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023349s] [吞吐率：42.83req/s] [内存消耗：3,620.16kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:35:55+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023930s] [吞吐率：41.79req/s] [内存消耗：3,624.24kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:36:36+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023215s] [吞吐率：43.08req/s] [内存消耗：3,624.70kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:37:44+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.152048s] [吞吐率：6.58req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T20:37:47+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.161213s] [吞吐率：6.20req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T20:37:49+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.178644s] [吞吐率：5.60req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T20:37:50+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.187792s] [吞吐率：5.33req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T20:41:47+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.151312s] [吞吐率：6.61req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T20:41:58+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023089s] [吞吐率：43.31req/s] [内存消耗：3,625.00kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0_card_1608802222736' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T20:43:40+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021226s] [吞吐率：47.11req/s] [内存消耗：3,738.98kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T20:43:44+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.024762s] [吞吐率：40.38req/s] [内存消耗：3,660.11kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Beginprocess.php:131]
+---------------------------------------------------------------
+[ 2020-12-25T20:44:17+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023308s] [吞吐率：42.90req/s] [内存消耗：3,660.39kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Beginprocess.php:132]
+---------------------------------------------------------------
+[ 2020-12-25T20:44:46+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023799s] [吞吐率：42.02req/s] [内存消耗：3,663.12kb] [文件加载：143]
+[ error ] [8]未定义变量: update[/data/code/application/api/controller/dd/Beginprocess.php:135]
+---------------------------------------------------------------
+[ 2020-12-25T20:45:20+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023493s] [吞吐率：42.57req/s] [内存消耗：3,659.09kb] [文件加载：143]
+[ error ] [8]未定义变量: update[/data/code/application/api/controller/dd/Beginprocess.php:133]
+---------------------------------------------------------------
+[ 2020-12-25T20:45:39+08:00 ] 61.129.7.235 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.022963s] [吞吐率：43.55req/s] [内存消耗：3,656.98kb] [文件加载：143]
+[ error ] [8]未定义变量: update[/data/code/application/api/controller/dd/Beginprocess.php:133]
+---------------------------------------------------------------
+[ 2020-12-25T20:59:28+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.177036s] [吞吐率：5.65req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T21:04:29+08:00 ] 120.35.8.233 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021541s] [吞吐率：46.42req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T21:04:51+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.187132s] [吞吐率：5.34req/s] [内存消耗：3,875.02kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T21:10:07+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.177261s] [吞吐率：5.64req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-25T21:10:24+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022352s] [吞吐率：44.74req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-25T21:14:51+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.024823s] [吞吐率：40.29req/s] [内存消耗：3,766.16kb] [文件加载：148]
+[ error ] [0]查询表达式错误:value[/data/code/thinkphp/library/think/db/Builder.php:347]
+---------------------------------------------------------------
+[ 2020-12-25T21:15:40+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.027895s] [吞吐率：35.85req/s] [内存消耗：3,758.16kb] [文件加载：148]
+[ error ] [0]查询表达式错误:value[/data/code/thinkphp/library/think/db/Builder.php:347]
+---------------------------------------------------------------
+[ 2020-12-25T21:18:18+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.024835s] [吞吐率：40.27req/s] [内存消耗：3,772.24kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T21:18:32+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.015047s] [吞吐率：66.46req/s] [内存消耗：2,389.88kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[/data/code/application/api/controller/dd/Beginprocess.php:143]
+---------------------------------------------------------------
+[ 2020-12-25T21:20:27+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.032058s] [吞吐率：31.19req/s] [内存消耗：3,662.13kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[/data/code/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2020-12-25T21:23:13+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.024149s] [吞吐率：41.41req/s] [内存消耗：3,656.69kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T21:24:32+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023143s] [吞吐率：43.21req/s] [内存消耗：3,656.23kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T21:25:27+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023147s] [吞吐率：43.20req/s] [内存消耗：3,655.76kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T21:26:59+08:00 ] 27.154.112.61 GET api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023843s] [吞吐率：41.94req/s] [内存消耗：3,657.09kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T21:29:05+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.025587s] [吞吐率：39.08req/s] [内存消耗：3,762.84kb] [文件加载：149]
+[ error ] [8]未定义变量: elist[/data/code/application/api/controller/v1/Excle.php:146]
+---------------------------------------------------------------
+[ 2020-12-25T21:43:58+08:00 ] 27.154.112.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024077s] [吞吐率：41.53req/s] [内存消耗：3,719.76kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-25T22:07:50+08:00 ] 120.35.8.233 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.023459s] [吞吐率：42.63req/s] [内存消耗：3,677.41kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[input_1608801986581][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-25T22:38:32+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.015332s] [吞吐率：65.22req/s] [内存消耗：2,389.22kb] [文件加载：128]
+[ error ] [0]语法解析错误: syntax error, unexpected 'dump' (T_STRING)[/data/code/application/api/controller/v1/Excle.php:78]
+---------------------------------------------------------------
+[ 2020-12-25T23:15:43+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.036150s] [吞吐率：27.66req/s] [内存消耗：3,690.27kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T23:17:51+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.035550s] [吞吐率：28.13req/s] [内存消耗：3,694.27kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T23:18:44+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.037552s] [吞吐率：26.63req/s] [内存消耗：3,694.52kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-25T23:52:49+08:00 ] 27.154.112.61 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.035449s] [吞吐率：28.21req/s] [内存消耗：3,721.27kb] [文件加载：145]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:93]

@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+[ 2020-12-27T09:28:26+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173611s] [吞吐率：5.76req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-27T11:34:32+08:00 ] 110.82.58.99 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.021444s] [吞吐率：46.63req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-27T11:34:32+08:00 ] 110.82.58.99 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.070207s] [吞吐率：14.24req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-27T11:34:33+08:00 ] 110.82.58.99 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.069021s] [吞吐率：14.49req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-27T11:34:33+08:00 ] 110.82.58.99 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.224966s] [吞吐率：4.45req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-27T11:34:51+08:00 ] 110.82.58.99 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021898s] [吞吐率：45.67req/s] [内存消耗：3,738.97kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]

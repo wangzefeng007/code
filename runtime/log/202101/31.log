@@ -1,0 +1,565 @@
+---------------------------------------------------------------
+[ 2021-01-31T17:23:25+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.080559s] [吞吐率：12.41req/s] [内存消耗：3,633.82kb] [文件加载：139]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004571s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000868s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.apply',
+    2 => 'get_apply_cate_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001843s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.003327s ]
+[ info ] [ RUN ] app\api\controller\v1\Apply->get_apply_cate_list[ /data/code/application/api/controller/v1/Apply.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:25+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/apply/get_apply_cate_list
+[运行时间：0.029275s] [吞吐率：34.16req/s] [内存消耗：3,735.69kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000928s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000119s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.apply',
+    2 => 'get_apply_cate_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '18',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/home/applicationPage/applyAdmin',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000785s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001350s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Apply->get_apply_cate_list[ /data/code/application/api/controller/v1/Apply.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000073s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:35+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/designdata/index
+[运行时间：0.024975s] [吞吐率：40.04req/s] [内存消耗：3,637.25kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000907s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000112s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000723s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001220s ]
+[ info ] [ RUN ] app\api\controller\v1\Designdata->index[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:35+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/designdata/index
+[运行时间：0.032072s] [吞吐率：31.18req/s] [内存消耗：3,733.36kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000111s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '18',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/home/design-data',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000700s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001272s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->index[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000079s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:41+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/formtree/get_tree_node
+[运行时间：0.023878s] [吞吐率：41.88req/s] [内存消耗：3,603.18kb] [文件加载：137]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000984s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000129s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.formtree',
+    2 => 'get_tree_node',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000857s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001211s ]
+[ info ] [ RUN ] app\api\controller\v1\Formtree->get_tree_node[ /data/code/application/api/controller/v1/Formtree.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:41+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/formtree/get_tree_node
+[运行时间：0.025652s] [吞吐率：38.98req/s] [内存消耗：3,696.88kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000873s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000115s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.formtree',
+    2 => 'get_tree_node',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '30',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/home/newForm/14/%E6%A1%A5%E6%A2%81%E6%A8%A1%E6%9D%BF',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'apply_id' => '14',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000754s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001330s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Formtree->get_tree_node[ /data/code/application/api/controller/v1/Formtree.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000072s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:48+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.034545s] [吞吐率：28.95req/s] [内存消耗：3,740.02kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001295s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000160s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'get_template',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001107s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001821s ]
+[ info ] [ RUN ] app\api\controller\v1\Excle->get_template[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:48+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.033251s] [吞吐率：30.07req/s] [内存消耗：3,727.70kb] [文件加载：137]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001262s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000168s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'find_apply_variate',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001109s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001782s ]
+[ info ] [ RUN ] app\api\controller\v1\Excle->find_apply_variate[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:48+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/excle/get_template
+[运行时间：0.034619s] [吞吐率：28.89req/s] [内存消耗：3,833.03kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001209s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000156s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'get_template',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '25',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/excel/93/%E9%92%A2%E7%AD%8B%E6%A3%80%E9%AA%8C%E6%89%B91',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '93',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001097s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001799s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Excle->get_template[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000102s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:23:48+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/excle/find_apply_variate
+[运行时间：0.036148s] [吞吐率：27.66req/s] [内存消耗：3,834.09kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001584s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000172s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'find_apply_variate',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '18',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/excel/93/%E9%92%A2%E7%AD%8B%E6%A3%80%E9%AA%8C%E6%89%B91',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001163s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001856s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Excle->find_apply_variate[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000073s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:24:05+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/formtree/get_tree_node
+[运行时间：0.026033s] [吞吐率：38.41req/s] [内存消耗：3,696.88kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001477s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000145s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.formtree',
+    2 => 'get_tree_node',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '31',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/excel/93/%E9%92%A2%E7%AD%8B%E6%A3%80%E9%AA%8C%E6%89%B91',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'apply_id' => '110',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000743s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001291s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Formtree->get_tree_node[ /data/code/application/api/controller/v1/Formtree.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000079s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:24:08+08:00 ] 110.82.5.231 OPTIONS api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.024176s] [吞吐率：41.36req/s] [内存消耗：3,718.65kb] [文件加载：137]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000885s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000112s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'variatelist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://tao5g.cn/',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'access-control-request-headers' => 'token',
+  'content-length' => '0',
+  'access-control-request-method' => 'POST',
+  'origin' => 'http://tao5g.cn',
+  'host' => 'api.tao5g.cn',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000726s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001212s ]
+[ info ] [ RUN ] app\api\controller\v1\Excle->variatelist[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:24:08+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.025936s] [吞吐率：38.56req/s] [内存消耗：3,810.93kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000923s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000116s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'variatelist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '7',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/excel/93/%E9%92%A2%E7%AD%8B%E6%A3%80%E9%AA%8C%E6%89%B91',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1245',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000818s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001322s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Excle->variatelist[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000076s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-01-31T17:24:09+08:00 ] 110.82.5.231 POST api.tao5g.cn/api/v1/excle/variatelist
+[运行时间：0.027379s] [吞吐率：36.52req/s] [内存消耗：3,815.42kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000895s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000112s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.excle',
+    2 => 'variatelist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '7',
+  'token' => '2e6d7e8d-53a0-4d3a-99de-953ee46bfaf8',
+  'referer' => 'http://tao5g.cn/excel/93/%E9%92%A2%E7%AD%8B%E6%A3%80%E9%AA%8C%E6%89%B91',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'origin' => 'http://tao5g.cn',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1246',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000727s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001213s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Excle->variatelist[ /data/code/application/api/controller/v1/Excle.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000071s ]
+[ info ] [ LOG ] INIT File

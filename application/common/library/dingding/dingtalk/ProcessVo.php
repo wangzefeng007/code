@@ -1,0 +1,37 @@
+<?php 
+namespace addons\csmding\library\dingtalk;
+//<?php
+
+/**
+ * result
+ * @author auto create
+ */
+class ProcessVo
+{
+	
+	/** 
+	 * bizCategoryId
+	 **/
+	public $biz_category_id;
+	
+	/** 
+	 * description
+	 **/
+	public $description;
+	
+	/** 
+	 * formContent
+	 **/
+	public $form_content;
+	
+	/** 
+	 * name
+	 **/
+	public $name;
+	
+	/** 
+	 * processCode
+	 **/
+	public $process_code;	
+}
+?>

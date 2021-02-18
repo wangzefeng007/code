@@ -1,0 +1,188 @@
+---------------------------------------------------------------
+[ 2020-12-11T12:30:15+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014496s] [吞吐率：68.99req/s] [内存消耗：2,392.28kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected '/'[/data/code/application/api/controller/v1/Excle.php:52]
+---------------------------------------------------------------
+[ 2020-12-11T12:30:34+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023363s] [吞吐率：42.80req/s] [内存消耗：3,726.98kb] [文件加载：146]
+[ error ] [2]preg_replace(): Unknown modifier ')'[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:30:47+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.022984s] [吞吐率：43.51req/s] [内存消耗：3,726.98kb] [文件加载：146]
+[ error ] [2]preg_replace(): Unknown modifier ')'[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:34:17+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023433s] [吞吐率：42.67req/s] [内存消耗：3,727.01kb] [文件加载：146]
+[ error ] [2]preg_replace(): Delimiter must not be alphanumeric or backslash[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:34:32+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023647s] [吞吐率：42.29req/s] [内存消耗：3,727.01kb] [文件加载：146]
+[ error ] [2]preg_replace(): Delimiter must not be alphanumeric or backslash[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:34:33+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023132s] [吞吐率：43.23req/s] [内存消耗：3,727.01kb] [文件加载：146]
+[ error ] [2]preg_replace(): Delimiter must not be alphanumeric or backslash[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:35:21+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023413s] [吞吐率：42.71req/s] [内存消耗：3,726.98kb] [文件加载：146]
+[ error ] [2]preg_replace(): No ending matching delimiter ']' found[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:35:50+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023340s] [吞吐率：42.84req/s] [内存消耗：3,726.98kb] [文件加载：146]
+[ error ] [2]preg_replace(): No ending matching delimiter ']' found[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T12:36:03+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023083s] [吞吐率：43.32req/s] [内存消耗：3,726.98kb] [文件加载：146]
+[ error ] [2]preg_replace(): No ending delimiter '/' found[/data/code/application/api/controller/v1/Excle.php:51]
+---------------------------------------------------------------
+[ 2020-12-11T15:04:12+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023703s] [吞吐率：42.19req/s] [内存消耗：3,726.55kb] [文件加载：146]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:22]
+---------------------------------------------------------------
+[ 2020-12-11T15:08:41+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025629s] [吞吐率：39.02req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组索引: sheet[/data/code/application/api/controller/v1/Excle.php:27]
+---------------------------------------------------------------
+[ 2020-12-11T15:08:44+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.026141s] [吞吐率：38.25req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组索引: sheet[/data/code/application/api/controller/v1/Excle.php:27]
+---------------------------------------------------------------
+[ 2020-12-11T15:08:46+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025696s] [吞吐率：38.92req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组索引: sheet[/data/code/application/api/controller/v1/Excle.php:27]
+---------------------------------------------------------------
+[ 2020-12-11T15:09:43+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024746s] [吞吐率：40.41req/s] [内存消耗：3,727.71kb] [文件加载：146]
+[ error ] [2]urldecode() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Excle.php:28]
+---------------------------------------------------------------
+[ 2020-12-11T15:09:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024798s] [吞吐率：40.33req/s] [内存消耗：3,727.71kb] [文件加载：146]
+[ error ] [2]urldecode() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Excle.php:28]
+---------------------------------------------------------------
+[ 2020-12-11T15:11:12+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024689s] [吞吐率：40.50req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组索引: data[/data/code/application/api/controller/v1/Excle.php:28]
+---------------------------------------------------------------
+[ 2020-12-11T15:12:18+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025282s] [吞吐率：39.55req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:28]
+---------------------------------------------------------------
+[ 2020-12-11T15:12:19+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.025552s] [吞吐率：39.14req/s] [内存消耗：3,727.63kb] [文件加载：146]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:28]
+---------------------------------------------------------------
+[ 2020-12-11T15:26:32+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023514s] [吞吐率：42.53req/s] [内存消耗：3,728.05kb] [文件加载：146]
+[ error ] [2]iconv() expects parameter 3 to be string, array given[/data/code/application/api/controller/v1/Excle.php:65]
+---------------------------------------------------------------
+[ 2020-12-11T15:26:49+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023590s] [吞吐率：42.39req/s] [内存消耗：3,728.30kb] [文件加载：146]
+[ error ] [2]iconv() expects exactly 3 parameters, 4 given[/data/code/application/api/controller/v1/Excle.php:65]
+---------------------------------------------------------------
+[ 2020-12-11T15:27:05+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023976s] [吞吐率：41.71req/s] [内存消耗：3,728.05kb] [文件加载：146]
+[ error ] [2]iconv() expects parameter 3 to be string, array given[/data/code/application/api/controller/v1/Excle.php:65]
+---------------------------------------------------------------
+[ 2020-12-11T15:39:56+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023595s] [吞吐率：42.38req/s] [内存消耗：3,728.44kb] [文件加载：146]
+[ error ] [2]mb_convert_encoding() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Excle.php:72]
+---------------------------------------------------------------
+[ 2020-12-11T15:40:52+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023354s] [吞吐率：42.82req/s] [内存消耗：3,728.75kb] [文件加载：146]
+[ error ] [2]mb_convert_encoding() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Excle.php:73]
+---------------------------------------------------------------
+[ 2020-12-11T15:40:54+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024361s] [吞吐率：41.05req/s] [内存消耗：3,728.75kb] [文件加载：146]
+[ error ] [2]mb_convert_encoding() expects parameter 1 to be string, array given[/data/code/application/api/controller/v1/Excle.php:73]
+---------------------------------------------------------------
+[ 2020-12-11T15:41:12+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023222s] [吞吐率：43.06req/s] [内存消耗：3,729.05kb] [文件加载：146]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:64]
+---------------------------------------------------------------
+[ 2020-12-11T15:41:20+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024478s] [吞吐率：40.85req/s] [内存消耗：3,728.67kb] [文件加载：146]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:64]
+---------------------------------------------------------------
+[ 2020-12-11T15:44:37+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023435s] [吞吐率：42.67req/s] [内存消耗：3,728.56kb] [文件加载：146]
+[ error ] [2]gzinflate(): data error[/data/code/application/api/controller/v1/Excle.php:64]
+---------------------------------------------------------------
+[ 2020-12-11T15:44:50+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024049s] [吞吐率：41.58req/s] [内存消耗：3,728.67kb] [文件加载：146]
+[ error ] [2]urldecode() expects exactly 1 parameter, 3 given[/data/code/application/api/controller/v1/Excle.php:66]
+---------------------------------------------------------------
+[ 2020-12-11T15:49:46+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/set_structure
+[运行时间：0.025652s] [吞吐率：38.98req/s] [内存消耗：3,747.91kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'str_pid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T15:50:24+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/set_structure
+[运行时间：0.025220s] [吞吐率：39.65req/s] [内存消耗：3,748.67kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'weight' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T15:52:18+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/apply/set_structure
+[运行时间：0.025861s] [吞吐率：38.67req/s] [内存消耗：3,749.45kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'role_jur' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T16:03:16+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023618s] [吞吐率：42.34req/s] [内存消耗：3,716.86kb] [文件加载：145]
+[ error ] [0]致命错误: Class 'app\admin\model\apply\Strlist' not found[/data/code/application/api/controller/v1/Formtree.php:68]
+---------------------------------------------------------------
+[ 2020-12-11T16:11:04+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.025441s] [吞吐率：39.31req/s] [内存消耗：3,738.97kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'weight' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T16:11:40+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.025634s] [吞吐率：39.01req/s] [内存消耗：3,739.00kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'weight' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T16:11:58+08:00 ] 127.0.0.1 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.026456s] [吞吐率：37.80req/s] [内存消耗：3,740.51kb] [文件加载：151]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'weight' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-11T16:12:58+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.015637s] [吞吐率：63.95req/s] [内存消耗：2,471.59kb] [文件加载：128]
+[ error ] [64]Cannot redeclare app\api\controller\v1\Excle::rowfrom()[/data/code/application/api/controller/v1/Excle.php:62]
+---------------------------------------------------------------
+[ 2020-12-11T16:13:33+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.015345s] [吞吐率：65.17req/s] [内存消耗：2,471.96kb] [文件加载：128]
+[ error ] [64]Cannot redeclare app\api\controller\v1\Excle::rowfrom()[/data/code/application/api/controller/v1/Excle.php:62]
+---------------------------------------------------------------
+[ 2020-12-11T16:13:34+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014770s] [吞吐率：67.70req/s] [内存消耗：2,471.96kb] [文件加载：128]
+[ error ] [64]Cannot redeclare app\api\controller\v1\Excle::rowfrom()[/data/code/application/api/controller/v1/Excle.php:62]
+---------------------------------------------------------------
+[ 2020-12-11T16:38:41+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.014764s] [吞吐率：67.73req/s] [内存消耗：2,392.32kb] [文件加载：127]
+[ error ] [0]语法解析错误: syntax error, unexpected 'public' (T_PUBLIC)[/data/code/application/api/controller/v1/Excle.php:90]
+---------------------------------------------------------------
+[ 2020-12-11T16:49:10+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023740s] [吞吐率：42.12req/s] [内存消耗：3,732.62kb] [文件加载：145]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\v1\Excle::formbody()[/data/code/application/api/controller/v1/Excle.php:37]
+---------------------------------------------------------------
+[ 2020-12-11T19:20:14+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033927s] [吞吐率：29.48req/s] [内存消耗：3,738.50kb] [文件加载：146]
+[ error ] [2]Illegal string offset 'data'[/data/code/application/api/controller/v1/Excle.php:53]
+---------------------------------------------------------------
+[ 2020-12-11T19:20:45+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032822s] [吞吐率：30.47req/s] [内存消耗：3,738.49kb] [文件加载：146]
+[ error ] [2]Illegal string offset 'theme'[/data/code/application/api/controller/v1/Excle.php:53]
+---------------------------------------------------------------
+[ 2020-12-11T19:21:08+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032440s] [吞吐率：30.83req/s] [内存消耗：3,738.46kb] [文件加载：146]
+[ error ] [2]Illegal string offset 'name'[/data/code/application/api/controller/v1/Excle.php:53]
+---------------------------------------------------------------
+[ 2020-12-11T20:01:58+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032763s] [吞吐率：30.52req/s] [内存消耗：3,743.55kb] [文件加载：146]
+[ error ] [8]未定义变量: find[/data/code/application/api/controller/v1/Excle.php:53]
+---------------------------------------------------------------
+[ 2020-12-11T20:02:05+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.046460s] [吞吐率：21.52req/s] [内存消耗：3,743.55kb] [文件加载：146]
+[ error ] [8]未定义变量: array[/data/code/application/api/controller/v1/Excle.php:53]
+---------------------------------------------------------------
+[ 2020-12-11T20:06:21+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033270s] [吞吐率：30.06req/s] [内存消耗：3,743.63kb] [文件加载：146]
+[ error ] [8]未定义数组索引: value[/data/code/application/api/controller/v1/Excle.php:58]
+---------------------------------------------------------------
+[ 2020-12-11T20:07:37+08:00 ] 120.36.239.228 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033181s] [吞吐率：30.14req/s] [内存消耗：3,743.81kb] [文件加载：146]
+[ error ] [2]array_search() expects parameter 2 to be array, string given[/data/code/application/api/controller/v1/Excle.php:59]

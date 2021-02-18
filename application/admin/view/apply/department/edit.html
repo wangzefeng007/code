@@ -1,0 +1,46 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="required" class="form-control" name="row[name]" type="text" value="{$row.name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ddid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ddid" data-rule="required" class="form-control" name="row[ddid]" type="number" value="{$row.ddid|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Parentid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-parentid" data-rule="required" class="form-control" name="row[parentid]" type="number" value="{$row.parentid|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Autoadduser')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-autoadduser" data-rule="required" class="form-control" name="row[autoadduser]" type="number" value="{$row.autoadduser|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Createdeptgroup')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-createdeptgroup" data-rule="required" class="form-control" name="row[createdeptgroup]" type="number" value="{$row.createdeptgroup|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Company_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-company_id" data-rule="required" data-source="company/index" class="form-control selectpage" name="row[company_id]" type="text" value="{$row.company_id|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,1248 @@
+---------------------------------------------------------------
+[ 2020-12-30T09:13:42+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023199s] [吞吐率：43.11req/s] [内存消耗：3,653.74kb] [文件加载：143]
+[ error ] [8]未定义数组索引: linkkey[/data/code/application/api/controller/dd/Dddatalink.php:56]
+---------------------------------------------------------------
+[ 2020-12-30T09:25:51+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024188s] [吞吐率：41.34req/s] [内存消耗：3,654.47kb] [文件加载：143]
+[ error ] [8]未定义数组索引: linkkey[/data/code/application/api/controller/dd/Dddatalink.php:56]
+---------------------------------------------------------------
+[ 2020-12-30T09:30:05+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173092s] [吞吐率：5.78req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T09:34:28+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022470s] [吞吐率：44.50req/s] [内存消耗：3,739.02kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T09:36:13+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024512s] [吞吐率：40.80req/s] [内存消耗：3,654.63kb] [文件加载：143]
+[ error ] [8]未定义数组索引: linkkey[/data/code/application/api/controller/dd/Dddatalink.php:56]
+---------------------------------------------------------------
+[ 2020-12-30T09:37:11+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024070s] [吞吐率：41.55req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T09:37:19+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022418s] [吞吐率：44.61req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T09:37:45+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.202887s] [吞吐率：4.93req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T09:38:50+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016421s] [吞吐率：60.90req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T09:38:52+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017455s] [吞吐率：57.29req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T09:38:54+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016428s] [吞吐率：60.87req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T09:39:11+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.176055s] [吞吐率：5.68req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T09:42:43+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155805s] [吞吐率：6.42req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T09:45:24+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016942s] [吞吐率：59.02req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T09:45:26+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017653s] [吞吐率：56.65req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T09:45:27+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016916s] [吞吐率：59.12req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T09:45:42+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022713s] [吞吐率：44.03req/s] [内存消耗：3,739.02kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T09:47:09+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173023s] [吞吐率：5.78req/s] [内存消耗：3,831.60kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T09:57:09+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024244s] [吞吐率：41.25req/s] [内存消耗：3,654.03kb] [文件加载：143]
+[ error ] [8]未定义数组索引: linkkey[/data/code/application/api/controller/dd/Dddatalink.php:56]
+---------------------------------------------------------------
+[ 2020-12-30T09:58:25+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024493s] [吞吐率：40.83req/s] [内存消耗：3,616.30kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T09:58:52+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.027411s] [吞吐率：36.48req/s] [内存消耗：3,660.75kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'card_1609292662331' in 'field list'[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T10:02:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.027833s] [吞吐率：35.93req/s] [内存消耗：4,910.63kb] [文件加载：171]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\Env' not found[/data/code/application/api/controller/v1/Excle.php:676]
+---------------------------------------------------------------
+[ 2020-12-30T10:03:48+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.027627s] [吞吐率：36.20req/s] [内存消耗：4,912.39kb] [文件加载：172]
+[ error ] [8]未定义变量: fileName[/data/code/application/api/controller/v1/Excle.php:677]
+---------------------------------------------------------------
+[ 2020-12-30T10:04:27+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.027799s] [吞吐率：35.97req/s] [内存消耗：4,912.39kb] [文件加载：172]
+[ error ] [8]未定义变量: fileName[/data/code/application/api/controller/v1/Excle.php:677]
+---------------------------------------------------------------
+[ 2020-12-30T10:08:20+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030356s] [吞吐率：32.94req/s] [内存消耗：5,462.45kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpG0KBuA for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:08:40+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030222s] [吞吐率：33.09req/s] [内存消耗：5,462.45kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpBo13HI for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:11:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031467s] [吞吐率：31.78req/s] [内存消耗：5,396.76kb] [文件加载：178]
+[ error ] [0]致命错误: Cannot use object of type think\File as array[/data/code/application/api/controller/v1/Excle.php:695]
+---------------------------------------------------------------
+[ 2020-12-30T10:11:45+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031765s] [吞吐率：31.48req/s] [内存消耗：5,396.76kb] [文件加载：178]
+[ error ] [0]致命错误: Cannot use object of type think\File as array[/data/code/application/api/controller/v1/Excle.php:695]
+---------------------------------------------------------------
+[ 2020-12-30T10:12:26+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031126s] [吞吐率：32.13req/s] [内存消耗：5,396.76kb] [文件加载：178]
+[ error ] [0]致命错误: Cannot use object of type think\File as array[/data/code/application/api/controller/v1/Excle.php:695]
+---------------------------------------------------------------
+[ 2020-12-30T10:15:07+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031565s] [吞吐率：31.68req/s] [内存消耗：5,462.45kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpWLkprt for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:15:14+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030791s] [吞吐率：32.48req/s] [内存消耗：5,462.45kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpnY2fZm for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:19:06+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030273s] [吞吐率：33.03req/s] [内存消耗：5,462.51kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpCiqTIj for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:19:08+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030586s] [吞吐率：32.69req/s] [内存消耗：5,462.51kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpsBcnCc for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:19:53+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031195s] [吞吐率：32.06req/s] [内存消耗：5,398.70kb] [文件加载：179]
+[ error ] [8]未定义变量: objReader[/data/code/application/api/controller/v1/Excle.php:697]
+---------------------------------------------------------------
+[ 2020-12-30T10:20:06+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031328s] [吞吐率：31.92req/s] [内存消耗：5,462.52kb] [文件加载：179]
+[ error ] [0]Could not open 20201230/b5ff95f9010ab8587ecc5b05da632747.xlsx for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:20:19+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030371s] [吞吐率：32.93req/s] [内存消耗：5,462.55kb] [文件加载：179]
+[ error ] [0]Could not open 20201230/b2e5f059bc211c48b4878eea03097188.xlsx for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:20:25+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031259s] [吞吐率：31.99req/s] [内存消耗：5,462.55kb] [文件加载：179]
+[ error ] [0]Could not open 20201230/36d64565c5bb8f07c95db39e1bdee967.xlsx for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:23:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.030786s] [吞吐率：32.48req/s] [内存消耗：5,462.61kb] [文件加载：179]
+[ error ] [0]Could not open 20201230/08747de75a1f9d4d4fcc39c6de479c33.xlsx for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:23:35+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031809s] [吞吐率：31.44req/s] [内存消耗：5,462.55kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpBWVx85 for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:24:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031097s] [吞吐率：32.16req/s] [内存消耗：5,462.55kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpgTSR9K for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:24:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031537s] [吞吐率：31.71req/s] [内存消耗：5,462.55kb] [文件加载：179]
+[ error ] [0]Could not open /tmp/phpV2MF9z for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:26:03+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.031561s] [吞吐率：31.68req/s] [内存消耗：5,462.61kb] [文件加载：179]
+[ error ] [0]Could not open public/uploads/20201230/e28ddb34a8a67d3fd402bd8a8e76d659.xlsx for reading! File does not exist.[/data/code/extend/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php:338]
+---------------------------------------------------------------
+[ 2020-12-30T10:32:30+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.023950s] [吞吐率：41.75req/s] [内存消耗：3,725.74kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T10:32:51+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023896s] [吞吐率：41.85req/s] [内存消耗：3,735.69kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T10:34:07+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023093s] [吞吐率：43.30req/s] [内存消耗：3,739.02kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T10:34:07+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.038026s] [吞吐率：26.30req/s] [内存消耗：3,754.07kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:34:09+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.046909s] [吞吐率：21.32req/s] [内存消耗：3,754.07kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:34:16+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.037845s] [吞吐率：26.42req/s] [内存消耗：3,754.07kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:34:48+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.037715s] [吞吐率：26.51req/s] [内存消耗：3,754.07kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:41:34+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018031s] [吞吐率：55.46req/s] [内存消耗：3,023.63kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'phpOffice\phpspreadsheet\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:675]
+---------------------------------------------------------------
+[ 2020-12-30T10:42:10+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.017806s] [吞吐率：56.16req/s] [内存消耗：3,023.68kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'phpOffice\phpspreadsheet\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:675]
+---------------------------------------------------------------
+[ 2020-12-30T10:42:49+08:00 ] 211.97.130.67 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024925s] [吞吐率：40.12req/s] [内存消耗：3,648.14kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:42:51+08:00 ] 211.97.130.67 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024165s] [吞吐率：41.38req/s] [内存消耗：3,616.47kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T10:42:56+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018454s] [吞吐率：54.19req/s] [内存消耗：3,023.68kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'phpOffice\phpspreadsheet\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:676]
+---------------------------------------------------------------
+[ 2020-12-30T10:43:00+08:00 ] 211.97.130.67 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023617s] [吞吐率：42.34req/s] [内存消耗：3,616.47kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T10:43:36+08:00 ] 211.97.130.67 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023382s] [吞吐率：42.77req/s] [内存消耗：3,649.59kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:44:07+08:00 ] 211.97.130.67 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.022330s] [吞吐率：44.78req/s] [内存消耗：3,653.09kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:99]
+---------------------------------------------------------------
+[ 2020-12-30T10:46:29+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017960s] [吞吐率：55.68req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T10:46:31+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016973s] [吞吐率：58.92req/s] [内存消耗：2,958.25kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T10:46:35+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017179s] [吞吐率：58.21req/s] [内存消耗：2,958.21kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T10:49:08+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019015s] [吞吐率：52.59req/s] [内存消耗：3,023.68kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'phpOffice\phpspreadsheet\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:676]
+---------------------------------------------------------------
+[ 2020-12-30T10:49:58+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019066s] [吞吐率：52.45req/s] [内存消耗：3,023.61kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:676]
+---------------------------------------------------------------
+[ 2020-12-30T10:50:34+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018145s] [吞吐率：55.11req/s] [内存消耗：3,023.61kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:677]
+---------------------------------------------------------------
+[ 2020-12-30T10:50:35+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018972s] [吞吐率：52.71req/s] [内存消耗：3,023.61kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:677]
+---------------------------------------------------------------
+[ 2020-12-30T10:50:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.014700s] [吞吐率：68.03req/s] [内存消耗：2,556.74kb] [文件加载：129]
+[ error ] [64]Cannot use phpOffice\phpspreadsheet\IOFactory as IOFactory because the name is already in use[/data/code/application/api/controller/v1/Excle.php:20]
+---------------------------------------------------------------
+[ 2020-12-30T10:51:06+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.015128s] [吞吐率：66.10req/s] [内存消耗：2,556.74kb] [文件加载：129]
+[ error ] [64]Cannot use phpOffice\phpspreadsheet\IOFactory as IOFactory because the name is already in use[/data/code/application/api/controller/v1/Excle.php:20]
+---------------------------------------------------------------
+[ 2020-12-30T10:51:15+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.020116s] [吞吐率：49.71req/s] [内存消耗：3,042.85kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T10:51:23+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019313s] [吞吐率：51.78req/s] [内存消耗：3,042.85kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T10:51:32+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019155s] [吞吐率：52.21req/s] [内存消耗：3,042.85kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T10:51:52+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018396s] [吞吐率：54.36req/s] [内存消耗：3,023.61kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:677]
+---------------------------------------------------------------
+[ 2020-12-30T10:52:33+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018888s] [吞吐率：52.94req/s] [内存消耗：3,042.85kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T10:53:27+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024622s] [吞吐率：40.61req/s] [内存消耗：3,647.47kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:53:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023799s] [吞吐率：42.02req/s] [内存消耗：3,647.47kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:53:49+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024011s] [吞吐率：41.65req/s] [内存消耗：3,647.38kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T10:55:39+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024768s] [吞吐率：40.37req/s] [内存消耗：3,648.23kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T10:55:45+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019454s] [吞吐率：51.40req/s] [内存消耗：3,042.85kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T10:58:25+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024024s] [吞吐率：41.63req/s] [内存消耗：3,647.38kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T10:59:32+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173583s] [吞吐率：5.76req/s] [内存消耗：3,831.68kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T10:59:54+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018860s] [吞吐率：53.02req/s] [内存消耗：3,023.70kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:679]
+---------------------------------------------------------------
+[ 2020-12-30T10:59:56+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023886s] [吞吐率：41.87req/s] [内存消耗：3,647.38kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:00:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018905s] [吞吐率：52.90req/s] [内存消耗：3,023.70kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:679]
+---------------------------------------------------------------
+[ 2020-12-30T11:03:30+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024231s] [吞吐率：41.27req/s] [内存消耗：3,647.55kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:04:56+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.030943s] [吞吐率：32.32req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:05:23+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.030762s] [吞吐率：32.51req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:05:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018475s] [吞吐率：54.13req/s] [内存消耗：3,023.79kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:679]
+---------------------------------------------------------------
+[ 2020-12-30T11:09:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.017739s] [吞吐率：56.37req/s] [内存消耗：3,023.79kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'app\api\controller\v1\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:679]
+---------------------------------------------------------------
+[ 2020-12-30T11:11:28+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025466s] [吞吐率：39.27req/s] [内存消耗：3,647.55kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:11:40+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.018101s] [吞吐率：55.25req/s] [内存消耗：3,023.72kb] [文件加载：137]
+[ error ] [0]致命错误: Class 'PhpOffice\PhpSpreadsheet\IOFactory' not found[/data/code/application/api/controller/v1/Excle.php:679]
+---------------------------------------------------------------
+[ 2020-12-30T11:12:04+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025292s] [吞吐率：39.54req/s] [内存消耗：3,647.55kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:13:06+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023745s] [吞吐率：42.11req/s] [内存消耗：3,647.38kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:14:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024388s] [吞吐率：41.00req/s] [内存消耗：3,648.96kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:14:03+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.029344s] [吞吐率：34.08req/s] [内存消耗：4,179.46kb] [文件加载：148]
+[ error ] [0]致命错误: Class 'PhpOffice\PhpSpreadsheet\Reader\Xls' not found[/data/code/application/admin/library/traits/Backend.php:390]
+---------------------------------------------------------------
+[ 2020-12-30T11:14:20+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.030367s] [吞吐率：32.93req/s] [内存消耗：4,179.46kb] [文件加载：148]
+[ error ] [0]致命错误: Class 'PhpOffice\PhpSpreadsheet\Reader\Xls' not found[/data/code/application/admin/library/traits/Backend.php:390]
+---------------------------------------------------------------
+[ 2020-12-30T11:14:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023606s] [吞吐率：42.36req/s] [内存消耗：3,648.96kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:15:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.029862s] [吞吐率：33.49req/s] [内存消耗：4,179.46kb] [文件加载：148]
+[ error ] [0]致命错误: Class 'PhpOffice\PhpSpreadsheet\Reader\Xlsx' not found[/data/code/application/admin/library/traits/Backend.php:392]
+---------------------------------------------------------------
+[ 2020-12-30T11:15:26+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024313s] [吞吐率：41.13req/s] [内存消耗：3,648.96kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:17:26+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.030594s] [吞吐率：32.69req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:18:26+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024595s] [吞吐率：40.66req/s] [内存消耗：3,649.22kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:18:36+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.019356s] [吞吐率：51.66req/s] [内存消耗：3,042.95kb] [文件加载：138]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:20:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.031124s] [吞吐率：32.13req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1333]
+---------------------------------------------------------------
+[ 2020-12-30T11:20:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025962s] [吞吐率：38.52req/s] [内存消耗：3,649.22kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:21:05+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024728s] [吞吐率：40.44req/s] [内存消耗：3,648.96kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:75]
+---------------------------------------------------------------
+[ 2020-12-30T11:21:25+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.031195s] [吞吐率：32.06req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1334]
+---------------------------------------------------------------
+[ 2020-12-30T11:23:06+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025080s] [吞吐率：39.87req/s] [内存消耗：3,649.09kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:85]
+---------------------------------------------------------------
+[ 2020-12-30T11:24:19+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.029813s] [吞吐率：33.54req/s] [内存消耗：3,649.09kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:87]
+---------------------------------------------------------------
+[ 2020-12-30T11:34:23+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171640s] [吞吐率：5.83req/s] [内存消耗：3,831.59kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T11:34:32+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.032064s] [吞吐率：31.19req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:35:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.032109s] [吞吐率：31.14req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:36:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/jzUgqLGJnK.php/help/center/import
+[运行时间：0.031685s] [吞吐率：31.56req/s] [内存消耗：4,179.60kb] [文件加载：148]
+[ error ] [0]语法解析错误: syntax error, unexpected '='[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:1332]
+---------------------------------------------------------------
+[ 2020-12-30T11:38:03+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024620s] [吞吐率：40.62req/s] [内存消耗：3,649.04kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:88]
+---------------------------------------------------------------
+[ 2020-12-30T11:39:08+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023697s] [吞吐率：42.20req/s] [内存消耗：3,649.09kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:88]
+---------------------------------------------------------------
+[ 2020-12-30T11:42:48+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024275s] [吞吐率：41.19req/s] [内存消耗：3,650.48kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:88]
+---------------------------------------------------------------
+[ 2020-12-30T11:45:52+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025559s] [吞吐率：39.13req/s] [内存消耗：3,650.93kb] [文件加载：143]
+[ error ] [8]未定义变量: sureinf[/data/code/application/api/controller/dd/Dddatalink.php:92]
+---------------------------------------------------------------
+[ 2020-12-30T11:47:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025925s] [吞吐率：38.57req/s] [内存消耗：3,652.48kb] [文件加载：143]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/dd/Dddatalink.php:96]
+---------------------------------------------------------------
+[ 2020-12-30T11:47:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025984s] [吞吐率：38.49req/s] [内存消耗：3,652.48kb] [文件加载：143]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/dd/Dddatalink.php:96]
+---------------------------------------------------------------
+[ 2020-12-30T11:49:49+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.040327s] [吞吐率：24.80req/s] [内存消耗：3,652.54kb] [文件加载：143]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/dd/Dddatalink.php:96]
+---------------------------------------------------------------
+[ 2020-12-30T11:50:36+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026518s] [吞吐率：37.71req/s] [内存消耗：3,653.69kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[/data/code/application/api/controller/dd/Dddatalink.php:76]
+---------------------------------------------------------------
+[ 2020-12-30T11:51:40+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025310s] [吞吐率：39.51req/s] [内存消耗：3,650.92kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T11:52:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025769s] [吞吐率：38.81req/s] [内存消耗：3,653.75kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[/data/code/application/api/controller/dd/Dddatalink.php:74]
+---------------------------------------------------------------
+[ 2020-12-30T11:53:04+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026652s] [吞吐率：37.52req/s] [内存消耗：3,653.47kb] [文件加载：143]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/dd/Dddatalink.php:101]
+---------------------------------------------------------------
+[ 2020-12-30T11:53:12+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.026840s] [吞吐率：37.26req/s] [内存消耗：3,653.47kb] [文件加载：143]
+[ error ] [8]未定义变量: data[/data/code/application/api/controller/dd/Dddatalink.php:101]
+---------------------------------------------------------------
+[ 2020-12-30T11:54:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025614s] [吞吐率：39.04req/s] [内存消耗：3,653.66kb] [文件加载：143]
+[ error ] [2]array_intersect(): Argument #1 is not an array[/data/code/application/api/controller/dd/Dddatalink.php:106]
+---------------------------------------------------------------
+[ 2020-12-30T12:03:28+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.154883s] [吞吐率：6.46req/s] [内存消耗：3,833.51kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T12:07:08+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.177438s] [吞吐率：5.64req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T12:07:56+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.168247s] [吞吐率：5.94req/s] [内存消耗：3,832.03kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T12:17:20+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.046346s] [吞吐率：21.58req/s] [内存消耗：7,373.23kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No such file or directory[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:17:54+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.044369s] [吞吐率：22.54req/s] [内存消耗：7,373.23kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No such file or directory[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:20:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.046559s] [吞吐率：21.48req/s] [内存消耗：7,373.23kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No such file or directory[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:20:14+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.046041s] [吞吐率：21.72req/s] [内存消耗：7,372.70kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No such file or directory[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:20:21+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.046094s] [吞吐率：21.69req/s] [内存消耗：7,372.70kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: Permission denied[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:23:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.045202s] [吞吐率：22.12req/s] [内存消耗：7,373.29kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No such file or directory[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-12-30T12:28:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.043857s] [吞吐率：22.80req/s] [内存消耗：7,185.55kb] [文件加载：202]
+[ error ] [0]类型错误: Too few arguments to function dump(), 0 passed in /data/code/application/api/controller/v1/Excle.php on line 627 and at least 1 expected[/data/code/thinkphp/helper.php:265]
+---------------------------------------------------------------
+[ 2020-12-30T14:12:51+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.039972s] [吞吐率：25.02req/s] [内存消耗：6,370.84kb] [文件加载：200]
+[ error ] [2]A non-numeric value encountered[/data/code/application/api/controller/v1/Excle.php:656]
+---------------------------------------------------------------
+[ 2020-12-30T14:13:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.039717s] [吞吐率：25.18req/s] [内存消耗：6,370.96kb] [文件加载：200]
+[ error ] [2]A non-numeric value encountered[/data/code/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php:310]
+---------------------------------------------------------------
+[ 2020-12-30T14:38:39+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024709s] [吞吐率：40.47req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:38:47+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024259s] [吞吐率：41.22req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:38:55+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025142s] [吞吐率：39.77req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:39:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024808s] [吞吐率：40.31req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:39:07+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024657s] [吞吐率：40.56req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:39:15+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024282s] [吞吐率：41.18req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:41:20+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024525s] [吞吐率：40.77req/s] [内存消耗：3,651.08kb] [文件加载：143]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/dd/Dddatalink.php:78]
+---------------------------------------------------------------
+[ 2020-12-30T14:47:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038693s] [吞吐率：25.84req/s] [内存消耗：6,160.33kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:613]
+---------------------------------------------------------------
+[ 2020-12-30T14:47:31+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173036s] [吞吐率：5.78req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T14:47:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038363s] [吞吐率：26.07req/s] [内存消耗：6,160.33kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:613]
+---------------------------------------------------------------
+[ 2020-12-30T14:48:23+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.163729s] [吞吐率：6.11req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T14:48:24+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.026242s] [吞吐率：38.11req/s] [内存消耗：2,953.03kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T14:48:24+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.024985s] [吞吐率：40.02req/s] [内存消耗：2,952.99kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T14:48:24+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.078415s] [吞吐率：12.75req/s] [内存消耗：2,953.05kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T15:01:47+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.040187s] [吞吐率：24.88req/s] [内存消耗：6,369.11kb] [文件加载：200]
+[ error ] [2]A non-numeric value encountered[/data/code/application/api/controller/v1/Excle.php:681]
+---------------------------------------------------------------
+[ 2020-12-30T15:10:14+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.174868s] [吞吐率：5.72req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:18:54+08:00 ] 117.27.170.216 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023687s] [吞吐率：42.22req/s] [内存消耗：3,735.70kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:00+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.024743s] [吞吐率：40.42req/s] [内存消耗：3,735.68kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:21+08:00 ] 117.27.170.216 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024463s] [吞吐率：40.88req/s] [内存消耗：3,775.13kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:21+08:00 ] 117.27.170.216 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.022318s] [吞吐率：44.81req/s] [内存消耗：3,773.22kb] [文件加载：144]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:79]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:52+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024443s] [吞吐率：40.91req/s] [内存消耗：3,775.12kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:53+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.023180s] [吞吐率：43.14req/s] [内存消耗：3,773.20kb] [文件加载：144]
+[ error ] [2]array_keys() expects parameter 1 to be array, null given[/data/code/application/api/controller/v1/Excle.php:79]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:53+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.027751s] [吞吐率：36.03req/s] [内存消耗：3,820.34kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0_card_1609296925400' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:54+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.028200s] [吞吐率：35.46req/s] [内存消耗：3,820.34kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0_card_1609296925400' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T15:22:55+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.028072s] [吞吐率：35.62req/s] [内存消耗：3,820.34kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0_card_1609296925400' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T15:23:02+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.029132s] [吞吐率：34.33req/s] [内存消耗：3,820.34kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'code_tao5g.fa_s_form_0_card_1609296925400' doesn't exist[/data/code/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-12-30T15:23:05+08:00 ] 117.27.170.216 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.217475s] [吞吐率：4.60req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:23:06+08:00 ] 117.27.170.216 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.195843s] [吞吐率：5.11req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:23:09+08:00 ] 117.27.170.216 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.180055s] [吞吐率：5.55req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:24:16+08:00 ] 117.27.170.216 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023333s] [吞吐率：42.86req/s] [内存消耗：3,740.25kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T15:26:29+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.030721s] [吞吐率：32.55req/s] [内存消耗：3,852.52kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:26:38+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.027556s] [吞吐率：36.29req/s] [内存消耗：3,852.52kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:27:02+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.026680s] [吞吐率：37.48req/s] [内存消耗：3,853.73kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:27:11+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.026514s] [吞吐率：37.72req/s] [内存消耗：3,853.73kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:29:32+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.027315s] [吞吐率：36.61req/s] [内存消耗：3,853.73kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:29:36+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/preview
+[运行时间：0.031025s] [吞吐率：32.23req/s] [内存消耗：3,853.73kb] [文件加载：149]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:129]
+---------------------------------------------------------------
+[ 2020-12-30T15:37:30+08:00 ] 117.27.170.216 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.190950s] [吞吐率：5.24req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:58:12+08:00 ] 117.27.170.216 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.184699s] [吞吐率：5.41req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T15:58:23+08:00 ] 117.27.170.216 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.170268s] [吞吐率：5.87req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T16:12:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.047166s] [吞吐率：21.20req/s] [内存消耗：7,136.45kb] [文件加载：206]
+[ error ] [8]未定义数组下标: 0[/data/code/application/api/controller/v1/Excle.php:739]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:05+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024125s] [吞吐率：41.45req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:13+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024523s] [吞吐率：40.78req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024659s] [吞吐率：40.55req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:32+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.039319s] [吞吐率：25.43req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:35+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.046182s] [吞吐率：21.65req/s] [内存消耗：7,136.78kb] [文件加载：206]
+[ error ] [8]未定义数组下标: 10[/data/code/application/api/controller/v1/Excle.php:741]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:35+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024525s] [吞吐率：40.77req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024616s] [吞吐率：40.62req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:39+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024239s] [吞吐率：41.26req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023980s] [吞吐率：41.70req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:44+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025181s] [吞吐率：39.71req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:50+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024575s] [吞吐率：40.69req/s] [内存消耗：3,657.41kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:14:55+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.023632s] [吞吐率：42.32req/s] [内存消耗：3,657.23kb] [文件加载：143]
+[ error ] [8]未定义变量: last_data[/data/code/application/api/controller/dd/Dddatalink.php:122]
+---------------------------------------------------------------
+[ 2020-12-30T16:18:12+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023224s] [吞吐率：43.06req/s] [内存消耗：3,740.23kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T16:29:54+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017687s] [吞吐率：56.54req/s] [内存消耗：2,953.03kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T16:29:56+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.020848s] [吞吐率：47.97req/s] [内存消耗：2,953.05kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T16:29:57+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.018371s] [吞吐率：54.43req/s] [内存消耗：2,952.99kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T16:34:47+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.024841s] [吞吐率：40.26req/s] [内存消耗：3,655.09kb] [文件加载：143]
+[ error ] [8]未定义变量: linkleftval[/data/code/application/api/controller/dd/Dddatalink.php:85]
+---------------------------------------------------------------
+[ 2020-12-30T16:35:50+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/get_datalink
+[运行时间：0.025073s] [吞吐率：39.88req/s] [内存消耗：3,654.91kb] [文件加载：143]
+[ error ] [8]未定义变量: linkleftval[/data/code/application/api/controller/dd/Dddatalink.php:85]
+---------------------------------------------------------------
+[ 2020-12-30T16:36:19+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023157s] [吞吐率：43.18req/s] [内存消耗：3,737.90kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T16:38:31+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022742s] [吞吐率：43.97req/s] [内存消耗：3,740.23kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T16:46:49+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.047036s] [吞吐率：21.26req/s] [内存消耗：7,170.46kb] [文件加载：207]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-30T16:48:38+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.045931s] [吞吐率：21.77req/s] [内存消耗：7,173.88kb] [文件加载：208]
+[ error ] [8]未定义变量: liucid[/data/code/application/api/controller/v1/Excle.php:781]
+---------------------------------------------------------------
+[ 2020-12-30T16:49:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.047896s] [吞吐率：20.88req/s] [内存消耗：7,170.46kb] [文件加载：207]
+[ error ] [0]数据表字段不存在:[0][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-30T16:50:28+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.064094s] [吞吐率：15.60req/s] [内存消耗：7,167.59kb] [文件加载：208]
+[ error ] [8]未定义变量: tihs[/data/code/application/api/controller/v1/Excle.php:795]
+---------------------------------------------------------------
+[ 2020-12-30T17:04:45+08:00 ] 203.119.241.83 GET api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.024092s] [吞吐率：41.51req/s] [内存消耗：3,761.37kb] [文件加载：143]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:04:45+08:00 ] 39.98.35.231 GET api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.023056s] [吞吐率：43.37req/s] [内存消耗：3,757.51kb] [文件加载：143]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:04:47+08:00 ] 203.119.241.113 GET api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.024041s] [吞吐率：41.60req/s] [内存消耗：3,757.46kb] [文件加载：143]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:12:26+08:00 ] 120.36.238.201 GET api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.023264s] [吞吐率：42.98req/s] [内存消耗：3,760.98kb] [文件加载：143]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:14:52+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.187846s] [吞吐率：5.32req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T17:15:32+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.022551s] [吞吐率：44.34req/s] [内存消耗：3,844.99kb] [文件加载：142]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:21:23+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.024515s] [吞吐率：40.79req/s] [内存消耗：3,844.98kb] [文件加载：142]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T17:24:53+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.182670s] [吞吐率：5.47req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T17:43:50+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.156033s] [吞吐率：6.41req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T17:50:17+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_role_list
+[运行时间：0.156445s] [吞吐率：6.39req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:191]
+---------------------------------------------------------------
+[ 2020-12-30T17:51:58+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.170148s] [吞吐率：5.88req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T17:52:26+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_role_list
+[运行时间：0.187563s] [吞吐率：5.33req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:191]
+---------------------------------------------------------------
+[ 2020-12-30T18:10:01+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.034605s] [吞吐率：28.90req/s] [内存消耗：3,857.91kb] [文件加载：147]
+[ error ] [8]Array to string conversion[/data/code/application/api/controller/v1/Excle.php:963]
+---------------------------------------------------------------
+[ 2020-12-30T18:14:05+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.029109s] [吞吐率：34.35req/s] [内存消耗：3,787.87kb] [文件加载：143]
+[ error ] [8]未定义数组索引: input_1609153178380[/data/code/application/api/controller/v1/Excle.php:970]
+---------------------------------------------------------------
+[ 2020-12-30T18:14:49+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.025972s] [吞吐率：38.50req/s] [内存消耗：3,657.71kb] [文件加载：142]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\dd\success()[/data/code/application/api/controller/dd/Dddatalink.php:193]
+---------------------------------------------------------------
+[ 2020-12-30T18:14:53+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.037234s] [吞吐率：26.86req/s] [内存消耗：3,657.84kb] [文件加载：142]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\dd\success()[/data/code/application/api/controller/dd/Dddatalink.php:193]
+---------------------------------------------------------------
+[ 2020-12-30T18:15:12+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.026172s] [吞吐率：38.21req/s] [内存消耗：3,657.71kb] [文件加载：142]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\dd\success()[/data/code/application/api/controller/dd/Dddatalink.php:193]
+---------------------------------------------------------------
+[ 2020-12-30T18:19:14+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.024364s] [吞吐率：41.04req/s] [内存消耗：3,655.56kb] [文件加载：143]
+[ error ] [8]未定义变量: allval[/data/code/application/api/controller/dd/Dddatalink.php:191]
+---------------------------------------------------------------
+[ 2020-12-30T18:19:50+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.028103s] [吞吐率：35.58req/s] [内存消耗：3,792.81kb] [文件加载：143]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:979]
+---------------------------------------------------------------
+[ 2020-12-30T18:20:08+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.039484s] [吞吐率：25.33req/s] [内存消耗：3,792.48kb] [文件加载：143]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:983]
+---------------------------------------------------------------
+[ 2020-12-30T18:20:33+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/Dddatalink/click_select
+[运行时间：0.024381s] [吞吐率：41.02req/s] [内存消耗：3,655.56kb] [文件加载：143]
+[ error ] [8]未定义变量: allval[/data/code/application/api/controller/dd/Dddatalink.php:191]
+---------------------------------------------------------------
+[ 2020-12-30T18:21:07+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.029406s] [吞吐率：34.01req/s] [内存消耗：3,867.92kb] [文件加载：147]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:980]
+---------------------------------------------------------------
+[ 2020-12-30T18:22:19+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.030490s] [吞吐率：32.80req/s] [内存消耗：3,868.09kb] [文件加载：147]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:980]
+---------------------------------------------------------------
+[ 2020-12-30T18:22:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.028813s] [吞吐率：34.71req/s] [内存消耗：3,801.55kb] [文件加载：143]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:982]
+---------------------------------------------------------------
+[ 2020-12-30T18:23:23+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027548s] [吞吐率：36.30req/s] [内存消耗：3,801.55kb] [文件加载：143]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:983]
+---------------------------------------------------------------
+[ 2020-12-30T18:23:48+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027742s] [吞吐率：36.05req/s] [内存消耗：3,801.55kb] [文件加载：143]
+[ error ] [2]Illegal string offset 'dataIndex'[/data/code/application/api/controller/v1/Excle.php:981]
+---------------------------------------------------------------
+[ 2020-12-30T18:34:31+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171604s] [吞吐率：5.83req/s] [内存消耗：3,805.38kb] [文件加载：149]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T18:43:23+08:00 ] 211.97.128.142 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.150070s] [吞吐率：6.66req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T18:43:24+08:00 ] 211.97.128.142 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.185585s] [吞吐率：5.39req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:03:04+08:00 ] 211.97.128.142 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026093s] [吞吐率：38.32req/s] [内存消耗：3,822.45kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:961]
+---------------------------------------------------------------
+[ 2020-12-30T19:03:04+08:00 ] 211.97.128.142 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.155742s] [吞吐率：6.42req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:05:36+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.176117s] [吞吐率：5.68req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:07:45+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.025025s] [吞吐率：39.96req/s] [内存消耗：3,737.90kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T19:12:46+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022617s] [吞吐率：44.21req/s] [内存消耗：3,740.23kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T19:12:55+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.023180s] [吞吐率：43.14req/s] [内存消耗：3,849.52kb] [文件加载：142]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T19:12:56+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.028156s] [吞吐率：35.52req/s] [内存消耗：3,840.77kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:976]
+---------------------------------------------------------------
+[ 2020-12-30T19:13:00+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.050089s] [吞吐率：19.96req/s] [内存消耗：3,840.77kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:976]
+---------------------------------------------------------------
+[ 2020-12-30T19:13:11+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026789s] [吞吐率：37.33req/s] [内存消耗：3,840.77kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:976]
+---------------------------------------------------------------
+[ 2020-12-30T19:16:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.030254s] [吞吐率：33.05req/s] [内存消耗：3,840.85kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:976]
+---------------------------------------------------------------
+[ 2020-12-30T19:16:57+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.195677s] [吞吐率：5.11req/s] [内存消耗：3,833.51kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:17:21+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.056305s] [吞吐率：17.76req/s] [内存消耗：3,840.85kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:976]
+---------------------------------------------------------------
+[ 2020-12-30T19:18:28+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.038753s] [吞吐率：25.80req/s] [内存消耗：3,840.85kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:975]
+---------------------------------------------------------------
+[ 2020-12-30T19:18:55+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.056714s] [吞吐率：17.63req/s] [内存消耗：3,840.85kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrs[/data/code/application/api/controller/v1/Excle.php:975]
+---------------------------------------------------------------
+[ 2020-12-30T19:19:37+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.057137s] [吞吐率：17.50req/s] [内存消耗：3,840.91kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:989]
+---------------------------------------------------------------
+[ 2020-12-30T19:23:14+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.183423s] [吞吐率：5.45req/s] [内存消耗：3,833.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:37:22+08:00 ] 117.27.1.136 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.056911s] [吞吐率：17.57req/s] [内存消耗：3,822.51kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:962]
+---------------------------------------------------------------
+[ 2020-12-30T19:37:22+08:00 ] 117.27.1.136 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.187089s] [吞吐率：5.35req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:37:25+08:00 ] 117.27.1.136 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.037383s] [吞吐率：26.75req/s] [内存消耗：3,822.51kb] [文件加载：147]
+[ error ] [8]未定义变量: labels[/data/code/application/api/controller/v1/Excle.php:962]
+---------------------------------------------------------------
+[ 2020-12-30T19:37:25+08:00 ] 117.27.1.136 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.222171s] [吞吐率：4.50req/s] [内存消耗：3,876.80kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:38:46+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.029338s] [吞吐率：34.09req/s] [内存消耗：3,828.65kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:38:57+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.041396s] [吞吐率：24.16req/s] [内存消耗：3,828.65kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:39:03+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.037741s] [吞吐率：26.50req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:39:13+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.056743s] [吞吐率：17.62req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:39:23+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.044922s] [吞吐率：22.26req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:45:07+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.184385s] [吞吐率：5.42req/s] [内存消耗：3,805.38kb] [文件加载：149]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:46:26+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.048070s] [吞吐率：20.80req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T19:46:26+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.189133s] [吞吐率：5.29req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:46:53+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022992s] [吞吐率：43.49req/s] [内存消耗：3,737.90kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T19:46:58+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.192185s] [吞吐率：5.20req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:47:36+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022843s] [吞吐率：43.78req/s] [内存消耗：3,740.23kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T19:49:43+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.204259s] [吞吐率：4.90req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T19:49:57+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_role_list
+[运行时间：0.167591s] [吞吐率：5.97req/s] [内存消耗：3,833.43kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:191]
+---------------------------------------------------------------
+[ 2020-12-30T19:58:24+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/dddatalink/get_group_list
+[运行时间：0.018342s] [吞吐率：54.52req/s] [内存消耗：2,927.88kb] [文件加载：137]
+[ error ] [8]未定义数组索引: company_id[/data/code/application/api/controller/dd/Dddatalink.php:211]
+---------------------------------------------------------------
+[ 2020-12-30T19:59:41+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/dd/dddatalink/get_group_list
+[运行时间：0.022861s] [吞吐率：43.74req/s] [内存消耗：3,661.55kb] [文件加载：142]
+[ error ] [0]致命错误: Class 'app\api\controller\dd\DingTalkClient' not found[/data/code/application/api/controller/dd/Dddatalink.php:217]
+---------------------------------------------------------------
+[ 2020-12-30T20:09:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.055868s] [吞吐率：17.90req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:16:23+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.023224s] [吞吐率：43.06req/s] [内存消耗：3,849.60kb] [文件加载：142]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:686]
+---------------------------------------------------------------
+[ 2020-12-30T20:21:39+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026573s] [吞吐率：37.63req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:21:48+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.028331s] [吞吐率：35.30req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:22:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026970s] [吞吐率：37.08req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:22:23+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026803s] [吞吐率：37.31req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:24:31+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026648s] [吞吐率：37.53req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:24:33+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027554s] [吞吐率：36.29req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:25:49+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017407s] [吞吐率：57.45req/s] [内存消耗：2,963.86kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:50]
+---------------------------------------------------------------
+[ 2020-12-30T20:25:50+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017170s] [吞吐率：58.24req/s] [内存消耗：2,963.88kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:55]
+---------------------------------------------------------------
+[ 2020-12-30T20:25:52+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.018276s] [吞吐率：54.72req/s] [内存消耗：2,963.82kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:60]
+---------------------------------------------------------------
+[ 2020-12-30T20:37:35+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027362s] [吞吐率：36.55req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:37:42+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027514s] [吞吐率：36.35req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:37:49+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.035184s] [吞吐率：28.42req/s] [内存消耗：3,840.83kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:39:02+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023284s] [吞吐率：42.95req/s] [内存消耗：3,737.98kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T20:40:35+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023226s] [吞吐率：43.06req/s] [内存消耗：3,740.31kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T20:40:42+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.028485s] [吞吐率：35.11req/s] [内存消耗：3,826.11kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:40:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.027247s] [吞吐率：36.70req/s] [内存消耗：3,826.11kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:40:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026075s] [吞吐率：38.35req/s] [内存消耗：3,826.11kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:40:43+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/get_form_lists
+[运行时间：0.026807s] [吞吐率：37.30req/s] [内存消耗：3,826.11kb] [文件加载：147]
+[ error ] [8]未定义变量: merge_arrss[/data/code/application/api/controller/v1/Excle.php:990]
+---------------------------------------------------------------
+[ 2020-12-30T20:42:20+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039612s] [吞吐率：25.24req/s] [内存消耗：6,191.17kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:611]
+---------------------------------------------------------------
+[ 2020-12-30T20:43:52+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038854s] [吞吐率：25.74req/s] [内存消耗：6,256.17kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:610]
+---------------------------------------------------------------
+[ 2020-12-30T20:46:59+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.040734s] [吞吐率：24.55req/s] [内存消耗：6,191.17kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:614]
+---------------------------------------------------------------
+[ 2020-12-30T20:48:28+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039802s] [吞吐率：25.12req/s] [内存消耗：6,191.17kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:614]
+---------------------------------------------------------------
+[ 2020-12-30T20:49:34+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039783s] [吞吐率：25.14req/s] [内存消耗：6,192.23kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:49:36+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.041134s] [吞吐率：24.31req/s] [内存消耗：6,192.23kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:14+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038998s] [吞吐率：25.64req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:15+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.040265s] [吞吐率：24.84req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:16+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038998s] [吞吐率：25.64req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039780s] [吞吐率：25.14req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039849s] [吞吐率：25.09req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039542s] [吞吐率：25.29req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039763s] [吞吐率：25.15req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039215s] [吞吐率：25.50req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:17+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039091s] [吞吐率：25.58req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:18+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038732s] [吞吐率：25.82req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:18+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038671s] [吞吐率：25.86req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:18+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.038858s] [吞吐率：25.73req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:19+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.039908s] [吞吐率：25.06req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:19+08:00 ] 120.36.238.201 POST api.tao5g.cn/api/v1/excle/download_formfile
+[运行时间：0.040261s] [吞吐率：24.84req/s] [内存消耗：6,216.24kb] [文件加载：188]
+[ error ] [8]未定义数组索引: col[/data/code/application/api/controller/v1/Excle.php:606]
+---------------------------------------------------------------
+[ 2020-12-30T20:50:58+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/excle/upload_excel
+[运行时间：0.022809s] [吞吐率：43.84req/s] [内存消耗：3,850.77kb] [文件加载：142]
+[ error ] [8]未定义数组索引: excel[/data/code/application/api/controller/v1/Excle.php:692]
+---------------------------------------------------------------
+[ 2020-12-30T20:55:21+08:00 ] 120.36.238.201 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.167302s] [吞吐率：5.98req/s] [内存消耗：3,844.26kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:00:06+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.198328s] [吞吐率：5.04req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:00:09+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.182762s] [吞吐率：5.47req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:00:10+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.164945s] [吞吐率：6.06req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:00:12+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.190177s] [吞吐率：5.26req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:00:53+08:00 ] 59.59.41.61 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023057s] [吞吐率：43.37req/s] [内存消耗：3,740.25kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-30T22:30:37+08:00 ] 59.59.41.61 OPTIONS api.tao5g.cn/api/v1/excle/save_template
+[运行时间：0.024099s] [吞吐率：41.50req/s] [内存消耗：3,805.82kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'uid' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-30T22:30:46+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.195133s] [吞吐率：5.12req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2020-12-30T22:34:54+08:00 ] 59.59.41.61 POST api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.163987s] [吞吐率：6.10req/s] [内存消耗：3,887.63kb] [文件加载：153]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]

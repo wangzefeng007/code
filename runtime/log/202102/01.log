@@ -1,0 +1,504 @@
+---------------------------------------------------------------
+[ 2021-02-01T18:27:22+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.026192s] [吞吐率：38.18req/s] [内存消耗：3,688.35kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000908s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000151s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000722s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001305s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000088s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:27:22+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.024046s] [吞吐率：41.59req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000890s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000112s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000707s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001280s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000072s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:30+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.025257s] [吞吐率：39.59req/s] [内存消耗：3,688.39kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000947s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000111s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000718s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001212s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000070s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:30+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.025640s] [吞吐率：39.00req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001051s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000109s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000795s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001313s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000076s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:39+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.027032s] [吞吐率：36.99req/s] [内存消耗：3,688.39kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001008s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000113s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000797s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001283s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000070s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:39+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.024392s] [吞吐率：41.00req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001002s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000121s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000765s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001339s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000071s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:40+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.026782s] [吞吐率：37.34req/s] [内存消耗：3,688.39kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000923s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000142s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000730s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001400s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:40+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.024316s] [吞吐率：41.13req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000916s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000119s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000733s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001300s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000070s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:41+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.026843s] [吞吐率：37.25req/s] [内存消耗：3,688.39kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000946s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000127s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000816s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001274s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000075s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:41+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.025528s] [吞吐率：39.17req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000945s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000112s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000763s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001272s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000071s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:43+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/templatelink/findTemolateDesign
+[运行时间：0.027407s] [吞吐率：36.49req/s] [内存消耗：3,688.39kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001714s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000154s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.templatelink',
+    2 => 'findTemolateDesign',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '27',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'tid' => '1294',
+  'company' => '095a3f3711',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000729s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001204s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Templatelink->findTemolateDesign[ /data/code/application/api/controller/v1/Templatelink.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000070s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-01T18:29:43+08:00 ] 117.30.195.18 POST api.tao5g.cn/api/v1/designdata/tree_details
+[运行时间：0.024268s] [吞吐率：41.21req/s] [内存消耗：3,797.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000897s ]
+[ info ] [ LANG ] /data/code/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000119s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.designdata',
+    2 => 'tree_details',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://localhost:8082/',
+  'origin' => 'http://localhost:8082',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'token' => 'f19d86f0-75e4-4af7-b60b-cdb3d09e4fa6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '23',
+  'connection' => 'keep-alive',
+  'host' => 'api.tao5g.cn',
+)
+[ info ] [ PARAM ] array (
+  'company' => '095a3f3711',
+  'id' => '2',
+)
+[ info ] [ LANG ] /data/code/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000733s ]
+[ info ] [ BEHAVIOR ] Run \addons\csmding\Csmding @module_init [ RunTime:0.001278s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Designdata->tree_details[ /data/code/application/api/controller/v1/Designdata.php ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\CORS @response_send [ RunTime:0.000079s ]
+[ info ] [ LOG ] INIT File

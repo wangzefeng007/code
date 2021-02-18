@@ -1,0 +1,172 @@
+---------------------------------------------------------------
+[ 2020-12-21T09:42:00+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.018546s] [吞吐率：53.92req/s] [内存消耗：2,940.01kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-21T09:42:01+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.016302s] [吞吐率：61.34req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-21T09:42:37+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016617s] [吞吐率：60.18req/s] [内存消耗：2,939.98kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-21T09:42:39+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.024209s] [吞吐率：41.31req/s] [内存消耗：3,710.56kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:46]
+---------------------------------------------------------------
+[ 2020-12-21T09:42:45+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/Datalink/get_field
+[运行时间：0.024427s] [吞吐率：40.94req/s] [内存消耗：3,710.56kb] [文件加载：147]
+[ error ] [2]Invalid argument supplied for foreach()[/data/code/application/api/controller/v1/Datalink.php:46]
+---------------------------------------------------------------
+[ 2020-12-21T09:45:50+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023412s] [吞吐率：42.71req/s] [内存消耗：3,729.99kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-21T10:12:16+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.117380s] [吞吐率：8.52req/s] [内存消耗：3,761.52kb] [文件加载：150]
+[ error ] [8]未定义数组索引: name[/data/code/application/api/controller/v1/Newsaveform.php:164]
+---------------------------------------------------------------
+[ 2020-12-21T10:50:39+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.022760s] [吞吐率：43.94req/s] [内存消耗：3,635.05kb] [文件加载：142]
+[ error ] [0]致命错误: Using $this when not in object context[/data/code/application/api/controller/v1/Datalink.php:91]
+---------------------------------------------------------------
+[ 2020-12-21T10:51:51+08:00 ] 117.28.115.92 GET api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.023143s] [吞吐率：43.21req/s] [内存消耗：3,635.73kb] [文件加载：142]
+[ error ] [0]致命错误: Using $this when not in object context[/data/code/application/api/controller/v1/Datalink.php:91]
+---------------------------------------------------------------
+[ 2020-12-21T10:53:03+08:00 ] 117.28.115.92 GET api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.022850s] [吞吐率：43.76req/s] [内存消耗：3,636.19kb] [文件加载：142]
+[ error ] [0]致命错误: Using $this when not in object context[/data/code/application/api/controller/v1/Datalink.php:91]
+---------------------------------------------------------------
+[ 2020-12-21T10:53:23+08:00 ] 117.28.115.92 GET api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.023375s] [吞吐率：42.78req/s] [内存消耗：3,635.90kb] [文件加载：142]
+[ error ] [0]致命错误: Using $this when not in object context[/data/code/application/api/controller/v1/Datalink.php:90]
+---------------------------------------------------------------
+[ 2020-12-21T10:54:02+08:00 ] 117.28.115.92 GET api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.022499s] [吞吐率：44.45req/s] [内存消耗：3,635.90kb] [文件加载：142]
+[ error ] [0]致命错误: Using $this when not in object context[/data/code/application/api/controller/v1/Datalink.php:90]
+---------------------------------------------------------------
+[ 2020-12-21T10:54:25+08:00 ] 117.28.115.92 GET api.tao5g.cn/api/v1/Datalink/get_formula
+[运行时间：0.022252s] [吞吐率：44.94req/s] [内存消耗：3,638.19kb] [文件加载：143]
+[ error ] [8192]Non-static method app\common\controller\Api::success() should not be called statically[/data/code/application/api/controller/v1/Datalink.php:90]
+---------------------------------------------------------------
+[ 2020-12-21T10:58:03+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.045081s] [吞吐率：22.18req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-21T10:58:03+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.028021s] [吞吐率：35.69req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-21T10:58:03+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.050884s] [吞吐率：19.65req/s] [内存消耗：2,939.98kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-21T14:13:38+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.024239s] [吞吐率：41.26req/s] [内存消耗：3,730.73kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-21T14:57:43+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.033041s] [吞吐率：30.27req/s] [内存消耗：3,775.70kb] [文件加载：147]
+[ error ] [2]gzdecode(): data error[/data/code/application/api/controller/v1/Excle.php:553]
+---------------------------------------------------------------
+[ 2020-12-21T15:58:13+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.026392s] [吞吐率：37.89req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-21T15:58:13+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.049060s] [吞吐率：20.38req/s] [内存消耗：2,939.98kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-21T15:58:13+08:00 ] 117.28.115.92 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.079107s] [吞吐率：12.64req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-21T16:49:44+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.035862s] [吞吐率：27.88req/s] [内存消耗：3,807.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:49:44+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.049537s] [吞吐率：20.19req/s] [内存消耗：3,807.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:49:44+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.032465s] [吞吐率：30.80req/s] [内存消耗：3,807.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.077059s] [吞吐率：12.98req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.106414s] [吞吐率：9.40req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.068089s] [吞吐率：14.69req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.078311s] [吞吐率：12.77req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.062252s] [吞吐率：16.06req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.086286s] [吞吐率：11.59req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:20+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024156s] [吞吐率：41.40req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024409s] [吞吐率：40.97req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.056091s] [吞吐率：17.83req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.045053s] [吞吐率：22.20req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.058072s] [吞吐率：17.22req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.100120s] [吞吐率：9.99req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.036726s] [吞吐率：27.23req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.096681s] [吞吐率：10.34req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024569s] [吞吐率：40.70req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:50:21+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.023819s] [吞吐率：41.98req/s] [内存消耗：3,811.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:53:01+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024805s] [吞吐率：40.31req/s] [内存消耗：3,807.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T16:54:07+08:00 ] 117.28.115.92 POST api.tao5g.cn/api/v1/excle/spread_index
+[运行时间：0.024071s] [吞吐率：41.54req/s] [内存消耗：3,807.96kb] [文件加载：145]
+[ error ] [0]variable type error：array[/data/code/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2020-12-21T19:51:53+08:00 ] 183.250.70.247 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023103s] [吞吐率：43.28req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]

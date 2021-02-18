@@ -1,0 +1,244 @@
+---------------------------------------------------------------
+[ 2020-12-19T09:52:00+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022073s] [吞吐率：45.30req/s] [内存消耗：3,725.82kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-19T09:52:01+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.071841s] [吞吐率：13.92req/s] [内存消耗：3,747.43kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:73]
+---------------------------------------------------------------
+[ 2020-12-19T09:52:05+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.072877s] [吞吐率：13.72req/s] [内存消耗：3,747.43kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:73]
+---------------------------------------------------------------
+[ 2020-12-19T09:54:43+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.072442s] [吞吐率：13.80req/s] [内存消耗：3,747.52kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-19T09:56:41+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.071988s] [吞吐率：13.89req/s] [内存消耗：3,747.52kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-19T09:57:20+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.074799s] [吞吐率：13.37req/s] [内存消耗：3,747.52kb] [文件加载：150]
+[ error ] [8]未定义数组索引: list[/data/code/application/api/controller/v1/Newsaveform.php:72]
+---------------------------------------------------------------
+[ 2020-12-19T09:59:51+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.034305s] [吞吐率：29.15req/s] [内存消耗：3,725.39kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T10:27:39+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017172s] [吞吐率：58.23req/s] [内存消耗：2,936.41kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T10:27:40+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017430s] [吞吐率：57.37req/s] [内存消耗：2,936.41kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T10:27:41+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017208s] [吞吐率：58.11req/s] [内存消耗：2,936.38kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T10:54:58+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016912s] [吞吐率：59.13req/s] [内存消耗：2,936.58kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T10:54:59+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017140s] [吞吐率：58.34req/s] [内存消耗：2,936.58kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T10:55:00+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016868s] [吞吐率：59.28req/s] [内存消耗：2,936.54kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T11:00:13+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023092s] [吞吐率：43.30req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T11:00:13+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.025355s] [吞吐率：39.44req/s] [内存消耗：3,758.92kb] [文件加载：152]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'list_key' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T11:04:53+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017353s] [吞吐率：57.63req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T11:04:54+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017504s] [吞吐率：57.13req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T11:04:56+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017023s] [吞吐率：58.74req/s] [内存消耗：2,936.55kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T14:20:14+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022290s] [吞吐率：44.86req/s] [内存消耗：3,726.30kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-19T14:24:10+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017120s] [吞吐率：58.41req/s] [内存消耗：2,936.58kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T14:24:11+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017776s] [吞吐率：56.26req/s] [内存消耗：2,936.58kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T14:24:12+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016962s] [吞吐率：58.96req/s] [内存消耗：2,936.54kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T14:39:27+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017194s] [吞吐率：58.16req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T14:39:28+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017544s] [吞吐率：57.00req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T14:39:29+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016869s] [吞吐率：59.28req/s] [内存消耗：2,936.55kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T14:39:39+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023638s] [吞吐率：42.30req/s] [内存消耗：3,726.86kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-19T14:40:05+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023236s] [吞吐率：43.04req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T14:40:05+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.026214s] [吞吐率：38.15req/s] [内存消耗：3,758.92kb] [文件加载：152]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'list_key' doesn't have a default value[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T15:14:42+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.117067s] [吞吐率：8.54req/s] [内存消耗：3,761.70kb] [文件加载：150]
+[ error ] [8]未定义变量: groupId[/data/code/application/api/controller/v1/Newsaveform.php:150]
+---------------------------------------------------------------
+[ 2020-12-19T15:16:15+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.122617s] [吞吐率：8.16req/s] [内存消耗：3,760.47kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[folderId][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-19T15:17:39+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.121813s] [吞吐率：8.21req/s] [内存消耗：3,763.48kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[showrigth][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-19T15:18:37+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.117436s] [吞吐率：8.52req/s] [内存消耗：3,763.51kb] [文件加载：149]
+[ error ] [0]数据表字段不存在:[showrigtht][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2020-12-19T15:22:13+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.117043s] [吞吐率：8.54req/s] [内存消耗：3,760.66kb] [文件加载：150]
+[ error ] [8]未定义变量: listkey[/data/code/application/api/controller/v1/Newsaveform.php:141]
+---------------------------------------------------------------
+[ 2020-12-19T15:50:41+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024305s] [吞吐率：41.14req/s] [内存消耗：3,725.56kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T16:10:03+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016932s] [吞吐率：59.06req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T16:16:10+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017192s] [吞吐率：58.17req/s] [内存消耗：2,936.59kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T16:16:11+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017514s] [吞吐率：57.10req/s] [内存消耗：2,936.55kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T16:16:44+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022831s] [吞吐率：43.80req/s] [内存消耗：3,725.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T16:16:57+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.022521s] [吞吐率：44.40req/s] [内存消耗：3,730.70kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-19T16:39:53+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024581s] [吞吐率：40.68req/s] [内存消耗：3,725.52kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T18:04:55+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.050992s] [吞吐率：19.61req/s] [内存消耗：3,728.16kb] [文件加载：147]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T18:04:55+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.070466s] [吞吐率：14.19req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T18:04:55+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.023371s] [吞吐率：42.79req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T18:05:03+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.084247s] [吞吐率：11.87req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T18:05:03+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.074452s] [吞吐率：13.43req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T18:05:03+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.101639s] [吞吐率：9.84req/s] [内存消耗：3,728.16kb] [文件加载：147]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T18:06:52+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.067820s] [吞吐率：14.74req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T18:06:52+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.056486s] [吞吐率：17.70req/s] [内存消耗：3,728.20kb] [文件加载：147]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T18:06:52+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.062023s] [吞吐率：16.12req/s] [内存消耗：3,728.16kb] [文件加载：147]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T18:10:33+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.016506s] [吞吐率：60.58req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T18:16:35+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.017271s] [吞吐率：57.90req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T18:16:36+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.017275s] [吞吐率：57.89req/s] [内存消耗：2,939.98kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T18:29:11+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024049s] [吞吐率：41.58req/s] [内存消耗：3,725.56kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T18:29:18+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.023076s] [吞吐率：43.33req/s] [内存消耗：3,725.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T18:39:25+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021434s] [吞吐率：46.65req/s] [内存消耗：3,729.99kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2020-12-19T18:39:25+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.074319s] [吞吐率：13.46req/s] [内存消耗：3,753.72kb] [文件加载：150]
+[ error ] [8]未定义数组索引: name[/data/code/application/api/controller/v1/Newsaveform.php:155]
+---------------------------------------------------------------
+[ 2020-12-19T18:39:53+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.022092s] [吞吐率：45.27req/s] [内存消耗：3,725.47kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2020-12-19T18:40:00+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_formlist
+[运行时间：0.017810s] [吞吐率：56.15req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: category_id[/data/code/application/api/controller/v1/Datalink.php:23]
+---------------------------------------------------------------
+[ 2020-12-19T18:40:01+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_structure
+[运行时间：0.018187s] [吞吐率：54.98req/s] [内存消耗：2,940.02kb] [文件加载：136]
+[ error ] [8]未定义数组索引: formlist_id[/data/code/application/api/controller/v1/Datalink.php:28]
+---------------------------------------------------------------
+[ 2020-12-19T18:40:02+08:00 ] 117.30.195.167 OPTIONS api.tao5g.cn/api/v1/Datalink/get_file
+[运行时间：0.016562s] [吞吐率：60.38req/s] [内存消耗：2,939.98kb] [文件加载：136]
+[ error ] [8]未定义数组索引: structure_id[/data/code/application/api/controller/v1/Datalink.php:33]
+---------------------------------------------------------------
+[ 2020-12-19T18:40:31+08:00 ] 117.30.195.167 POST api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.065905s] [吞吐率：15.17req/s] [内存消耗：3,751.17kb] [文件加载：150]
+[ error ] [8]未定义数组索引: name[/data/code/application/api/controller/v1/Newsaveform.php:155]

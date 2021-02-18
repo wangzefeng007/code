@@ -1,0 +1,64 @@
+---------------------------------------------------------------
+[ 2021-01-16T11:09:55+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.022713s] [吞吐率：44.03req/s] [内存消耗：3,734.91kb] [文件加载：144]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-16T11:10:05+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.024708s] [吞吐率：40.47req/s] [内存消耗：3,735.52kb] [文件加载：144]
+[ error ] [8]未定义数组索引: secret_key[/data/code/application/api/controller/v1/Sortcopy.php:108]
+---------------------------------------------------------------
+[ 2021-01-16T11:20:48+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.161533s] [吞吐率：6.19req/s] [内存消耗：3,844.33kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T14:26:19+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.168806s] [吞吐率：5.92req/s] [内存消耗：3,844.39kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T14:53:45+08:00 ] 27.154.112.158 POST api.tao5g.cn/api/dd/beginprocess/save_form
+[运行时间：0.028110s] [吞吐率：35.57req/s] [内存消耗：3,643.13kb] [文件加载：142]
+[ error ] [0]数据表字段不存在:[company_id][/data/code/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2021-01-16T14:55:15+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.171030s] [吞吐率：5.85req/s] [内存消耗：3,844.37kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T15:01:55+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.023993s] [吞吐率：41.68req/s] [内存消耗：3,742.59kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]
+---------------------------------------------------------------
+[ 2021-01-16T15:39:51+08:00 ] 211.97.131.59 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.169555s] [吞吐率：5.90req/s] [内存消耗：3,844.38kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T16:45:04+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/apply/add
+[运行时间：0.024814s] [吞吐率：40.30req/s] [内存消耗：3,726.45kb] [文件加载：146]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'company_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-16T16:45:30+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/formtree/save_tree_node
+[运行时间：0.024008s] [吞吐率：41.65req/s] [内存消耗：3,739.48kb] [文件加载：147]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'apply_id' cannot be null[/data/code/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2021-01-16T16:53:26+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/generatekey
+[运行时间：0.023340s] [吞吐率：42.84req/s] [内存消耗：3,734.77kb] [文件加载：144]
+[ error ] [8]未定义数组索引: id[/data/code/application/api/controller/v1/Sortcopy.php:75]
+---------------------------------------------------------------
+[ 2021-01-16T16:54:24+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Sortcopy/usekey
+[运行时间：0.023811s] [吞吐率：42.00req/s] [内存消耗：3,735.38kb] [文件加载：144]
+[ error ] [8]未定义数组索引: secret_key[/data/code/application/api/controller/v1/Sortcopy.php:108]
+---------------------------------------------------------------
+[ 2021-01-16T16:56:48+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.173231s] [吞吐率：5.77req/s] [内存消耗：3,844.45kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T17:25:16+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.184151s] [吞吐率：5.43req/s] [内存消耗：3,844.37kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T17:39:19+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/datalink/get_group_list
+[运行时间：0.195704s] [吞吐率：5.11req/s] [内存消耗：3,844.37kb] [文件加载：148]
+[ error ] [8]未定义数组索引: access_token[/data/code/application/api/controller/v1/Datalink.php:158]
+---------------------------------------------------------------
+[ 2021-01-16T17:39:51+08:00 ] 27.154.112.158 OPTIONS api.tao5g.cn/api/v1/Newsaveform/form_save
+[运行时间：0.021792s] [吞吐率：45.89req/s] [内存消耗：3,742.63kb] [文件加载：145]
+[ error ] [8]未定义数组索引: form_strstructure[/data/code/application/api/controller/v1/Newsaveform.php:22]

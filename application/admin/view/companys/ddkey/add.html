@@ -1,0 +1,42 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('AgentId')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ddkey" class="form-control" name="agentId" type="text">
+        </div>
+    </div> 
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Appsecret')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-appSecret" class="form-control" name="appSecret" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('AppKey')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ddst" class="form-control" name="appKey" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Company_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <!--<input id="c-company_id" data-rule="required" data-source="company/index" class="form-control selectpage" name="row[company_id]" type="text" value="">-->
+            
+               <select id="c-pid" data-rule="required" class="form-control selectpicker" name="company_id"> 
+                 {foreach name="list_company" item="vo"}
+                <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+               </select>
+        </div>
+        
+    </div> 
+   
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('添加公司')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>
